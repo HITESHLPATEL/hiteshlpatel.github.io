@@ -86,8 +86,8 @@ author:
   location         : "NYC, NA"
   employer         : "Oracle"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : ""
-  email            : "@oracle.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=R3X_R9UAAAAJ"
+  email            : "hitesh.patel945@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : ""
+  linkedin         : "hitesh-laxmichand-patel-63ba9210a"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
