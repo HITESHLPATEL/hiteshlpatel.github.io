@@ -11,10 +11,7 @@ author_profile: true
 
 <div style="box-shadow: 0 4px 12px rgba(0,0,0,0.08); border-radius:10px; padding:20px; margin-bottom:24px; background-color:white">
 
-<span style="font-size:12px; font-weight:600; color:white; background:#007acc; padding:4px 8px; border-radius:4px;">Active R&D</span>
-
-**<span style="font-size: 18px">Oracle Code Assistant</span>**  
-I was part of the AI/ML R&D team behind [Oracle Code Assist](https://www.oracle.com/news/announcement/oracle-code-assist-can-help-developers-build-applications-faster-with-ai-2024-05-07/), Oracle’s enterprise-grade coding assistant powered by large language models and optimized for Java, SQL, and OCI-based application development. I contributed to the development of foundation models that generate context-aware code, explain complex logic, suggest upgrades, and create tests — all integrated seamlessly within developer IDEs. The tool was featured at Oracle CloudWorld 2024 and recognized across industry press.
+<span style="font-size:12px; font-weight:600; color:white; background:#007acc; padding:4px 8px; border-radius:4px;">Active Oracle Code Assistant</span> I was part of the AI/ML R&D team behind [Oracle Code Assist](https://www.oracle.com/news/announcement/oracle-code-assist-can-help-developers-build-applications-faster-with-ai-2024-05-07/), Oracle’s enterprise-grade coding assistant powered by large language models and optimized for Java, SQL, and OCI-based application development. I contributed to the development of foundation models that generate context-aware code, explain complex logic, suggest upgrades, and create tests — all integrated seamlessly within developer IDEs. The tool was featured at Oracle CloudWorld 2024 and recognized across industry press.
 
 **News Coverage:**  
 <ul>
@@ -30,7 +27,7 @@ I was part of the AI/ML R&D team behind [Oracle Code Assist](https://www.oracle.
 
 <div style="box-shadow: 0 4px 12px rgba(0,0,0,0.08); border-radius:10px; padding:20px; margin-bottom:24px; background-color:white">
 
-<span style="font-size:12px; font-weight:600; color:white; background:#6c757d; padding:4px 8px; border-radius:4px;">Foundational AI</span>
+<span style="font-size:12px; font-weight:600; color:white; background:#6c757d; padding:4px 8px; border-radius:4px;">OCI Vision</span>
 
 **<span style="font-size: 18px">OCI Vision, Oracle Cloud’s First AI Service</span>**  
 I led R&D on Oracle’s first production-scale document understanding and image classification models for [OCI Vision](https://www.oracle.com/artificial-intelligence/vision/), launched as part of the [OCI AI Services suite](https://www.oracle.com/news/announcement/oci-ai-services-launch-2021-11-03/). My work focused on building deep learning systems for layout analysis, table detection, and visual classification — enabling automation across documents and images in finance, logistics, and manufacturing. This initiative laid the foundation for Oracle’s applied AI offerings and continues to support enterprise-grade solutions.
