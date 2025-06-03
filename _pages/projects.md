@@ -9,7 +9,7 @@ author_profile: true
 
 ## Active Projects
 
-<div style="box-shadow: 0 4px 12px rgba(0,0,0,0.08); border-radius:10px; padding:24px; margin-bottom:32px; background-color:white">
+<div style="box-shadow: 0 4px 12px rgba(0,0,0,0.08); border-radius:10px; padding:24px; margin-bottom:32px; background-color:white; color:#111111;">
 
 <h3 style="color:#0056b3; font-size: 24px; margin-top: 0;">Oracle Code Assistant</h3>
 
@@ -27,7 +27,7 @@ I was part of the AI/ML R&D team behind <a href="https://www.oracle.com/news/ann
 
 ## Projects Previously Led
 
-<div style="box-shadow: 0 4px 12px rgba(0,0,0,0.08); border-radius:10px; padding:24px; margin-bottom:32px; background-color:white">
+<div style="box-shadow: 0 4px 12px rgba(0,0,0,0.08); border-radius:10px; padding:24px; margin-bottom:32px; background-color:white; color:#111111;">
 
 <h3 style="color:#0056b3; font-size: 24px; margin-top: 0;">OCI Vision, Oracle Cloud’s First AI Service</h3>
 
