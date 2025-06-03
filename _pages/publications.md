@@ -25,4 +25,12 @@ Hansa Meghwani, Amit Agarwal, Priyaranjan Pattnayak, **Hitesh Laxmichand Patel**
 
 - **[SpeechWeave: Diverse Multilingual Synthetic Text & Audio Data Generation Pipeline for Training Text to Speech Models]()**.
 <span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">ACL Industry Track '25</span>  
-Karan Dua, Puneet Mittal, Ranjeet Gupta, **Hitesh Laxmichand Patel**, 
+Karan Dua, Puneet Mittal, Ranjeet Gupta, **Hitesh Laxmichand Patel**,
+
+- **[SweEval: Do LLMs Really Swear? A Safety Benchmark for Testing Limits for Enterprise Use](https://aclanthology.org/2025.naacl-industry.46.pdf)**.
+<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">NAACL Industry Track '25</span>  
+**Hitesh Laxmichand Patel**, Amit Agarwal, Arion Das, Bhargava Kumar, Srikant Panda, Priyaranjan Pattnayak, Taki Hasan Rafi, Tejaswini Kumar, Dong-Kyu Chae
+
+- **[Hybrid AI for Responsive Multi-Turn Online Conversations with Novel Dynamic Routing and Feedback Adaptation](https://aclanthology.org/2025.knowledgenlp-1.20.pdf)**.
+<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">NAACL Knowledge NLP Workshop '25</span>  
+Priyaranjan Pattnayak, Amit Agarwal, Hansa Meghwani, **Hitesh Laxmichand Patel**, Srikant Panda
