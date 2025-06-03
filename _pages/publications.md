@@ -17,7 +17,7 @@ Samuel Cahyawijaya, Holy Lovenia, Joel Ruben Antony Moniz, Tack Hwa Wong, Mohamm
 
 - **[MVTamperBench: Evaluating Robustness of Vision-Language Models](https://arxiv.org/pdf/2412.19794)**.
 <span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">ACL '25</span>  
-Amit Agarwal, Srikant Panda, Angeline Charles, Bhargava Kumar, **Hitesh Laxmichand Patel**, Priyaranjan Pattnayak, Taki Hasan Rafi, Tejaswini Kumar, , Hansa Meghwani, Karan Gupta, Dong-Kyu Chae
+Amit Agarwal, Srikant Panda, Angeline Charles, Bhargava Kumar, **Hitesh Laxmichand Patel**, Priyaranjan Pattnayak, Taki Hasan Rafi, Tejaswini Kumar, Hansa Meghwani, Karan Gupta, Dong-Kyu Chae
 
 - **[Hard Negative Mining for Domain-Specific Retrieval in Enterprise Systems](https://arxiv.org/pdf/2505.18366)**.
 <span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">ACL '25</span>  
