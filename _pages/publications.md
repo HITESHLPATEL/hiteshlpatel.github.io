@@ -20,9 +20,9 @@ Samuel Cahyawijaya, Holy Lovenia, Joel Ruben Antony Moniz, Tack Hwa Wong, Mohamm
 Amit Agarwal, Srikant Panda, Angeline Charles, Bhargava Kumar, **Hitesh Laxmichand Patel**, Priyaranjan Pattnayak, Taki Hasan Rafi, Tejaswini Kumar, Hansa Meghwani, Karan Gupta, Dong-Kyu Chae
 
 - **[Hard Negative Mining for Domain-Specific Retrieval in Enterprise Systems](https://arxiv.org/pdf/2505.18366)**.
-<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">ACL '25</span>  
+<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">ACL Industry Track '25</span>  
 Hansa Meghwani, Amit Agarwal, Priyaranjan Pattnayak, **Hitesh Laxmichand Patel**, Srikant Panda
 
 - **[SpeechWeave: Diverse Multilingual Synthetic Text & Audio Data Generation Pipeline for Training Text to Speech Models]()**.
-<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">ACL '25</span>  
+<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">ACL Industry Track '25</span>  
 Karan Dua, Puneet Mittal, Ranjeet Gupta, **Hitesh Laxmichand Patel**, 
