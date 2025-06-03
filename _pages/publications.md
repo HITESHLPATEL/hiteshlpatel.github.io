@@ -23,6 +23,6 @@ Amit Agarwal, Srikant Panda, Angeline Charles, Bhargava Kumar, **Hitesh Laxmicha
 <span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">ACL '25</span>  
 Hansa Meghwani, Amit Agarwal, Priyaranjan Pattnayak, **Hitesh Laxmichand Patel**, Srikant Panda
 
-- **[SpeechWeave: Diverse Multilingual Synthetic Text & Audio Data Generation Pipeline for Training Text to Speech Models](https://arxiv.org/pdf/2412.19794)**.
+- **[SpeechWeave: Diverse Multilingual Synthetic Text & Audio Data Generation Pipeline for Training Text to Speech Models]()**.
 <span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">ACL '25</span>  
 Karan Dua, Puneet Mittal, Ranjeet Gupta, **Hitesh Laxmichand Patel**, 
