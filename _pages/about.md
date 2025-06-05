@@ -1,9 +1,11 @@
 ---
-layout: single
-title: "About"
-permalink: /about/
+permalink: /
+title: "About me"
+excerpt: "About me"
 author_profile: true
-nav_order: 1
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 ![Alt text](/images/robots.png)
