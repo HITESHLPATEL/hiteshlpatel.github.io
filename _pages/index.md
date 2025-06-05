@@ -1,9 +1,9 @@
 ---
 layout: single
-title: "Hitesh Laxmichand Patel"
+title: "Hitesh Laxmichand Patel’s Personal Website"
 permalink: /
 ---
 
-# Hitesh Laxmichand Patel
+# Welcome
 
-Senior Applied Scientist at Oracle. Welcome to my personal website.
+Hi, I’m Hitesh Laxmichand Patel — Senior Applied Scientist at Oracle. This website showcases my research, projects, and publications.
