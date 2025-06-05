@@ -1,12 +1,11 @@
 ---
-permalink: /
-title: "About me"
-excerpt: "About me"
+layout: single
+title: "About"
+permalink: /about/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+nav_order: 1
 ---
+
 ![Alt text](/images/robots.png)
 
 I'm a Senior Applied Scientist and Tech Lead at Oracle with over 8 years of experience building large-scale AI systems. My current focus is on Responsible AI, where I lead work on LLM alignment, safety tuning, content moderation, and PII detection to ensure secure and ethical AI deployment across enterprise use cases. I'm especially passionate about creating culturally inclusive and regionally adaptive models that perform reliably in diverse global settings.
