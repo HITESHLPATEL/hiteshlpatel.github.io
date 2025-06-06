@@ -4,5 +4,5 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
-- 🏆 __May 27, 2025__ Our paper "" 
-- __May 6, 2025__ 
+- 🏆 __May 15, 2025__ Four papers accepted at ACL, including one in the Main conference, one in Findings, and two in the Industry Track. 
+
