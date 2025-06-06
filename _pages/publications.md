@@ -34,3 +34,7 @@ Karan Dua, Puneet Mittal, Ranjeet Gupta, **Hitesh Laxmichand Patel**,
 - **[Hybrid AI for Responsive Multi-Turn Online Conversations with Novel Dynamic Routing and Feedback Adaptation](https://aclanthology.org/2025.knowledgenlp-1.20.pdf)**.
 <span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">NAACL Knowledge NLP Workshop '25</span>  
 Priyaranjan Pattnayak, Amit Agarwal, Hansa Meghwani, **Hitesh Laxmichand Patel**, Srikant Panda
+
+- **[Instance-Aware Test-Time Adaptation for Domain Generalization]()**.
+<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">DASFAA 2025</span>  
+Taki Hasan Rafi, Serbeter Karlo, Amit Agarwal, **Hitesh Laxmichand Patel**, Bhargava Kumar, and Dong-Kyu Chae
