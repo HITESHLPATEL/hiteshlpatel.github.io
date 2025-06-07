@@ -43,3 +43,26 @@ Priyaranjan Pattnayak, Amit Agarwal, Hansa Meghwani, **Hitesh Laxmichand Patel**
 - **[Instance-Aware Test-Time Adaptation for Domain Generalization]()**.
 <span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">DASFAA 2025</span>  
 Taki Hasan Rafi, Serbeter Karlo, Amit Agarwal, **Hitesh Laxmichand Patel**, Bhargava Kumar, and Dong-Kyu Chae
+
+- **[Tokenization Matters: Improving Zero-Shot NER for Indic Languages](https://arxiv.org/pdf/2504.16977)**.
+<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">IEEE 2025</span>  
+Priyaranjan Pattnayak, **Hitesh Laxmichand Patel**, Amit Agarwal
+
+- **[Clinical QA 2.0: Multi-Task Learning for Answer Extraction and Categorization](https://arxiv.org/pdf/2502.13108)**.
+<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">IEEE 2025</span>  
+Priyaranjan Pattnayak, **Hitesh Laxmichand Patel**, Amit Agarwal, Bhargava Kumar, Srikant Panda, Tejaswini Kumar
+
+
+### 2024
+
+- **[LLM for Barcodes: Generating Diverse Synthetic Data for Identity Documents](https://arxiv.org/pdf/2411.14962)**.
+<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">Springer 2024</span>  **Hitesh Laxmichand Patel**, Amit Agarwal, Bhargava Kumar, Karan Gupta, Priyaranjan Pattnayak
+
+- **[Leveraging Machine Learning for Network Redundancy Optimization, Cost Reduction, and Latency Improvement in IoT Systems](https://ieeexplore.ieee.org/abstract/document/10609903)**.
+<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">IEEE 2024</span>  
+Manvendra Sharma, Karan Gupta, **Hitesh Laxmichand Patel**
+
+- **[Survey of Large Multimodal Model Datasets, Application Categories and Taxonomy](https://arxiv.org/pdf/2412.17759)**.
+<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">Springer 2024</span>  
+Priyaranjan Pattnayak, **Hitesh Laxmichand Patel**, Bhargava Kumar, Amit Agarwal, Ishan Banerjee, Srikant Panda, Tejaswini Kumar
+
