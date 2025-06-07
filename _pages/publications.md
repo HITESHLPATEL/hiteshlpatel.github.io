@@ -56,13 +56,13 @@ Priyaranjan Pattnayak, **Hitesh Laxmichand Patel**, Amit Agarwal, Bhargava Kumar
 ### 2024
 
 - **[LLM for Barcodes: Generating Diverse Synthetic Data for Identity Documents](https://arxiv.org/pdf/2411.14962)**.
-<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">Springer 2024</span>  **Hitesh Laxmichand Patel**, Amit Agarwal, Bhargava Kumar, Karan Gupta, Priyaranjan Pattnayak
+<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">Springer 2024</span>
+**Hitesh Laxmichand Patel**, Amit Agarwal, Bhargava Kumar, Karan Gupta, Priyaranjan Pattnayak
 
 - **[Leveraging Machine Learning for Network Redundancy Optimization, Cost Reduction, and Latency Improvement in IoT Systems](https://ieeexplore.ieee.org/abstract/document/10609903)**.
 <span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">IEEE 2024</span>  
 Manvendra Sharma, Karan Gupta, **Hitesh Laxmichand Patel**
 
 - **[Survey of Large Multimodal Model Datasets, Application Categories and Taxonomy](https://arxiv.org/pdf/2412.17759)**.
-<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">Springer 2024</span>  
-Priyaranjan Pattnayak, **Hitesh Laxmichand Patel**, Bhargava Kumar, Amit Agarwal, Ishan Banerjee, Srikant Panda, Tejaswini Kumar
+<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">Springer 2024</span> Priyaranjan Pattnayak, **Hitesh Laxmichand Patel**, Bhargava Kumar, Amit Agarwal, Ishan Banerjee, Srikant Panda, Tejaswini Kumar
 
