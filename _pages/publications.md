@@ -12,11 +12,11 @@ redirect_from:
 
 ### 2025
 
-**[Who's Asking? Investigating Bias Through the Lens of Disability-Framed Queries in LLMs]()**.
+- **[Who's Asking? Investigating Bias Through the Lens of Disability-Framed Queries in LLMs]()**.
 <span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">ICCV 2025 Workshop CV4A11</span>  
 Vishnu Hari, Kalpana Panda, Srikant Panda, Amit Agarwal, **Hitesh Laxmichand Patel** 
 
- **[LegalMind: An Intelligent Solution for Legal Document Analysis with User-Centric UI and AI-Driven Capabilities in Mobile Devices]()**.
+- **[LegalMind: An Intelligent Solution for Legal Document Analysis with User-Centric UI and AI-Driven Capabilities in Mobile Devices]()**.
 <span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">CSCW '25</span>  
 Azmine Toushik Wasi, Mst Rafia Islam, Abdur Rahman, Tawfia Yeasmin, Amit Agarwal, **Hitesh Laxmichand Patel**, Taki Hasan Rafi, Dong-Kyu Chae
 
