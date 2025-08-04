@@ -12,6 +12,10 @@ redirect_from:
 
 ### 2025
 
+- **[Towards Robust Continual Test-Time Adaptation via Neighbor Filtration]()**.
+<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">CIKM'25</span>
+Taki Hasan Rafi, Amit Agarwal, **Hitesh Laxmichand Patel**, Dong-Kyu Chae
+
 - **[Who's Asking? Investigating Bias Through the Lens of Disability-Framed Queries in LLMs]()**.
 <span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">ICCV 2025 Workshop CV4A11</span>  
 Vishnu Hari, Kalpana Panda, Srikant Panda, Amit Agarwal, **Hitesh Laxmichand Patel** 
