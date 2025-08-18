@@ -56,11 +56,11 @@ Priyaranjan Pattnayak, Amit Agarwal, Hansa Meghwani, **Hitesh Laxmichand Patel**
 <span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">DASFAA 2025</span>  
 Taki Hasan Rafi, Serbeter Karlo, Amit Agarwal, **Hitesh Laxmichand Patel**, Bhargava Kumar, and Dong-Kyu Chae
 
-- **[Tokenization Matters: Improving Zero-Shot NER for Indic Languages](https://arxiv.org/pdf/2504.16977)**.
+- **[Tokenization Matters: Improving Zero-Shot NER for Indic Languages](https://ieeexplore.ieee.org/document/11103625)**.
 <span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">IEEE 2025</span>  
 Priyaranjan Pattnayak, **Hitesh Laxmichand Patel**, Amit Agarwal
 
-- **[Clinical QA 2.0: Multi-Task Learning for Answer Extraction and Categorization](https://arxiv.org/pdf/2502.13108)**.
+- **[Clinical QA 2.0: Multi-Task Learning for Answer Extraction and Categorization](https://ieeexplore.ieee.org/document/11103631)**.
 <span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">IEEE 2025</span>  
 Priyaranjan Pattnayak, **Hitesh Laxmichand Patel**, Amit Agarwal, Bhargava Kumar, Srikant Panda, Tejaswini Kumar
 
