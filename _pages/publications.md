@@ -12,6 +12,10 @@ redirect_from:
 
 ### 2025
 
+- **[AccessEval: Benchmarking Disability Bias in Large Language Models]()**.
+<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">EMNLP'25</span>
+Srikant Panda, Amit Agarwal, **Hitesh Laxmichand Patel**
+
 - **[Towards Robust Continual Test-Time Adaptation via Neighbor Filtration]()**.
 <span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">CIKM'25</span>
 Taki Hasan Rafi, Amit Agarwal, **Hitesh Laxmichand Patel**, Dong-Kyu Chae
