@@ -17,7 +17,7 @@ redirect_from:
 Srikant Panda, Amit Agarwal, **Hitesh Laxmichand Patel**
 
 - **[DAIQ: Auditing Demographic Attribute Inference from Question in LLMs](https://www.arxiv.org/pdf/2508.15830)**.
-<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">EMNLP'25</span>
+<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">Under Review</span>
 Srikant Panda, **Hitesh Laxmichand Patel**, Shahad Al-Khalifa, Amit Agarwal, Hend Al-Khalifa, Sharefah Al-Ghamdi
 
 - **[Towards Robust Continual Test-Time Adaptation via Neighbor Filtration]()**.
