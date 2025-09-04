@@ -16,11 +16,15 @@ redirect_from:
 <span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">EMNLP'25</span>
 Srikant Panda, Amit Agarwal, **Hitesh Laxmichand Patel**
 
+- **[DAIQ: Auditing Demographic Attribute Inference from Question in LLMs](https://www.arxiv.org/pdf/2508.15830)**.
+<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">EMNLP'25</span>
+Srikant Panda, **Hitesh Laxmichand Patel**, Shahad Al-Khalifa, Amit Agarwal, Hend Al-Khalifa, Sharefah Al-Ghamdi
+
 - **[Towards Robust Continual Test-Time Adaptation via Neighbor Filtration]()**.
 <span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">CIKM'25</span>
 Taki Hasan Rafi, Amit Agarwal, **Hitesh Laxmichand Patel**, Dong-Kyu Chae
 
-- **[Who's Asking? Investigating Bias Through the Lens of Disability-Framed Queries in LLMs]()**.
+- **[Who's Asking? Investigating Bias Through the Lens of Disability-Framed Queries in LLMs](https://www.arxiv.org/pdf/2508.15831)**.
 <span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">ICCV 2025 Workshop CV4A11</span>  
 Vishnu Hari, Kalpana Panda, Srikant Panda, Amit Agarwal, **Hitesh Laxmichand Patel** 
 
@@ -57,8 +61,7 @@ Karan Dua, Puneet Mittal, Ranjeet Gupta, **Hitesh Laxmichand Patel**,
 Priyaranjan Pattnayak, Amit Agarwal, Hansa Meghwani, **Hitesh Laxmichand Patel**, Srikant Panda
 
 - **[Instance-Aware Test-Time Adaptation for Domain Generalization]()**.
-<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">DASFAA 2025</span>  
-Taki Hasan Rafi, Serbeter Karlo, Amit Agarwal, **Hitesh Laxmichand Patel**, Bhargava Kumar, and Dong-Kyu Chae
+<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">DASFAA 2025</span>  Taki Hasan Rafi, Serbeter Karlo, Amit Agarwal, **Hitesh Laxmichand Patel**, Bhargava Kumar, and Dong-Kyu Chae
 
 - **[Tokenization Matters: Improving Zero-Shot NER for Indic Languages](https://ieeexplore.ieee.org/document/11103625)**.
 <span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">IEEE 2025</span>  
