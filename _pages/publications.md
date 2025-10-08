@@ -12,9 +12,29 @@ redirect_from:
 
 ### 2025
 
-- **[AccessEval: Benchmarking Disability Bias in Large Language Models]()**.
+- **[AccessEval: Benchmarking Disability Bias in Large Language Models](https://arxiv.org/abs/2509.22703)**.
 <span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">EMNLP'25</span>
 Srikant Panda, Amit Agarwal, **Hitesh Laxmichand Patel**
+
+- **[PCRI: Measuring Context Robustness in Multimodal Models for Enterprise Applications](https://www.arxiv.org/abs/2509.23879)**.
+<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">EMNLP Industry Track'25</span>
+**Hitesh Laxmichand Patel**, Amit Agarwal, Srikant Panda, Hansa Meghwani, Karan Dua, Paul Li, Tao Sheng, Sujith Ravi, Dan Roth
+
+- **[Pushing on Multilingual Reasoning Models with Language-Mixed Chain-of-Thought](https://arxiv.org/abs/2510.04230)**.
+<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">Under Review</span>
+Guijin Son, Donghun Yang, **Hitesh Laxmichand Patel**, Amit Agarwal, Hyunwoo Ko, Chanuk Lim, Srikant Panda, Minhyuk Kim, Nikunj Drolia, Dasol Choi, Kyong-Ha Lee, Youngjae Yu
+
+- **[FlexDoc: Parameterized Sampling for Diverse Multilingual Synthetic Documents for Training Document Understanding Models](https://arxiv.org/abs/2510.02133)**.
+<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">EMNLP Industry Track'25</span>
+Karan Dua, **Hitesh Laxmichand Patel**, Puneet Mittal, Ranjeet Gupta, Amit Agarwal, Praneet Pabolu, Srikant Panda, Hansa Meghwani, Graham Horwood, Fahad Shah
+
+- **[RCI: A Score for Evaluating Global and Local Reasoning in Multimodal Benchmarks](https://arxiv.org/abs/2509.23673)**.
+<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">EMNLP Industry Track'25</span>
+Amit Agarwal, **Hitesh Laxmichand Patel**, Srikant Panda, Hansa Meghwani, Jyotika Singh, Karan Dua, Paul Li, Tao Sheng, Sujith Ravi, Dan Roth
+
+- **[Aligning LLMs for Multilingual Consistency in Enterprise Applications](https://arxiv.org/abs/2509.23659)**.
+<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">EMNLP'25</span>
+Amit Agarwal, Hansa Meghwani, **Hitesh Laxmichand Patel**, Tao Sheng, Sujith Ravi, Dan Roth
 
 - **[DAIQ: Auditing Demographic Attribute Inference from Question in LLMs](https://www.arxiv.org/pdf/2508.15830)**.
 <span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">Under Review</span>
