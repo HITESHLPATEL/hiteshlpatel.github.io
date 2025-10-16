@@ -33,7 +33,7 @@ Karan Dua, **Hitesh Laxmichand Patel**, Puneet Mittal, Ranjeet Gupta, Amit Agarw
 Amit Agarwal, **Hitesh Laxmichand Patel**, Srikant Panda, Hansa Meghwani, Jyotika Singh, Karan Dua, Paul Li, Tao Sheng, Sujith Ravi, Dan Roth
 
 - **[Aligning LLMs for Multilingual Consistency in Enterprise Applications](https://arxiv.org/abs/2509.23659)**.
-<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">EMNLP'25</span>
+<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">EMNLP Industry Track'25</span>
 Amit Agarwal, Hansa Meghwani, **Hitesh Laxmichand Patel**, Tao Sheng, Sujith Ravi, Dan Roth
 
 - **[DAIQ: Auditing Demographic Attribute Inference from Question in LLMs](https://www.arxiv.org/pdf/2508.15830)**.
