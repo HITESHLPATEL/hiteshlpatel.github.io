@@ -4,7 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
-- 🏆 __September 15, 2025__ Five papers accepted at EMNLP, including one in the Main conference, and three in the Industry Track.
+- 🏆 __September 15, 2025__ Five papers accepted at EMNLP, including one in the Main conference, and four in the Industry Track.
 - 🏆 __August 15, 2025__ One paper accepted at ICCV CV4ALLy Workshop 2025.
 - 🏆 __August 4, 2025__ One paper accepted at CIKM 2025.
 - 🏆 __June 19, 2025__ One paper accepted at CSCW 2025.
