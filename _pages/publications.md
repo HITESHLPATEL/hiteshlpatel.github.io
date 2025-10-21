@@ -48,7 +48,7 @@ Taki Hasan Rafi, Amit Agarwal, **Hitesh Laxmichand Patel**, Dong-Kyu Chae
 <span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">ICCV 2025 Workshop CV4A11</span>  
 Vishnu Hari, Kalpana Panda, Srikant Panda, Amit Agarwal, **Hitesh Laxmichand Patel** 
 
-- **[LegalMind: An Intelligent Solution for Legal Document Analysis with User-Centric UI and AI-Driven Capabilities in Mobile Devices]()**.
+- **[LegalMind: An Intelligent Solution for Legal Document Analysis with User-Centric UI and AI-Driven Capabilities in Mobile Devices](https://dl.acm.org/doi/10.1145/3715070.3749262)**.
 <span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">CSCW '25</span>  
 Azmine Toushik Wasi, Mst Rafia Islam, Abdur Rahman, Tawfia Yeasmin, Amit Agarwal, **Hitesh Laxmichand Patel**, Taki Hasan Rafi, Dong-Kyu Chae
 
