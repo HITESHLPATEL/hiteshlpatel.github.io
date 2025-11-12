@@ -13,7 +13,7 @@ redirect_from:
 ### 2025
 
 - **[Learning from Unknown for Open-Set Test-Time Adaptation]()**.
-<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">CIKM'25</span>
+<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">WACV'25</span>
 Taki Hasan Rafi, Amit Agarwal, **Hitesh Laxmichand Patel**, Dong-Kyu Chae
 
 - **[AccessEval: Benchmarking Disability Bias in Large Language Models](https://arxiv.org/abs/2509.22703)**.
