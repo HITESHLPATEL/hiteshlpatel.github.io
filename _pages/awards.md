@@ -7,18 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-### Selected Society Affiliations 
-
-
-
-### Selected Leadership Awards
-
-
-
 ### Selected External Technical Recognition and Awards
 
--
+- **Best Social Impact Paper Award**, EMNLP Conference (2025) ([Twitter Post](https://x.com/emnlpmeeting/status/1986923462619734140?s=12))
+  - [AccessEval: Benchmarking Disability Bias in Large Language Models](https://aclanthology.org/2025.emnlp-main.1653/)
 
-
-<!-- The Outstanding Accomplishments celebrate projects, teams and individuals, which demonstrated exemplary
-teamwork, reuse and technical or professional excellence leading to high business and/or scientific impact.-->
