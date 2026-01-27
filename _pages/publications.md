@@ -10,12 +10,17 @@ redirect_from:
 
 ## Selected Publications
 
-### 2025
+### 2026
+
+- **[Pushing on Multilingual Reasoning Models with Language-Mixed Chain-of-Thought](https://arxiv.org/abs/2510.04230)**.
+<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">ICLR'26</span>
+Guijin Son, Donghun Yang, **Hitesh Laxmichand Patel**, Amit Agarwal, Hyunwoo Ko, Chanuk Lim, Srikant Panda, Minhyuk Kim, Nikunj Drolia, Dasol Choi, Kyong-Ha Lee, Youngjae Yu
 
 - **[Learning from Unknown for Open-Set Test-Time Adaptation]()**.
-<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">WACV'25</span>
+<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">WACV'26</span>
 Taki Hasan Rafi, Amit Agarwal, **Hitesh Laxmichand Patel**, Dong-Kyu Chae
 
+### 2025
 - **[AccessEval: Benchmarking Disability Bias in Large Language Models](https://arxiv.org/abs/2509.22703)**.
 <span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">EMNLP'25</span>
 Srikant Panda, Amit Agarwal, **Hitesh Laxmichand Patel**
@@ -23,10 +28,6 @@ Srikant Panda, Amit Agarwal, **Hitesh Laxmichand Patel**
 - **[PCRI: Measuring Context Robustness in Multimodal Models for Enterprise Applications](https://www.arxiv.org/abs/2509.23879)**.
 <span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">EMNLP'25</span>
 **Hitesh Laxmichand Patel**, Amit Agarwal, Srikant Panda, Hansa Meghwani, Karan Dua, Paul Li, Tao Sheng, Sujith Ravi, Dan Roth
-
-- **[Pushing on Multilingual Reasoning Models with Language-Mixed Chain-of-Thought](https://arxiv.org/abs/2510.04230)**.
-<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">Under Review</span>
-Guijin Son, Donghun Yang, **Hitesh Laxmichand Patel**, Amit Agarwal, Hyunwoo Ko, Chanuk Lim, Srikant Panda, Minhyuk Kim, Nikunj Drolia, Dasol Choi, Kyong-Ha Lee, Youngjae Yu
 
 - **[FlexDoc: Parameterized Sampling for Diverse Multilingual Synthetic Documents for Training Document Understanding Models](https://arxiv.org/abs/2510.02133)**.
 <span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">EMNLP'25</span>
