@@ -4,6 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+- 🏆 __February 20, 2026__ One paper accepted at CVPR 2026 Main Conference.
 - 🏆 __January 26, 2026__ One paper accepted at ICLR 2026 Main Conference.
 - 🏆 __November 15, 2025__ One paper accepted at WACV 2026 Main Conference.
 - 🏆 __November 2, 2025__ Received the Best Social Impact Paper Award at EMNLP 2025.
