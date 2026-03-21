@@ -36,6 +36,11 @@ Pedro Ortiz Suarez, Laurie Burchell, Catherine Arnett, Rafael Mosquera-Gómez, S
 <span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">Under Review</span>
 Mohammed Ali, Abdelrahman Abdallah, Amit Agarwal, **Hitesh Laxmichand Patel**, Adam Jatowt
 
+- **[A Review of Human-Centric Evaluation of Cultural Biases in Indic Languages in LLMs: Rethinking Research Directions]()**.
+<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">PAKDD'2026</span>
+Azmine Toushik Wasi, Omid Reza Heidari, MD Mohaymen Ul Anam, Abdur Rahman, Amit Agarwal, **Hitesh Laxmichand Patel**, Bhargava Kumar, Taki Hasan Rafi, Dong-Kyu Chae, 
+
+
 ### 2025
 - **[AccessEval: Benchmarking Disability Bias in Large Language Models](https://aclanthology.org/2025.emnlp-main.1653/)**.
 <span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">EMNLP'25</span>
