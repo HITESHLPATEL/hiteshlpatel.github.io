@@ -24,7 +24,7 @@ Eunsu Kim, Junyeong Park, Na Min An, Junseong Kim, **Hitesh Laxmichand Patel**,,
 <span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">ICLR'26</span>
 Guijin Son, Donghun Yang, **Hitesh Laxmichand Patel**, Amit Agarwal, Hyunwoo Ko, Chanuk Lim, Srikant Panda, Minhyuk Kim, Nikunj Drolia, Dasol Choi, Kyong-Ha Lee, Youngjae Yu
 
-- **[Learning from Unknown for Open-Set Test-Time Adaptation]()**.
+- **[Learning from Unknown for Open-Set Test-Time Adaptation](https://openaccess.thecvf.com/content/WACV2026/papers/Rafi_Learning_from_Unknown_for_Open-Set_Test-Time_Adaptation_WACV_2026_paper.pdf)**.
 <span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">WACV'26</span>
 Taki Hasan Rafi, Amit Agarwal, **Hitesh Laxmichand Patel**, Dong-Kyu Chae
 
