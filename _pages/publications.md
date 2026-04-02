@@ -51,7 +51,7 @@ Srikant Panda, Amit Agarwal, **Hitesh Laxmichand Patel**
 Priyaranjan Pattnayak, Sanchari Chowdhuri, Amit Agarwal, **Hitesh Laxmichand Patel**
 
 - **[A Diagnostic Framework for Auditing Reference-Free Vision-Language Metrics](https://aclanthology.org/2025.ijcnlp-long.142/)**.
-<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">AACl'25</span>
+<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">AACL'25</span>
 Angeline Charles, Srikant Panda, Amit Agarwal, **Hitesh Laxmichand Patel**, Priyaranjan Pattnayak, Bhargava Kumar, Tejaswini Kumar
 
 - **[PCRI: Measuring Context Robustness in Multimodal Models for Enterprise Applications](https://aclanthology.org/2025.emnlp-industry.14.pdf)**.
