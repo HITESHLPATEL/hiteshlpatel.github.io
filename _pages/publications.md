@@ -36,6 +36,10 @@ Pedro Ortiz Suarez, Laurie Burchell, Catherine Arnett, Rafael Mosquera-Gómez, S
 <span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">Under Review</span>
 Mohammed Ali, Abdelrahman Abdallah, Amit Agarwal, **Hitesh Laxmichand Patel**, Adam Jatowt
 
+- **[Think Twice Before You Write -- an Entropy-based Decoding Strategy to Enhance LLM Reasoning](https://arxiv.org/abs/2604.00018)**.
+<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">Under Review</span>
+Jiashu He, Meizhu Liu, Olaitan P Olaleye, Amit Agarwal, M. Avendi, Yassi Abbasi, Matthew Rowe, **Hitesh Laxmichand Patel**, Paul Li, Tao Sheng, Sujith Ravi, Dan Roth
+
 - **[A Review of Human-Centric Evaluation of Cultural Biases in Indic Languages in LLMs: Rethinking Research Directions]()**.
 <span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">PAKDD'2026</span>
 Azmine Toushik Wasi, Omid Reza Heidari, MD Mohaymen Ul Anam, Abdur Rahman, Amit Agarwal, **Hitesh Laxmichand Patel**, Bhargava Kumar, Taki Hasan Rafi, Dong-Kyu Chae, 
