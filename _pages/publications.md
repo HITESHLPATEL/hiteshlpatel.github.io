@@ -36,7 +36,7 @@ Pedro Ortiz Suarez, Laurie Burchell, Catherine Arnett, Rafael Mosquera-Gómez, S
 <span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">ACL'26</span>
 Mohammed Ali, Abdelrahman Abdallah, Amit Agarwal, **Hitesh Laxmichand Patel**, Adam Jatowt
 
-- **[SPENCE: A Syntactic Probe for Detecting Contamination in NL2SQL Benchmarks]()**.
+- **[SPENCE: A Syntactic Probe for Detecting Contamination in NL2SQL Benchmarks](https://arxiv.org/abs/2604.17771)**.
 <span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">ACL'26</span>
 Mohammadtaher Safarzadeh, **Hitesh Laxmichand Patel**, Afshin Oroojlooy, Graham Horwood, Dan Roth
 
