@@ -13,7 +13,7 @@ redirect_from:
 ### 2026
 
 - **[Judging What We Cannot Solve: A Consequence-Based Approach for Oracle-Free Evaluation of Research-Level Math](https://arxiv.org/pdf/2602.06291)**.
-<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">Under Review</span>
+<span style="font-size:13px; background:#eaf4ff; color:#0056b3; padding:2px 6px; margin-left:8px; border-radius:4px;">ICML'26</span>
 Guijin Son, Donghun Yang, **Hitesh Laxmichand Patel**, Hyunwoo Ko, Amit Agarwal, Sunghee Ahn, Kyong-Ha Lee, Youngjae Yu
 
 - **[World in a Frame: Understanding Culture Mixing as a New Challenge for Vision-Language Models](https://arxiv.org/abs/2511.22787)**.
