@@ -4,6 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+- 🏆 __April 30, 2026__ One paper accepted at ICML 2026(Spotlight) Main Conference.
 - 🏆 __April 6, 2026__ Four papers accepted at ACL 2026, including two in the Main conference and two in Findings.
 - 🏆 __March 21, 2026__ One paper accepted at PAKDD 2026 Main Conference.
 - 🏆 __February 20, 2026__ One paper accepted at CVPR 2026 Main Conference.
