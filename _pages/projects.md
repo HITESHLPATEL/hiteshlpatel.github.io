@@ -11,7 +11,7 @@ author_profile: true
 
 <div style="box-shadow: 0 4px 12px rgba(0,0,0,0.08); border-radius:10px; padding:24px; margin-bottom:32px; background-color:white; color:#111111;">
 
-<h3 style="color:#0056b3; font-size:24px; margin-top:0;">OCI Generative AI Guardrails and Enterprise AI Safety</h3>
+<h3 style="color:#0056b3; font-size:24px; margin-top:0;">OCI Generative AI Safety</h3>
 
 I contribute to research and model development for Oracle’s enterprise AI safety systems, with a focus on making large language models reliable enough for production use in real organizations.
 
