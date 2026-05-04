@@ -24,9 +24,7 @@ My work brings together LLM alignment, safety evaluation, privacy-aware AI, mult
 <ul>
   <li>Oracle Documentation: <a href="https://docs.oracle.com/en-us/iaas/Content/generative-ai/guardrails.htm">Guardrails for OCI Generative AI</a></li>
   <li>Oracle Release Notes: <a href="https://docs.oracle.com/iaas/releasenotes/generative-ai/ai-guardrails.htm">OCI Generative AI supports AI Guardrails for on-demand mode</a></li>
-  <li>Oracle Release Notes: <a href="https://docs.oracle.com/iaas/releasenotes/generative-ai/ai-guardrails-dedicated-endpoints.htm">AI Guardrails for dedicated AI cluster endpoints</a></li>
 </ul>
-
 </div>
 
 <div style="box-shadow: 0 4px 12px rgba(0,0,0,0.08); border-radius:10px; padding:24px; margin-bottom:32px; background-color:white; color:#111111;">
@@ -46,7 +44,6 @@ The project reflects my broader interest in applied foundation models: building 
   <li>Oracle Blog: <a href="https://blogs.oracle.com/cloud-infrastructure/oracle-code-assist-ai-companion-boost-velocity">Oracle Code Assist: AI companion to boost developer velocity</a></li>
   <li>Oracle Newsroom: <a href="https://www.oracle.com/news/announcement/ocw24-oracle-announces-new-ai-capabilities-to-help-accelerate-application-development-2024-09-10/">Oracle announces Code Assist beta at CloudWorld 2024</a></li>
 </ul>
-
 </div>
 
 ## Projects Previously Led
@@ -68,5 +65,4 @@ This effort combined computer vision research, document AI, information extracti
   <li>Oracle Newsroom: <a href="https://www.oracle.com/news/announcement/oci-ai-services-launch-2021-11-03/">Oracle launches OCI AI Services suite</a></li>
   <li>Oracle Blog: <a href="https://blogs.oracle.com/cloud-infrastructure/post/introducing-oracle-ai-services">Introducing Oracle AI Services</a></li>
 </ul>
-
 </div>
