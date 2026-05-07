@@ -9,11 +9,13 @@ author_profile: true
 ## Workshop Organization
  
 - **Workshop Organizer**, [GRAIL-V: Grounded Retrieval and Agentic Intelligence for Vision-Language](https://grailworkshops.github.io/), CVPR 2026.
+
 ## Program Committee & Reviewing
  
 - **Program Committee**, [SURGeLLM: Structured Understanding, Retrieval, and Generation in the LLM Era](https://surgellm.github.io/acl2026/), ACL 2026.
 - **Area Chair**, ACL, EMNLP Industry.
 - **Reviewer / Program Committee**, ICLR, CVPR, ACL, NAACL, EMNLP, KDD.
+
 ## Mentorship
  
 - **Mentor**, ACL Student Research Workshop (SRW), 2025.
