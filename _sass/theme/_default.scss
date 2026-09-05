@@ -6,7 +6,7 @@
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : #9ba1a6;
+$light-gray                 : #6b7178; // mid grey, 4.9:1 on white (was #9ba1a6, 2.6:1)
 $lighter-gray               : mix(#fff, $gray, 90%);
 
 /* Color codes used for the site */
@@ -36,12 +36,19 @@ $sidebar-screen-min-width   : 1024px;
     --global-code-background-color      : #fafafa;
     --global-code-text-color            : #{$darker-gray};
     --global-fig-caption-color          : mix(#fff,  #{$dark-gray}, 25%);
-    --global-link-color                 : #52adc8;
-    --global-link-color-hover           : mix(#000, #2f7f93, 25%);
-    --global-link-color-visited         : mix(#fff, #2f7f93, 25%);  
+    --global-link-color                 : #0056b3; // site accent, 7.0:1 on white
+    --global-link-color-hover           : #004086;
+    --global-link-color-visited         : #3378c2; // 4.6:1 on white
     --global-masthead-link-color        : #{$dark-gray};
     --global-masthead-link-color-hover  : mix(#000, #{$gray}, 25%);    
     --global-text-color                 : #{$dark-gray};
     --global-text-color-light           : #{$light-gray};
     --global-thead-color                : #{$lighter-gray};
+    /* project cards and venue badges (see _sass/_custom.scss) */
+    --global-card-bg-color              : #fff;
+    --global-card-border-color          : #{$lighter-gray};
+    --global-card-shadow                : 0 4px 12px rgba(0, 0, 0, 0.08);
+    --global-card-heading-color         : #0056b3;
+    --global-badge-bg-color             : #eaf4ff;
+    --global-badge-text-color           : #0056b3;
 }

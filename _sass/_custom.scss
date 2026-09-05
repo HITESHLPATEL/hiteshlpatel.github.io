@@ -1,0 +1,39 @@
+/* ==========================================================================
+   SITE-SPECIFIC COMPONENTS
+   Colors come from the theme variables in theme/_default.scss and theme/_dark.scss
+   so these follow the light/dark toggle.
+   ========================================================================== */
+
+.project-card {
+  padding: 24px;
+  margin-bottom: 32px;
+  border: 1px solid var(--global-card-border-color);
+  border-radius: 10px;
+  background-color: var(--global-card-bg-color);
+  box-shadow: var(--global-card-shadow);
+  color: var(--global-text-color);
+
+  h3 {
+    margin-top: 0;
+    font-size: 24px;
+    color: var(--global-card-heading-color);
+  }
+
+  .project-card__refs-label {
+    margin-bottom: 0.5em;
+  }
+
+  .project-card__refs {
+    margin-top: 0;
+  }
+}
+
+.venue-badge {
+  display: inline-block;
+  padding: 2px 6px;
+  margin-left: 8px;
+  border-radius: 4px;
+  font-size: 13px;
+  background: var(--global-badge-bg-color);
+  color: var(--global-badge-text-color);
+}
