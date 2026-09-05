@@ -52,3 +52,9 @@
     margin-right: 3px;
   }
 }
+
+/* standalone medal icon, e.g. in front of an award line on the news page */
+.award-icon {
+  margin-right: 2px;
+  color: var(--global-award-icon-color);
+}

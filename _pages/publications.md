@@ -55,7 +55,7 @@ Azmine Toushik Wasi, Omid Reza Heidari, MD Mohaymen Ul Anam, Abdur Rahman, Amit 
 
 ### 2025
 - **[AccessEval: Benchmarking Disability Bias in Large Language Models](https://aclanthology.org/2025.emnlp-main.1653/)**.
-<span class="venue-badge">EMNLP'25</span><span class="award-badge"><i class="fa-solid fa-trophy" aria-hidden="true"></i>Best Social Impact Paper Award</span>
+<span class="venue-badge">EMNLP'25</span><span class="award-badge"><i class="fa-solid fa-medal" aria-hidden="true"></i>Best Social Impact Paper Award</span>
 Srikant Panda, Amit Agarwal, **Hitesh Laxmichand Patel**
 
 - **[LLM-Guided Lifecycle-Aware Clustering of Multi-Turn Customer Support Conversations](https://aclanthology.org/2025.ijcnlp-long.170/)**.
