@@ -13,7 +13,7 @@ redirect_from:
 ### 2026
 
 - **[Judging What We Cannot Solve: A Consequence-Based Approach for Oracle-Free Evaluation of Research-Level Math](https://arxiv.org/pdf/2602.06291)**.
-<span class="venue-badge">ICML'26</span>
+<span class="venue-badge">ICML'26</span><span class="award-badge"><i class="fa-solid fa-star" aria-hidden="true"></i>Spotlight</span>
 Guijin Son, Donghun Yang, **Hitesh Laxmichand Patel**, Hyunwoo Ko, Amit Agarwal, Sunghee Ahn, Kyong-Ha Lee, Youngjae Yu
 
 - **[World in a Frame: Understanding Culture Mixing as a New Challenge for Vision-Language Models](https://openaccess.thecvf.com/content/CVPR2026/papers/Kim_World_in_a_Frame_Understanding_Culture_Mixing_as_a_New_CVPR_2026_paper.pdf)**.
@@ -55,7 +55,7 @@ Azmine Toushik Wasi, Omid Reza Heidari, MD Mohaymen Ul Anam, Abdur Rahman, Amit 
 
 ### 2025
 - **[AccessEval: Benchmarking Disability Bias in Large Language Models](https://aclanthology.org/2025.emnlp-main.1653/)**.
-<span class="venue-badge">EMNLP'25</span>
+<span class="venue-badge">EMNLP'25</span><span class="award-badge"><i class="fa-solid fa-trophy" aria-hidden="true"></i>Best Social Impact Paper Award</span>
 Srikant Panda, Amit Agarwal, **Hitesh Laxmichand Patel**
 
 - **[LLM-Guided Lifecycle-Aware Clustering of Multi-Turn Customer Support Conversations](https://aclanthology.org/2025.ijcnlp-long.170/)**.

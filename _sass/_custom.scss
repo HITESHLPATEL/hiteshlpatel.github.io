@@ -37,3 +37,18 @@
   background: var(--global-badge-bg-color);
   color: var(--global-badge-text-color);
 }
+
+.award-badge {
+  display: inline-block;
+  padding: 2px 6px;
+  margin-left: 6px;
+  border-radius: 4px;
+  font-size: 13px;
+  font-weight: 600;
+  background: var(--global-award-bg-color);
+  color: var(--global-award-text-color);
+
+  .fa-solid {
+    margin-right: 3px;
+  }
+}
