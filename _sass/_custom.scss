@@ -58,3 +58,15 @@
   margin-right: 2px;
   color: var(--global-award-icon-color);
 }
+
+/* Links in page content and archive lists: color carries the link,
+   the underline appears on hover and keyboard focus. */
+.archive a:not(.btn),
+.page__content a:not(.btn) {
+  text-decoration: none;
+
+  &:hover,
+  &:focus {
+    text-decoration: underline;
+  }
+}
