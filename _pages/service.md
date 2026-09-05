@@ -8,12 +8,12 @@ author_profile: true
 
 ## Workshop Organization
 
-- **Workshop Organizer**, [GRAIL-V: Grounded Retrieval and Agentic Intelligence for Vision-Language](https://grailworkshops.github.io/), CVPR 2026.
+- **Workshop Organizer**, [GRAIL-V: Grounded Retrieval and Agentic Intelligence for Vision-Language](https://grailworkshops.github.io/) <span class="venue-badge">CVPR'26</span>
 
 ## Program Committee & Reviewing
 
 - **Area Chair**, ACL, EMNLP Industry.
-- **Program Committee**, [SURGeLLM @ ACL 2026](https://surgellm.github.io/acl2026/).
+- **Program Committee**, [SURGeLLM Workshop](https://surgellm.github.io/acl2026/) <span class="venue-badge">ACL'26</span>
 - **Reviewer**, ICLR, NeurIPS, ACL, NAACL, EMNLP, KDD.
 
 ## Mentorship
@@ -24,8 +24,8 @@ author_profile: true
 ## Open Research Communities
 
 - **SEACrowd.** Co-author on community-led research advancing AI for Southeast Asian languages and cultures:
-  - *Crowdsource, Crawl, or Generate? Creating SEA-VL: A Multicultural Vision-Language Dataset for Southeast Asia.* ACL 2025. [[paper]](https://aclanthology.org/2025.acl-long.916/)
-  - *Anthropogenic Regional Adaptation in Multimodal Vision-Language Models.* arXiv:2604.11490, 2026. [[paper]](https://arxiv.org/abs/2604.11490)
+  - *Crowdsource, Crawl, or Generate? Creating SEA-VL: A Multicultural Vision-Language Dataset for Southeast Asia.* <span class="venue-badge">ACL'25</span> [[paper]](https://aclanthology.org/2025.acl-long.916/)
+  - *Anthropogenic Regional Adaptation in Multimodal Vision-Language Models.* <span class="venue-badge">arXiv'26</span> [[paper]](https://arxiv.org/abs/2604.11490)
 
 ## Industry Service
 
