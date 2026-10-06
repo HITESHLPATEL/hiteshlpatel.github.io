@@ -1,25 +1,33 @@
 ---
 layout: archive
-title: "Research and Benchmarks"
-description: "Explore Hitesh Laxmichand Patel's research on LLM fairness, multilingual enterprise AI safety, and multimodal robustness through AccessEval, SweEval, and PCRI."
+title: "Research"
+description: "Hitesh Laxmichand Patel's research on LLM post-training, agentic retrieval, reasoning evaluation, multilingual alignment, and AI fairness."
 schema_type: CollectionPage
 last_modified_at: 2026-10-06
 permalink: /research/
 author_profile: true
 ---
 
-Hitesh's research connects evaluation of language and vision-language models to the needs of enterprise AI systems. These summaries introduce selected collaborative projects and link to the original papers.
+My research connects model training, retrieval, and evaluation: how to develop AI systems that reason across languages, use relevant evidence, and remain reliable on difficult tasks. The papers below are collaborative work, with links to the original publications and available research artifacts.
 
-## LLM fairness and disability bias
+## Training and aligning reasoning models
 
-[**AccessEval**](/research/accesseval/) studies differences in model responses to neutral and disability-aware questions. It received the EMNLP 2025 Best Social Impact Paper Award.
+I study how training data and post-training objectives shape reasoning and consistency across languages. [Language-Mixed CoT](/research/language-mixed-cot/) explores reasoning distillation for Korean language models; [multilingual alignment](/research/multilingual-alignment/) studies fine-tuning with equivalent examples across languages. My [work on Oracle Code Assist](/projects/) also connects continued pretraining and preference-based post-training to coding tasks.
 
-## Multilingual enterprise AI safety
+## Retrieval and agentic systems
 
-[**SweEval**](/research/sweeval/) evaluates how language models respond when enterprise communication tasks include instructions to use offensive language.
+I'm interested in systems that retrieve relevant knowledge, use tools, and maintain coherence through multi-step workflows. [RECOR](/research/recor/) studies retrieval requiring conversation history and reasoning, while [enterprise hard-negative mining](/research/enterprise-retrieval/) improves the reranking component of domain-specific search and RAG. These retrieval contributions inform my interest in grounding agentic systems in reliable evidence.
 
-## Multimodal evaluation and robustness
+## Evaluation when verification is difficult
 
-[**PCRI**](/research/pcri/) measures how predictions change when a vision-language model sees a localized image patch versus a full image.
+[Judging What We Cannot Solve](/research/judging-what-we-cannot-solve/) investigates how a proposed mathematical solution's usefulness on related, verifiable questions can provide an evaluation signal. This connects to my interests in model judges, reward signals, benchmark validity, and evaluating reasoning beyond easily checked answers.
 
-See the [selected publications](/publications/) for more work on multilingual reasoning, document understanding, retrieval, and model evaluation, or explore [projects at Oracle](/projects/).
+## Safety, fairness, and multimodal reliability
+
+[AccessEval](/research/accesseval/) measures disability bias in LLM responses; [SweEval](/research/sweeval/) evaluates unsafe language in multilingual enterprise communication; and [PCRI](/research/pcri/) measures sensitivity to distracting visual context. These studies complement my work on AI guardrails, multilingual models, and document intelligence.
+
+## Featured papers
+
+{% include featured-research.html %}
+
+See [more publications](/publications/), [projects at Oracle](/projects/), and [research talks](/talks/).

@@ -12,6 +12,8 @@
       "url": {{ seo_url | append: "/" | jsonify }},
       "image": {{ site.og_image | prepend: "/images/" | prepend: seo_url | jsonify }},
       "jobTitle": {{ site.author.job_title | jsonify }},
+      "description": {{ site.description | jsonify }},
+      "knowsAbout": {{ site.author.research_topics | jsonify }},
       "worksFor": {
         "@type": "Organization",
         "name": {{ site.author.employer | jsonify }},
@@ -64,8 +66,8 @@
       ],
       "publisher": {
         "@type": "Organization",
-        "name": "Association for Computational Linguistics",
-        "url": "https://www.aclweb.org/"
+        "name": {{ page.paper.publisher.name | default: "Association for Computational Linguistics" | jsonify }},
+        "url": {{ page.paper.publisher.url | default: "https://www.aclweb.org/" | jsonify }}
       }
     }
     {% endif %}

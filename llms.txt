@@ -5,12 +5,12 @@ sitemap: false
 ---
 # {{ site.author.name }}
 
-> {{ site.author.bio }}. Research in multilingual and multimodal AI, LLM evaluation, and enterprise AI safety.
+> {{ site.author.bio }}. Research in LLM post-training and alignment, agentic AI, retrieval-augmented generation, reasoning evaluation, and multilingual and multimodal models.
 
 ## Website
 
 - [About Hitesh]({{ site.url }}/): Biography, current role, and research interests.
-- [Research and benchmarks]({{ site.url }}/research/): Summaries of selected collaborative research.
+- [Research]({{ site.url }}/research/): Research themes in model training, retrieval and agentic systems, reasoning evaluation, and AI reliability.
 - [Publications]({{ site.url }}/publications/): Selected papers with links to their original publication records.
 - [Projects]({{ site.url }}/projects/): Work on enterprise generative AI, coding assistants, vision, and document intelligence at Oracle.
 - [Professional profile]({{ site.url }}/cv/): Role, education, research, and professional profiles.
@@ -21,7 +21,12 @@ sitemap: false
 
 ## Selected research
 
-- [AccessEval]({{ site.url }}/research/accesseval/): Disability bias in large language models.
+{% for paper in site.data.featured_research %}
+- [{{ paper.title }}]({{ site.url }}/research/{{ paper.slug }}/): {{ paper.summary }} {{ paper.venue }}{% if paper.award %}; {{ paper.award }}{% endif %}.
+{% endfor %}
+
+## Additional benchmarks
+
 - [SweEval]({{ site.url }}/research/sweeval/): Multilingual safety for enterprise communication tasks.
 - [PCRI]({{ site.url }}/research/pcri/): Context robustness in multimodal models.
 

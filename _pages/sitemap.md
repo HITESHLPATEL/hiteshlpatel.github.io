@@ -9,8 +9,10 @@ author_profile: true
 ## Explore the site
 
 - [About Hitesh](/)
-- [Research and benchmarks](/research/)
-  - [AccessEval: Disability bias in LLMs](/research/accesseval/)
+- [Research themes and papers](/research/)
+{% for paper in site.data.featured_research %}
+  - [{{ paper.title }}](/research/{{ paper.slug }}/)
+{% endfor %}
   - [SweEval: Multilingual enterprise AI safety](/research/sweeval/)
   - [PCRI: Multimodal context robustness](/research/pcri/)
 - [Projects at Oracle](/projects/)

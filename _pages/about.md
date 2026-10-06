@@ -2,7 +2,7 @@
 permalink: /
 title: "Hitesh Laxmichand Patel"
 seo_title: "Hitesh Laxmichand Patel | Principal Applied Scientist at Oracle"
-description: "Hitesh Laxmichand Patel, Principal Applied Scientist at Oracle, researches multilingual and multimodal AI, LLM evaluation, and enterprise AI safety."
+description: "Hitesh Laxmichand Patel is a Principal Applied Scientist at Oracle working on LLM post-training, agentic AI, retrieval, and reasoning evaluation."
 schema_type: ProfilePage
 last_modified_at: 2026-10-06
 author_profile: true
@@ -11,26 +11,26 @@ redirect_from:
   - /about.html
 ---
 
-<p><img src="/images/robots.webp" alt="Illustration of robots" width="1536" height="1024" fetchpriority="high" decoding="async"></p>
+I'm a **Principal Applied Scientist and Tech Lead at Oracle**. I work on **LLM post-training, agentic AI and retrieval, and reasoning evaluation**. My research asks how to train models that reason across languages, use evidence effectively, and can be evaluated when correct answers are difficult to verify.
 
-Hitesh is a Principal Applied Scientist and Tech Lead at Oracle, where he leads applied research on multilingual and multimodal AI for enterprise systems. His current focus is building models, evaluations, and guardrails for languages and domains that frontier models still underserve.
+At Oracle, my [work](/projects/) spans generative AI guardrails, AI coding assistants, and vision and document intelligence. Recent collaborative research includes [Language-Mixed CoT](/research/language-mixed-cot/) for training multilingual reasoning models, [RECOR](/research/recor/) for reasoning-based conversational retrieval, and [Judging What We Cannot Solve](/research/judging-what-we-cannot-solve/) for evaluating research-level mathematical solutions.
 
-He has authored **40+ peer-reviewed papers** and filed **15+ patents**, with recognitions including a [**Best Social Impact Paper Award at EMNLP**](/awards/) and a **Spotlight at ICML**. He contributes to open research efforts on multilingual AI through Cohere For AI's Aya initiative and SEACrowd, and serves the community as an area chair, reviewer, and ACL mentor.
-
-He received his M.S. from NYU, where he was advised by Prof. Ralph Grishman.
+Our work on [AccessEval](/research/accesseval/) received the **EMNLP 2025 Best Social Impact Paper Award**, and Judging What We Cannot Solve was selected as an **ICML 2026 Spotlight**. I received my M.S. from **New York University**, advised by Prof. Ralph Grishman, and contribute to open research through Cohere For AI's Aya initiative and SEACrowd.
 
 ## Research interests
 
-- **Multilingual AI:** evaluation and alignment across languages, including languages underserved by frontier models.
-- **Multimodal AI:** vision-language models, document understanding, and robustness to visual context.
-- **Enterprise AI safety:** guardrails, content moderation, and evaluations for generative AI in production.
+My research asks how we can train models to reason consistently, ground their answers in retrieved evidence, and evaluate their behavior when reliable answers are difficult to obtain.
 
-Explore his [research and benchmarks](/research/), [selected publications](/publications/), and [projects at Oracle](/projects/).
+- **LLM post-training and alignment:** reasoning distillation, preference learning, multilingual consistency, and adaptation to enterprise domains.
+- **Agentic AI and retrieval:** tool use, multi-step workflows, conversational search, retrieval-augmented generation (RAG), and grounding in enterprise knowledge.
+- **Reasoning and evaluation:** evaluating difficult mathematics, model judges, reward signals, and benchmark validity and contamination.
+- **Multilingual and multimodal AI:** reasoning across languages, cultural understanding, vision-language models, and document intelligence.
+- **AI safety and fairness:** guardrail models, adversarial evaluation, prompt injection, and disability and cultural bias.
 
-## Selected research
+Explore the [research themes and paper summaries](/research/) or my [projects at Oracle](/projects/).
 
-- [**AccessEval**](/research/accesseval/): evaluating disability bias in large language models. EMNLP 2025, Best Social Impact Paper Award.
-- [**SweEval**](/research/sweeval/): evaluating unsafe language in multilingual enterprise communication. NAACL 2025 Industry Track.
-- [**PCRI**](/research/pcri/): measuring sensitivity to distracting visual context in multimodal models. EMNLP 2025 Industry Track.
+## Selected papers
 
-For more about Hitesh, see his [professional profile](/cv/), [talks](/talks/), and [community service](/service/).
+{% include featured-research.html %}
+
+See [more publications](/publications/), my [professional profile](/cv/), [invited talks](/talks/), and [community service](/service/).

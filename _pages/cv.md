@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Professional Profile"
-description: "Hitesh Laxmichand Patel is a Principal Applied Scientist and Tech Lead at Oracle, with research in multilingual AI, multimodal AI, and enterprise safety."
+description: "Professional profile of Hitesh Laxmichand Patel: Principal Applied Scientist and Tech Lead at Oracle researching LLM post-training, retrieval, and evaluation."
 schema_type: ProfilePage
 last_modified_at: 2026-10-06
 permalink: /cv/
@@ -12,7 +12,7 @@ redirect_from:
 
 ## Current role
 
-**Hitesh Laxmichand Patel** is a **Principal Applied Scientist and Tech Lead at Oracle**. He leads applied research on multilingual and multimodal AI for enterprise systems, with a focus on evaluation and guardrails for underserved languages and domains.
+**Hitesh Laxmichand Patel** is a **Principal Applied Scientist and Tech Lead at Oracle**. His research spans LLM post-training and alignment, agentic AI and retrieval-augmented generation, reasoning evaluation, and multilingual and multimodal models.
 
 His [projects](/projects/) include OCI Generative AI Safety, Oracle Code Assist, and OCI Vision and Document Intelligence.
 
@@ -22,9 +22,9 @@ His [projects](/projects/) include OCI Generative AI Safety, Oracle Code Assist,
 
 ## Research and recognition
 
-Hitesh has authored **40+ peer-reviewed papers** and filed **15+ patents**. His recognitions include the **EMNLP 2025 Best Social Impact Paper Award** for AccessEval and an **ICML Spotlight**.
+Hitesh has coauthored **40+ peer-reviewed papers** and filed **15+ patents**. His recognitions include the **EMNLP 2025 Best Social Impact Paper Award** for [AccessEval](/research/accesseval/) and an **ICML 2026 Spotlight** for [Judging What We Cannot Solve](/research/judging-what-we-cannot-solve/).
 
-- [Research summaries and benchmarks](/research/)
+- [Research themes and paper summaries](/research/)
 - [Selected publications](/publications/)
 - [Recognition and awards](/awards/)
 

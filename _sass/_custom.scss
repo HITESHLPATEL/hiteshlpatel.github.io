@@ -59,6 +59,39 @@
   color: var(--global-award-icon-color);
 }
 
+/* A bibliography-style list keeps the research and its authors prominent. */
+.featured-paper {
+  padding: 1.1em 0;
+  border-bottom: 1px solid var(--global-card-border-color);
+
+  &:last-child {
+    border-bottom: 0;
+  }
+
+  h3 {
+    margin: 0 0 0.35em;
+    font-size: 1.05em;
+    line-height: 1.4;
+  }
+
+  p {
+    margin: 0.5em 0;
+  }
+
+  .featured-paper__authors {
+    font-size: 0.85em;
+    line-height: 1.5;
+  }
+
+  .featured-paper__venue .venue-badge {
+    margin-left: 0;
+  }
+
+  .featured-paper__links {
+    font-size: 0.9em;
+  }
+}
+
 /* Links in page content and archive lists: color carries the link,
    the underline appears on hover and keyboard focus. */
 .archive a:not(.btn),

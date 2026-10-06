@@ -1,0 +1,92 @@
+- slug: accesseval
+  title: "AccessEval: Benchmarking Disability Bias in Large Language Models"
+  venue: "EMNLP 2025"
+  award: "Best Social Impact Paper Award"
+  topic: "Fairness and evaluation"
+  summary: "A benchmark measuring how disability context affects factual accuracy, tone, and stereotyping in LLM responses."
+  paper_url: "https://aclanthology.org/2025.emnlp-main.1653/"
+  authors:
+    - Srikant Panda
+    - Amit Agarwal
+    - Hitesh Laxmichand Patel
+
+- slug: judging-what-we-cannot-solve
+  title: "Judging What We Cannot Solve: A Consequence-Based Approach for Oracle-Free Evaluation of Research-Level Math"
+  venue: "ICML 2026"
+  award: "Spotlight"
+  topic: "Reasoning and verification"
+  summary: "Evaluating difficult mathematical solutions through their usefulness on related, verifiable problems."
+  paper_url: "https://arxiv.org/abs/2602.06291"
+  authors:
+    - Guijin Son
+    - Donghun Yang
+    - Hitesh Laxmichand Patel
+    - Hyunwoo Ko
+    - Amit Agarwal
+    - Sunghee Ahn
+    - Kyong-Ha Lee
+    - Youngjae Yu
+
+- slug: recor
+  title: "RECOR: Reasoning-focused Multi-turn Conversational Retrieval Benchmark"
+  venue: "ACL 2026 Findings"
+  topic: "Conversational retrieval"
+  summary: "A benchmark for retrieval that requires both conversation history and reasoning about the information being sought."
+  paper_url: "https://aclanthology.org/2026.findings-acl.129/"
+  resource_url: "https://github.com/RECOR-Benchmark/RECOR"
+  resource_label: "Data and code"
+  authors:
+    - Mohammed Ali
+    - Abdelrahman Abdallah
+    - Amit Agarwal
+    - Hitesh Laxmichand Patel
+    - Adam Jatowt
+
+- slug: language-mixed-cot
+  title: "Pushing on Multilingual Reasoning Models with Language-Mixed Chain-of-Thought"
+  venue: "ICLR 2026"
+  topic: "Training reasoning models"
+  summary: "Training multilingual reasoning models with language-mixed reasoning traces, studied through Korean reasoning benchmarks."
+  paper_url: "https://proceedings.iclr.cc/paper_files/paper/2026/hash/804b5e300c9ed4e3ea3b073f186f4adc-Abstract-Conference.html"
+  resource_url: "https://huggingface.co/KOREAson"
+  resource_label: "Models and data"
+  authors:
+    - Guijin Son
+    - Donghun Yang
+    - Hitesh Laxmichand Patel
+    - Amit Agarwal
+    - Hyunwoo Ko
+    - Chanuk Lim
+    - Srikant Panda
+    - Minhyuk Kim
+    - Nikunj Drolia
+    - Dasol Choi
+    - Kyong-Ha Lee
+    - Youngjae Yu
+
+- slug: multilingual-alignment
+  title: "Aligning LLMs for Multilingual Consistency in Enterprise Applications"
+  venue: "EMNLP 2025 Industry"
+  topic: "Post-training and alignment"
+  summary: "Fine-tuning with semantically equivalent multilingual examples to improve consistency across languages in enterprise tasks."
+  paper_url: "https://aclanthology.org/2025.emnlp-industry.9/"
+  authors:
+    - Amit Agarwal
+    - Hansa Meghwani
+    - Hitesh Laxmichand Patel
+    - Tao Sheng
+    - Sujith Ravi
+    - Dan Roth
+
+- slug: enterprise-retrieval
+  title: "Hard Negative Mining for Domain-Specific Retrieval in Enterprise Systems"
+  venue: "ACL 2025 Industry"
+  topic: "Enterprise search and RAG"
+  summary: "Training retrieval rerankers with challenging negatives to improve domain-specific enterprise search and downstream RAG."
+  paper_url: "https://aclanthology.org/2025.acl-industry.72/"
+  authors:
+    - Hansa Meghwani
+    - Amit Agarwal
+    - Priyaranjan Pattnayak
+    - Hitesh Laxmichand Patel
+    - Srikant Panda
