@@ -6,6 +6,7 @@ description: "Hitesh Laxmichand Patel, Principal Applied Scientist at Oracle, re
 schema_type: ProfilePage
 last_modified_at: 2026-10-06
 author_profile: true
+body_class: research-profile
 redirect_from: 
   - /about/
   - /about.html
@@ -21,11 +22,10 @@ I received my M.S. from **New York University**, advised by Prof. Ralph Grishman
 
 ## Research interests
 
-- **Multilingual reasoning and post-training:** improving reasoning and consistency across languages through distillation, preference learning, and alignment.
-- **Multimodal AI:** understanding images and documents, reasoning over visual evidence, and robustness to distracting or unfamiliar contexts.
-- **Agentic AI and retrieval:** grounding tool-using agents in retrieved evidence, retrieval-augmented generation (RAG), and reliable behavior across multi-step tasks.
-- **Reasoning and evaluation:** evaluating difficult mathematics, studying model judges, and testing benchmark validity and contamination.
-- **AI safety and fairness:** guardrails and adversarial evaluation, with attention to disability, language, and cultural bias.
+- **Multilingual AI and post-training:** distillation, preference learning, and alignment for consistent reasoning across languages.
+- **Multimodal AI:** understanding images and documents, and studying how visual context affects model behavior.
+- **Agentic AI and retrieval:** retrieval-augmented generation (RAG), tool use, and grounded reasoning across multi-step tasks.
+- **Evaluation and reliability:** model judges and benchmarks for reasoning, robustness, safety, and fairness.
 
 Explore [all publications](/publications/) or my [projects at Oracle](/projects/).
 

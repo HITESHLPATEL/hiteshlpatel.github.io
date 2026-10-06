@@ -59,6 +59,29 @@
   color: var(--global-award-icon-color);
 }
 
+.research-profile {
+  #main,
+  .masthead__inner-wrap {
+    max-width: 1040px;
+  }
+
+  @include breakpoint($large) {
+    #main > .sidebar {
+      width: 220px;
+      margin-right: 0;
+    }
+
+    .page {
+      display: flow-root;
+      float: none;
+      width: auto;
+      max-width: 72ch;
+      margin-left: calc(220px + 3rem);
+      padding: 0;
+    }
+  }
+}
+
 .featured-papers--compact {
   padding-left: 1.2em;
 
@@ -68,7 +91,10 @@
   }
 
   .featured-paper__meta {
+    display: block;
+    margin-top: 0.1em;
     font-size: 0.85em;
+    line-height: 1.45;
   }
 }
 
