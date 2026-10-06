@@ -18,7 +18,7 @@ My research connects **LLM post-training**, **retrieval**, and **evaluation**. I
 
 Our work on [AccessEval](/research/accesseval/) received the **EMNLP 2025 Best Social Impact Paper Award**, and [Judging What We Cannot Solve](/research/judging-what-we-cannot-solve/) was selected as an **ICML 2026 Spotlight**.
 
-I received my M.S. from **New York University**, advised by Prof. Ralph Grishman. I contribute to open research through Cohere For AI's Aya initiative and SEACrowd, and serve as a **Workshop Challenge Organizer** for [DocInsights at EMNLP 2026](https://docinsights-workshop.github.io/docinsights-2026/organizers/).
+I received my M.S. from **New York University**, advised by Prof. Ralph Grishman. Alongside my research, I [give invited talks and tutorials](/talks/), [organize workshops and research challenges](/service/), and contribute to open research through Cohere For AI's Aya initiative and SEACrowd.
 
 ## Research interests
 

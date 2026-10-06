@@ -12,9 +12,9 @@ $background                 : #474747;
 $background-light           : mix(#fff, $background, 80%);
 $background-lighter         : mix(#fff, $background, 90%);
 $text                       : #ffffff;
-$link                       : #7fd3ea; // 5.5:1 on $background (was #0ea1c5, 3.1:1)
-$link-dark                  : #6ecbe6; // visited, 5.0:1
-$link-light                 : #9fdeef; // hover, 6.3:1
+$link                       : #a6cecb; // muted teal for dark backgrounds
+$link-dark                  : #9fc2c0;
+$link-light                 : #c4dedb;
 
 /* Color codes used for the site */
 $danger-color               : #ee5f5b;
@@ -56,8 +56,8 @@ html[data-theme="dark"] {
     --global-card-border-color          : #{$background-light};
     --global-card-shadow                : 0 4px 12px rgba(0, 0, 0, 0.35);
     --global-card-heading-color         : #{$link};
-    --global-badge-bg-color             : #1e3a5f;
-    --global-badge-text-color           : #cfe4ff;
+    --global-badge-bg-color             : #294849;
+    --global-badge-text-color           : #cee4e1;
     --global-award-bg-color             : #4a3700;
     --global-award-text-color           : #ffe08a; // 8.9:1 on badge bg
     --global-award-icon-color           : #ffd966;

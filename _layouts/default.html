@@ -11,7 +11,7 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
-  <body{% if page.body_class %} class="{{ page.body_class | escape }}"{% endif %}>
+  <body{% if page.author_profile or page.body_class %} class="{% if page.author_profile %}profile-layout{% endif %}{% if page.body_class %} {{ page.body_class | escape }}{% endif %}"{% endif %}>
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}

@@ -1,6 +1,6 @@
 - slug: accesseval
   short_title: "AccessEval"
-  highlight: "Disability bias in LLMs."
+  highlight: "A benchmark for how disability context affects factual accuracy, tone, and stereotyping in LLM responses."
   title: "AccessEval: Benchmarking Disability Bias in Large Language Models"
   venue: "EMNLP 2025"
   award: "Best Social Impact Paper Award"
@@ -14,7 +14,7 @@
 
 - slug: judging-what-we-cannot-solve
   short_title: "Judging What We Cannot Solve"
-  highlight: "Evaluating research-level mathematics."
+  highlight: "Evaluating research-level mathematical solutions through their usefulness on related questions with verifiable answers."
   title: "Judging What We Cannot Solve: A Consequence-Based Approach for Oracle-Free Evaluation of Research-Level Math"
   venue: "ICML 2026"
   award: "Spotlight"
@@ -33,7 +33,7 @@
 
 - slug: recor
   short_title: "RECOR"
-  highlight: "Reasoning in conversational retrieval."
+  highlight: "A conversational retrieval benchmark that tests reasoning over dialogue history and implicit information needs."
   title: "RECOR: Reasoning-focused Multi-turn Conversational Retrieval Benchmark"
   venue: "ACL 2026 Findings"
   topic: "Conversational retrieval"
@@ -50,7 +50,7 @@
 
 - slug: language-mixed-cot
   short_title: "Language-Mixed CoT"
-  highlight: "Training multilingual reasoning models."
+  highlight: "Studying language-mixed reasoning traces for multilingual reasoning distillation, using Korean as a case study."
   title: "Pushing on Multilingual Reasoning Models with Language-Mixed Chain-of-Thought"
   venue: "ICLR 2026"
   topic: "Training reasoning models"
@@ -74,7 +74,7 @@
 
 - slug: multilingual-alignment
   short_title: "Multilingual Alignment"
-  highlight: "Consistent LLM behavior across languages."
+  highlight: "Fine-tuning on equivalent multilingual examples to improve consistency across languages in enterprise tasks."
   title: "Aligning LLMs for Multilingual Consistency in Enterprise Applications"
   venue: "EMNLP 2025 Industry"
   topic: "Post-training and alignment"
@@ -104,7 +104,7 @@
 
 - slug: pcri
   short_title: "PCRI"
-  highlight: "Context robustness in multimodal models."
+  highlight: "Measuring sensitivity to distracting visual context by comparing localized image patches with full-image inputs."
   title: "PCRI: Measuring Context Robustness in Multimodal Models for Enterprise Applications"
   venue: "EMNLP 2025 Industry"
   topic: "Multimodal AI and evaluation"
