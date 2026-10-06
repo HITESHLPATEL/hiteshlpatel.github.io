@@ -10,7 +10,6 @@ sitemap: false
 ## Website
 
 - [About Hitesh]({{ site.url }}/): Biography, current role, and research interests.
-- [Research]({{ site.url }}/research/): Research themes in model training, retrieval and agentic systems, reasoning evaluation, and AI reliability.
 - [Publications]({{ site.url }}/publications/): Selected papers with links to their original publication records.
 - [Projects]({{ site.url }}/projects/): Work on enterprise generative AI, coding assistants, vision, and document intelligence at Oracle.
 - [Professional profile]({{ site.url }}/cv/): Role, education, research, and professional profiles.

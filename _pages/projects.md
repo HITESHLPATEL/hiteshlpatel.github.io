@@ -12,7 +12,7 @@ author_profile: true
 
 ## Selected Projects
 
-Related [research and benchmarks](/research/) explore language-model safety and multimodal robustness. See the [selected publications](/publications/) for the wider research record.
+See my [publications](/publications/) for related work on language-model safety, retrieval, and multimodal robustness.
 
 <div class="project-card">
 

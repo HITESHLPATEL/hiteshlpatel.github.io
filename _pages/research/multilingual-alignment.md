@@ -31,4 +31,4 @@ This work connects model alignment to practical multilingual tasks such as custo
 - [Original paper and publication record](https://aclanthology.org/2025.emnlp-industry.9/)
 - DOI: [10.18653/v1/2025.emnlp-industry.9](https://doi.org/10.18653/v1/2025.emnlp-industry.9)
 
-Explore [multilingual reasoning model training](/research/language-mixed-cot/) and [research themes](/research/).
+Explore [multilingual reasoning model training](/research/language-mixed-cot/) and [more publications](/publications/).

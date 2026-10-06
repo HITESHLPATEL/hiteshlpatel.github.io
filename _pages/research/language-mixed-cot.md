@@ -41,4 +41,4 @@ The released models, datasets, and curation pipeline support further work on mul
 - [Models and data](https://huggingface.co/KOREAson)
 - [Preprint and DOI](https://doi.org/10.48550/arXiv.2510.04230)
 
-Explore [multilingual alignment](/research/multilingual-alignment/) and [research themes](/research/).
+Explore [multilingual alignment](/research/multilingual-alignment/) and [more publications](/publications/).

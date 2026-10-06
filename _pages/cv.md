@@ -24,7 +24,6 @@ His [projects](/projects/) include OCI Generative AI Safety, Oracle Code Assist,
 
 Hitesh has coauthored **40+ peer-reviewed papers** and filed **15+ patents**. His recognitions include the **EMNLP 2025 Best Social Impact Paper Award** for [AccessEval](/research/accesseval/) and an **ICML 2026 Spotlight** for [Judging What We Cannot Solve](/research/judging-what-we-cannot-solve/).
 
-- [Research themes and paper summaries](/research/)
 - [Selected publications](/publications/)
 - [Recognition and awards](/awards/)
 

@@ -1,17 +1,18 @@
 ---
 layout: archive
 title: "Publications"
-description: "Selected publications by Hitesh Laxmichand Patel on reasoning evaluation, LLM training and alignment, conversational retrieval, multilingual AI, and fairness."
+description: "Publications by Hitesh Laxmichand Patel on LLM post-training, reasoning evaluation, retrieval, multimodal AI, multilingual models, and fairness."
 schema_type: CollectionPage
 last_modified_at: 2026-10-06
 permalink: /publications/
 author_profile: true
 redirect_from:
  - /paper
+ - /research/
 ---
 {% include base_path %}
 
-Browse [research themes and paper summaries](/research/) for an introduction to selected papers, or see the [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=R3X_R9UAAAAJ) for more publications.
+See my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=R3X_R9UAAAAJ) for the complete publication record and citations.
 
 ## Selected Publications
 

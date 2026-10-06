@@ -36,4 +36,4 @@ This work contributes to my interest in evaluating reasoning when a model's abil
 - [Original paper and author record](https://arxiv.org/abs/2602.06291)
 - DOI: [10.48550/arXiv.2602.06291](https://doi.org/10.48550/arXiv.2602.06291)
 
-Explore [research themes](/research/) and [more publications](/publications/).
+Explore my [research interests](/#research-interests) and [more publications](/publications/).

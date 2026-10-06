@@ -25,4 +25,4 @@ The evaluation considers factual accuracy, sentiment, and social perception. The
 
 Read the [original paper and publication record](https://aclanthology.org/2025.emnlp-main.1653/) for the methodology, results, and citation details. DOI: [10.18653/v1/2025.emnlp-main.1653](https://doi.org/10.18653/v1/2025.emnlp-main.1653).
 
-Explore [related research](/research/) and [selected publications](/publications/).
+Explore my [research interests](/#research-interests) and [publications](/publications/).

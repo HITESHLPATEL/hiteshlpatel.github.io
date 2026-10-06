@@ -9,13 +9,12 @@ author_profile: true
 ## Explore the site
 
 - [About Hitesh](/)
-- [Research themes and papers](/research/)
+- [Publications](/publications/)
 {% for paper in site.data.featured_research %}
   - [{{ paper.title }}](/research/{{ paper.slug }}/)
 {% endfor %}
   - [SweEval: Multilingual enterprise AI safety](/research/sweeval/)
 - [Projects at Oracle](/projects/)
-- [Selected publications](/publications/)
 - [Professional profile](/cv/)
 - [Research news](/news/)
 - [Invited talks](/talks/)

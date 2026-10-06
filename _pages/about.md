@@ -27,7 +27,7 @@ My research asks how we can train models to reason consistently, ground their an
 - **Multimodal AI:** vision-language models, visual reasoning, context robustness, cultural understanding, and document intelligence.
 - **AI safety and fairness:** guardrail models, adversarial evaluation, prompt injection, and disability and cultural bias.
 
-Explore the [research themes and paper summaries](/research/) or my [projects at Oracle](/projects/).
+Explore [all publications](/publications/) or my [projects at Oracle](/projects/).
 
 ## Selected papers
 

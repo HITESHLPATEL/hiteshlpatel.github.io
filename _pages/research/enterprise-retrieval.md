@@ -30,4 +30,4 @@ This work contributes to my interest in grounding AI systems in relevant evidenc
 - [Original paper and publication record](https://aclanthology.org/2025.acl-industry.72/)
 - DOI: [10.18653/v1/2025.acl-industry.72](https://doi.org/10.18653/v1/2025.acl-industry.72)
 
-Explore [conversational retrieval with RECOR](/research/recor/) and [research themes](/research/).
+Explore [conversational retrieval with RECOR](/research/recor/) and [more publications](/publications/).

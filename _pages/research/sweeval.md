@@ -33,4 +33,4 @@ Tasks include drafting emails, sales pitches, and casual messages. Prompts ask f
 - [Dataset and code](https://github.com/amitbcp/multilingual_profanity)
 - DOI: [10.18653/v1/2025.naacl-industry.46](https://doi.org/10.18653/v1/2025.naacl-industry.46)
 
-Explore [related research](/research/) and [enterprise AI projects](/projects/).
+Explore [more publications](/publications/) and [enterprise AI projects](/projects/).

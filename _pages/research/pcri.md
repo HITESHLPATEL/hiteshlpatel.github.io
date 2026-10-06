@@ -31,4 +31,4 @@ The paper reports that many leading models are sensitive to background context. 
 
 Read the [original paper and publication record](https://aclanthology.org/2025.emnlp-industry.14/) for the evaluation setup, results, and citation details. DOI: [10.18653/v1/2025.emnlp-industry.14](https://doi.org/10.18653/v1/2025.emnlp-industry.14).
 
-Explore [related research](/research/) and [multimodal AI projects](/projects/).
+Explore [more publications](/publications/) and [multimodal AI projects](/projects/).

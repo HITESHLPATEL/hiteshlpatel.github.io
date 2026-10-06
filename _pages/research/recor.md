@@ -31,4 +31,4 @@ The paper reports an increase in nDCG@10 from 0.236 to 0.479 when combining conv
 - [Benchmark data and code](https://github.com/RECOR-Benchmark/RECOR)
 - DOI: [10.18653/v1/2026.findings-acl.129](https://doi.org/10.18653/v1/2026.findings-acl.129)
 
-Explore [enterprise retrieval](/research/enterprise-retrieval/) and [research themes](/research/).
+Explore [enterprise retrieval](/research/enterprise-retrieval/) and [more publications](/publications/).
