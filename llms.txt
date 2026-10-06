@@ -5,7 +5,7 @@ sitemap: false
 ---
 # {{ site.author.name }}
 
-> {{ site.author.bio }}. Research in LLM post-training and alignment, agentic AI, retrieval-augmented generation, reasoning evaluation, and multilingual and multimodal models.
+> {{ site.author.bio }}. Research in post-training and alignment for language and vision models, agentic AI, retrieval-augmented generation, reasoning evaluation, and multilingual and multimodal models.
 
 ## Website
 
