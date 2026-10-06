@@ -11,6 +11,7 @@ author_profile: true
 ## Workshop Organization
 
 - **Workshop Organizer**, [GRAIL-V: Grounded Retrieval and Agentic Intelligence for Vision-Language](https://grailworkshops.github.io/) <span class="venue-badge">CVPR'26</span>
+- **Workshop Challenge Organizer**, [DocInsights: Workshop on Document Intelligence and Understanding](https://docinsights-workshop.github.io/docinsights-2026/organizers/) <span class="venue-badge">EMNLP'26</span>
 
 ## Program Committee & Reviewing
 
