@@ -1,6 +1,8 @@
 ---
 layout: archive
 title: "Talks"
+description: "Invited talks by Hitesh Laxmichand Patel on NLP, responsible AI, LLM agents, and vision-language models for underrepresented cultures."
+last_modified_at: 2026-10-06
 permalink: /talks/
 author_profile: true
 ---

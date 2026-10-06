@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hitesh Laxmichand Patel's Personal Website"
-title_separator          : "-"
+title                    : "Hitesh Laxmichand Patel"
+title_separator          : "|"
 name                     : &name "Hitesh Laxmichand Patel"
-description              : "Principal Applied Scientist at Oracle. Personal site with research, projects, and publications."
+description              : "Hitesh Laxmichand Patel, Principal Applied Scientist at Oracle, researches multilingual and multimodal AI, LLM evaluation, and enterprise AI safety."
 url                      : https://hiteshlpatel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HITESHLPATEL/hiteshlpatel.github.io"
@@ -62,13 +62,18 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "hitesh.jpeg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Hitesh Laxmichand Patel"
+  links:
+    - "https://scholar.google.com/citations?hl=en&user=R3X_R9UAAAAJ"
+    - "https://www.linkedin.com/in/hitesh-patel-63ba9210a/"
+    - "https://github.com/HITESHLPATEL"
+    - "https://x.com/hitesh_lpatel"
+    - "https://blogs.oracle.com/authors/hiteshlaxmichand-patel/"
 
 
 # Analytics
@@ -81,10 +86,14 @@ analytics:
 # Site Author
 author:
   name             : "Hitesh Laxmichand Patel"
-  avatar           : "hitesh.jpeg"
+  avatar           : "hitesh.webp"
+  avatar_width     : 320
+  avatar_height    : 340
   bio              : "Principal Applied Scientist, Oracle"
+  job_title        : "Principal Applied Scientist"
   location         : "New York City, NY"
   employer         : "Oracle"
+  employer_url     : "https://www.oracle.com/"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=R3X_R9UAAAAJ"
   email            : "firstname.middle.lastname@oracle.com"
@@ -123,6 +132,47 @@ include:
   - _pages
   - files
 exclude:
+  # Retain theme examples in source without publishing their placeholder content.
+  - _posts
+  - _publications
+  - _portfolio
+  - _teaching
+  - _talks
+  - _drafts
+  - _pages/publications.html
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  - _pages/collection-archive.html
+  - _pages/cv-json.md
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/portfolio.html
+  - _pages/tag-archive.html
+  - _pages/talkmap.html
+  - _pages/teaching.html
+  - _pages/terms.md
+  - _pages/year-archive.html
+  - markdown_generator
+  - scripts
+  - local
+  - docs
+  - talkmap
+  - talkmap.py
+  - talkmap.ipynb
+  - talkmap_out.ipynb
+  - files/paper1.pdf
+  - files/paper2.pdf
+  - files/paper3.pdf
+  - files/slides1.pdf
+  - files/slides2.pdf
+  - files/slides3.pdf
+  - files/bibtex1.bib
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - Dockerfile
+  - docker-compose.yaml
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -176,16 +226,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 

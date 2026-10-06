@@ -1,12 +1,17 @@
 ---
 layout: archive
 title: "Publications"
+description: "Selected publications by Hitesh Laxmichand Patel on multilingual AI, multimodal models, LLM evaluation, fairness, and enterprise AI safety."
+schema_type: CollectionPage
+last_modified_at: 2026-10-06
 permalink: /publications/
 author_profile: true
 redirect_from:
  - /paper
 ---
 {% include base_path %}
+
+Browse [research summaries and benchmarks](/research/) for an introduction to selected papers, or see the [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=R3X_R9UAAAAJ) for more publications.
 
 ## Selected Publications
 
@@ -18,7 +23,7 @@ Guijin Son, Donghun Yang, **Hitesh Laxmichand Patel**, Hyunwoo Ko, Amit Agarwal,
 
 - **[World in a Frame: Understanding Culture Mixing as a New Challenge for Vision-Language Models](https://openaccess.thecvf.com/content/CVPR2026/papers/Kim_World_in_a_Frame_Understanding_Culture_Mixing_as_a_New_CVPR_2026_paper.pdf)**.
 <span class="venue-badge">CVPR'26</span>
-Eunsu Kim, Junyeong Park, Na Min An, Junseong Kim, **Hitesh Laxmichand Patel**,, Jiho Jin, Julia Kruk, Amit Agarwal, Srikant Panda, Fenal Ashokbhai Ilasariya, Hyunjung Shim, Alice Oh
+Eunsu Kim, Junyeong Park, Na Min An, Junseong Kim, **Hitesh Laxmichand Patel**, Jiho Jin, Julia Kruk, Amit Agarwal, Srikant Panda, Fenal Ashokbhai Ilasariya, Hyunjung Shim, Alice Oh
 
 - **[Pushing on Multilingual Reasoning Models with Language-Mixed Chain-of-Thought](https://openreview.net/pdf?id=ABc5y3741T)**.
 <span class="venue-badge">ICLR'26</span>
@@ -149,4 +154,3 @@ Manvendra Sharma, Karan Gupta, **Hitesh Laxmichand Patel**
 
 - **[Survey of Large Multimodal Model Datasets, Application Categories and Taxonomy](https://link.springer.com/chapter/10.1007/978-3-032-14041-8_4)**.
 <span class="venue-badge">Springer'24</span> Priyaranjan Pattnayak, **Hitesh Laxmichand Patel**, Bhargava Kumar, Amit Agarwal, Ishan Banerjee, Srikant Panda, Tejaswini Kumar
-

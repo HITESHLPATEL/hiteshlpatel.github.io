@@ -1,6 +1,9 @@
 ---
 layout: archive
 title: "Projects"
+description: "Hitesh Laxmichand Patel's work on OCI Generative AI Safety, Oracle Code Assist, OCI Vision, and enterprise document intelligence."
+schema_type: CollectionPage
+last_modified_at: 2026-10-06
 permalink: /projects/
 author_profile: true
 ---
@@ -8,6 +11,8 @@ author_profile: true
 {% include base_path %}
 
 ## Selected Projects
+
+Related [research and benchmarks](/research/) explore language-model safety and multimodal robustness. See the [selected publications](/publications/) for the wider research record.
 
 <div class="project-card">
 

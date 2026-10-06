@@ -1,0 +1,31 @@
+---
+layout: null
+permalink: /llms.txt
+sitemap: false
+---
+# {{ site.author.name }}
+
+> {{ site.author.bio }}. Research in multilingual and multimodal AI, LLM evaluation, and enterprise AI safety.
+
+## Website
+
+- [About Hitesh]({{ site.url }}/): Biography, current role, and research interests.
+- [Research and benchmarks]({{ site.url }}/research/): Summaries of selected collaborative research.
+- [Publications]({{ site.url }}/publications/): Selected papers with links to their original publication records.
+- [Projects]({{ site.url }}/projects/): Work on enterprise generative AI, coding assistants, vision, and document intelligence at Oracle.
+- [Professional profile]({{ site.url }}/cv/): Role, education, research, and professional profiles.
+- [Talks]({{ site.url }}/talks/): Invited talks.
+- [Service]({{ site.url }}/service/): Community service and open research contributions.
+- [Awards]({{ site.url }}/awards/): Recognition and awards.
+- [News]({{ site.url }}/news/): Dated research updates.
+
+## Selected research
+
+- [AccessEval]({{ site.url }}/research/accesseval/): Disability bias in large language models.
+- [SweEval]({{ site.url }}/research/sweeval/): Multilingual safety for enterprise communication tasks.
+- [PCRI]({{ site.url }}/research/pcri/): Context robustness in multimodal models.
+
+## Professional profiles
+{% for profile_url in site.social.links %}
+- {{ profile_url }}
+{% endfor %}

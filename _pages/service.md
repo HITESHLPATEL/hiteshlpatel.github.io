@@ -1,6 +1,8 @@
 ---
 layout: archive
 title: "Service"
+description: "Hitesh Laxmichand Patel's research community service: workshop organization, area chair roles, reviewing, ACL mentorship, and SEACrowd contributions."
+last_modified_at: 2026-10-06
 permalink: /service/
 author_profile: true
 ---

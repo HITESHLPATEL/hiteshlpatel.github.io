@@ -1,64 +1,40 @@
 ---
 layout: archive
-title: "CV"
+title: "Professional Profile"
+description: "Hitesh Laxmichand Patel is a Principal Applied Scientist and Tech Lead at Oracle, with research in multilingual AI, multimodal AI, and enterprise safety."
+schema_type: ProfilePage
+last_modified_at: 2026-10-06
 permalink: /cv/
-author_profile: false
+author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Current role
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**Hitesh Laxmichand Patel** is a **Principal Applied Scientist and Tech Lead at Oracle**. He leads applied research on multilingual and multimodal AI for enterprise systems, with a focus on evaluation and guardrails for underserved languages and domains.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+His [projects](/projects/) include OCI Generative AI Safety, Oracle Code Assist, and OCI Vision and Document Intelligence.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Education
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**M.S., New York University**, advised by Prof. Ralph Grishman.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Research and recognition
+
+Hitesh has authored **40+ peer-reviewed papers** and filed **15+ patents**. His recognitions include the **EMNLP 2025 Best Social Impact Paper Award** for AccessEval and an **ICML Spotlight**.
+
+- [Research summaries and benchmarks](/research/)
+- [Selected publications](/publications/)
+- [Recognition and awards](/awards/)
+
+## Community service
+
+He serves as an area chair, reviewer, and ACL mentor, and contributes to open research through Cohere For AI's Aya initiative and SEACrowd. See his [community service](/service/) and [invited talks](/talks/).
+
+## Profiles
+
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=R3X_R9UAAAAJ)
+- [LinkedIn](https://www.linkedin.com/in/hitesh-patel-63ba9210a/)
+- [GitHub](https://github.com/HITESHLPATEL)
+- [Oracle author profile](https://blogs.oracle.com/authors/hiteshlaxmichand-patel/)

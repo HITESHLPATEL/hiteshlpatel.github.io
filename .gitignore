@@ -1,6 +1,13 @@
 # Ignore the contents of the _site directory and other cache directories
 _site/
 .sass-cache/
+.bundle/
+__pycache__/
+*.pyc
+.env
+.env.*
+.agents/
+.codex/
 
 # Ignore the directory for local files during development
 local/

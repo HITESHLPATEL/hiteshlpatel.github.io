@@ -1,6 +1,8 @@
 ---
 layout: archive
 title: "News"
+description: "Research news from Hitesh Laxmichand Patel: publications, conference acceptances, and awards in multilingual AI, multimodal AI, and LLM evaluation."
+last_modified_at: 2026-10-06
 permalink: /news/
 author_profile: true
 ---
