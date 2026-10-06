@@ -1,3 +1,12 @@
+{% if include.compact %}
+<ul class="featured-papers--compact">
+  {% for paper in site.data.featured_research %}
+  {% unless paper.homepage == false %}
+  <li class="featured-paper--compact"><a href="{{ paper.paper_url | escape }}" title="{{ paper.title | escape }}"><strong>{{ paper.short_title | default: paper.title | escape }}</strong></a> — {{ paper.highlight | escape }} <span class="featured-paper__meta">{{ paper.venue | escape }}{% if paper.award %} · <strong>{{ paper.award | escape }}</strong>{% endif %}.</span></li>
+  {% endunless %}
+  {% endfor %}
+</ul>
+{% else %}
 <div class="featured-papers">
   {% for paper in site.data.featured_research %}
   <article class="featured-paper">
@@ -9,3 +18,4 @@
   </article>
   {% endfor %}
 </div>
+{% endif %}

@@ -2,7 +2,7 @@
 permalink: /
 title: "Hitesh Laxmichand Patel"
 seo_title: "Hitesh Laxmichand Patel | Principal Applied Scientist at Oracle"
-description: "Hitesh Laxmichand Patel is a Principal Applied Scientist at Oracle working on LLM post-training, agentic AI, retrieval, and reasoning evaluation."
+description: "Hitesh Laxmichand Patel, Principal Applied Scientist at Oracle, researches LLM post-training, agentic AI, retrieval, multimodal AI, and evaluation."
 schema_type: ProfilePage
 last_modified_at: 2026-10-06
 author_profile: true
@@ -11,7 +11,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a **Principal Applied Scientist and Tech Lead at Oracle**. I work on **LLM post-training, agentic AI and retrieval, and reasoning evaluation**. My research asks how to train models that reason across languages, use evidence effectively, and can be evaluated when correct answers are difficult to verify.
+I'm a **Principal Applied Scientist and Tech Lead at Oracle**. My research spans **LLM post-training, agentic AI, retrieval, and multimodal AI**, with a focus on reasoning and evaluation. I study how to train and evaluate models that reason across languages and modalities, use evidence effectively, and remain reliable when correct answers are difficult to verify.
 
 At Oracle, my [work](/projects/) spans generative AI guardrails, AI coding assistants, and vision and document intelligence. Recent collaborative research includes [Language-Mixed CoT](/research/language-mixed-cot/) for training multilingual reasoning models, [RECOR](/research/recor/) for reasoning-based conversational retrieval, and [Judging What We Cannot Solve](/research/judging-what-we-cannot-solve/) for evaluating research-level mathematical solutions.
 
@@ -24,13 +24,13 @@ My research asks how we can train models to reason consistently, ground their an
 - **LLM post-training and alignment:** reasoning distillation, preference learning, multilingual consistency, and adaptation to enterprise domains.
 - **Agentic AI and retrieval:** tool use, multi-step workflows, conversational search, retrieval-augmented generation (RAG), and grounding in enterprise knowledge.
 - **Reasoning and evaluation:** evaluating difficult mathematics, model judges, reward signals, and benchmark validity and contamination.
-- **Multilingual and multimodal AI:** reasoning across languages, cultural understanding, vision-language models, and document intelligence.
+- **Multimodal AI:** vision-language models, visual reasoning, context robustness, cultural understanding, and document intelligence.
 - **AI safety and fairness:** guardrail models, adversarial evaluation, prompt injection, and disability and cultural bias.
 
 Explore the [research themes and paper summaries](/research/) or my [projects at Oracle](/projects/).
 
 ## Selected papers
 
-{% include featured-research.html %}
+{% include featured-research.html compact=true %}
 
 See [more publications](/publications/), my [professional profile](/cv/), [invited talks](/talks/), and [community service](/service/).

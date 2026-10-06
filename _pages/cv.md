@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Professional Profile"
-description: "Professional profile of Hitesh Laxmichand Patel: Principal Applied Scientist and Tech Lead at Oracle researching LLM post-training, retrieval, and evaluation."
+description: "Professional profile of Hitesh Laxmichand Patel: Principal Applied Scientist and Tech Lead at Oracle researching LLM post-training, retrieval, and multimodal AI."
 schema_type: ProfilePage
 last_modified_at: 2026-10-06
 permalink: /cv/

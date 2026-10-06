@@ -1,4 +1,6 @@
 - slug: accesseval
+  short_title: "AccessEval"
+  highlight: "Disability bias in LLMs."
   title: "AccessEval: Benchmarking Disability Bias in Large Language Models"
   venue: "EMNLP 2025"
   award: "Best Social Impact Paper Award"
@@ -11,6 +13,8 @@
     - Hitesh Laxmichand Patel
 
 - slug: judging-what-we-cannot-solve
+  short_title: "Judging What We Cannot Solve"
+  highlight: "Evaluating research-level mathematics."
   title: "Judging What We Cannot Solve: A Consequence-Based Approach for Oracle-Free Evaluation of Research-Level Math"
   venue: "ICML 2026"
   award: "Spotlight"
@@ -28,6 +32,8 @@
     - Youngjae Yu
 
 - slug: recor
+  short_title: "RECOR"
+  highlight: "Reasoning in conversational retrieval."
   title: "RECOR: Reasoning-focused Multi-turn Conversational Retrieval Benchmark"
   venue: "ACL 2026 Findings"
   topic: "Conversational retrieval"
@@ -43,6 +49,8 @@
     - Adam Jatowt
 
 - slug: language-mixed-cot
+  short_title: "Language-Mixed CoT"
+  highlight: "Training multilingual reasoning models."
   title: "Pushing on Multilingual Reasoning Models with Language-Mixed Chain-of-Thought"
   venue: "ICLR 2026"
   topic: "Training reasoning models"
@@ -65,6 +73,8 @@
     - Youngjae Yu
 
 - slug: multilingual-alignment
+  short_title: "Multilingual Alignment"
+  highlight: "Consistent LLM behavior across languages."
   title: "Aligning LLMs for Multilingual Consistency in Enterprise Applications"
   venue: "EMNLP 2025 Industry"
   topic: "Post-training and alignment"
@@ -79,6 +89,7 @@
     - Dan Roth
 
 - slug: enterprise-retrieval
+  homepage: false
   title: "Hard Negative Mining for Domain-Specific Retrieval in Enterprise Systems"
   venue: "ACL 2025 Industry"
   topic: "Enterprise search and RAG"
@@ -90,3 +101,22 @@
     - Priyaranjan Pattnayak
     - Hitesh Laxmichand Patel
     - Srikant Panda
+
+- slug: pcri
+  short_title: "PCRI"
+  highlight: "Context robustness in multimodal models."
+  title: "PCRI: Measuring Context Robustness in Multimodal Models for Enterprise Applications"
+  venue: "EMNLP 2025 Industry"
+  topic: "Multimodal AI and evaluation"
+  summary: "Measuring how distracting visual context affects multimodal models by comparing localized image patches with full-image inputs."
+  paper_url: "https://aclanthology.org/2025.emnlp-industry.14/"
+  authors:
+    - Hitesh Laxmichand Patel
+    - Amit Agarwal
+    - Srikant Panda
+    - Hansa Meghwani
+    - Karan Dua
+    - Paul Li
+    - Tao Sheng
+    - Sujith Ravi
+    - Dan Roth

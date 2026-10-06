@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research"
-description: "Hitesh Laxmichand Patel's research on LLM post-training, agentic retrieval, reasoning evaluation, multilingual alignment, and AI fairness."
+description: "Hitesh Laxmichand Patel's research on LLM post-training, agentic AI, retrieval, multimodal AI, multilingual alignment, and reasoning evaluation."
 schema_type: CollectionPage
 last_modified_at: 2026-10-06
 permalink: /research/

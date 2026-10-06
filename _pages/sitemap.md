@@ -14,7 +14,6 @@ author_profile: true
   - [{{ paper.title }}](/research/{{ paper.slug }}/)
 {% endfor %}
   - [SweEval: Multilingual enterprise AI safety](/research/sweeval/)
-  - [PCRI: Multimodal context robustness](/research/pcri/)
 - [Projects at Oracle](/projects/)
 - [Selected publications](/publications/)
 - [Professional profile](/cv/)

@@ -28,7 +28,6 @@ sitemap: false
 ## Additional benchmarks
 
 - [SweEval]({{ site.url }}/research/sweeval/): Multilingual safety for enterprise communication tasks.
-- [PCRI]({{ site.url }}/research/pcri/): Context robustness in multimodal models.
 
 ## Professional profiles
 {% for profile_url in site.social.links %}

@@ -59,7 +59,20 @@
   color: var(--global-award-icon-color);
 }
 
-/* A bibliography-style list keeps the research and its authors prominent. */
+.featured-papers--compact {
+  padding-left: 1.2em;
+
+  li {
+    margin-bottom: 0.65em;
+    line-height: 1.5;
+  }
+
+  .featured-paper__meta {
+    font-size: 0.85em;
+  }
+}
+
+/* Full publication details on the research page. */
 .featured-paper {
   padding: 1.1em 0;
   border-bottom: 1px solid var(--global-card-border-color);
