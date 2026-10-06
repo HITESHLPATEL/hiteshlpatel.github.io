@@ -36,9 +36,9 @@ $sidebar-screen-min-width   : 1024px;
     --global-code-background-color      : #fafafa;
     --global-code-text-color            : #{$darker-gray};
     --global-fig-caption-color          : mix(#fff,  #{$dark-gray}, 25%);
-    --global-link-color                 : #285f64; // muted teal
-    --global-link-color-hover           : #1f4c50;
-    --global-link-color-visited         : #345e61;
+    --global-link-color                 : #3b5f8a; // subdued slate blue
+    --global-link-color-hover           : #294566;
+    --global-link-color-visited         : #4b587f;
     --global-masthead-link-color        : #{$dark-gray};
     --global-masthead-link-color-hover  : mix(#000, #{$gray}, 25%);    
     --global-text-color                 : #{$dark-gray};
@@ -48,9 +48,9 @@ $sidebar-screen-min-width   : 1024px;
     --global-card-bg-color              : #fff;
     --global-card-border-color          : #{$lighter-gray};
     --global-card-shadow                : 0 4px 12px rgba(0, 0, 0, 0.08);
-    --global-card-heading-color         : #285f64;
-    --global-badge-bg-color             : #eff5f4;
-    --global-badge-text-color           : #285f64;
+    --global-card-heading-color         : #3b5f8a;
+    --global-badge-bg-color             : #eff3f8;
+    --global-badge-text-color           : #3b5f8a;
     --global-award-bg-color             : #fff3cd;
     --global-award-text-color           : #6b4300; // 7.8:1 on badge bg
     --global-award-icon-color           : #b8860b; // standalone medal icon, 3.0:1 on white
