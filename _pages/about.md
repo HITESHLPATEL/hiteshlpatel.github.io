@@ -20,15 +20,6 @@ Our work on [AccessEval](/research/accesseval/) received the **EMNLP 2025 Best S
 
 I received my M.S. from **New York University**, advised by Prof. Ralph Grishman. I contribute to open research through [Cohere For AI's Aya initiative](https://cohere.com/research/aya), [SEACrowd](/service/#open-research-communities), and [CommonLID](https://commonlid.org/), a collaboration involving Common Crawl, EleutherAI, and MLCommons. I also [give invited talks and tutorials](/talks/) and [organize workshops and research challenges](/service/).
 
-## Research interests
-
-- **Multilingual AI and post-training:** distillation, preference learning, and alignment for consistent reasoning across languages.
-- **Multimodal AI:** understanding images and documents, and studying how visual context affects model behavior.
-- **Agentic AI and retrieval:** retrieval-augmented generation (RAG), tool use, and grounded reasoning across multi-step tasks.
-- **Evaluation and reliability:** model judges and benchmarks for reasoning, robustness, safety, and fairness.
-
-Explore [all publications](/publications/) or my [projects at Oracle](/projects/).
-
 ## Selected papers
 
 {% include featured-research.html compact=true %}

@@ -32,6 +32,7 @@
     - Youngjae Yu
 
 - slug: recor
+  homepage: false
   short_title: "RECOR"
   highlight: "A conversational retrieval benchmark that tests reasoning over dialogue history and implicit information needs."
   title: "RECOR: Reasoning-focused Multi-turn Conversational Retrieval Benchmark"
@@ -73,6 +74,7 @@
     - Youngjae Yu
 
 - slug: multilingual-alignment
+  homepage: false
   short_title: "Multilingual Alignment"
   highlight: "Fine-tuning on equivalent multilingual examples to improve consistency across languages in enterprise tasks."
   title: "Aligning LLMs for Multilingual Consistency in Enterprise Applications"
@@ -103,6 +105,7 @@
     - Srikant Panda
 
 - slug: pcri
+  homepage: false
   short_title: "PCRI"
   highlight: "Measuring sensitivity to distracting visual context by comparing localized image patches with full-image inputs."
   title: "PCRI: Measuring Context Robustness in Multimodal Models for Enterprise Applications"
@@ -119,4 +122,43 @@
     - Paul Li
     - Tao Sheng
     - Sujith Ravi
+    - Dan Roth
+
+- slug: world-in-a-frame
+  has_research_note: false
+  short_title: "World in a Frame"
+  highlight: "Studying how mixed cultural context affects vision-language models and how fine-tuning improves consistency."
+  title: "World in a Frame: Understanding Culture Mixing as a New Challenge for Vision-Language Models"
+  venue: "CVPR 2026"
+  topic: "Multimodal and multicultural AI"
+  summary: "CultureMix tests vision-language models on images combining cultural elements from different regions and studies fine-tuning to improve consistency."
+  paper_url: "https://arxiv.org/abs/2511.22787"
+  authors:
+    - Eunsu Kim
+    - Junyeong Park
+    - Na Min An
+    - Junseong Kim
+    - Hitesh Laxmichand Patel
+    - Jiho Jin
+    - Julia Kruk
+    - Amit Agarwal
+    - Srikant Panda
+    - Fenal Ashokbhai Ilasariya
+    - Hyunjung Shim
+    - Alice Oh
+
+- slug: spence
+  has_research_note: false
+  short_title: "SPENCE"
+  highlight: "Probing text-to-SQL benchmarks for signs of training contamination through controlled changes to query syntax."
+  title: "SPENCE: A Syntactic Probe for Detecting Contamination in NL2SQL Benchmarks"
+  venue: "ACL 2026"
+  topic: "Model evaluation and benchmark contamination"
+  summary: "A framework using syntactic variations of text-to-SQL queries to probe possible training contamination and its effects on model evaluation."
+  paper_url: "https://aclanthology.org/2026.acl-long.926/"
+  authors:
+    - Mohammadtaher Safarzadeh
+    - Hitesh Laxmichand Patel
+    - Afshin Oroojlooy
+    - Graham Horwood
     - Dan Roth
