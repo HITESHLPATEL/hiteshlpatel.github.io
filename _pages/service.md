@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: "Service"
-description: "Hitesh Laxmichand Patel's research community service: workshop organization, area chair roles, reviewing, ACL mentorship, and SEACrowd contributions."
-last_modified_at: 2026-10-06
+description: "Hitesh Laxmichand Patel's academic service: workshop organization, ACL and EMNLP area chair roles, conference reviewing, mentorship, and open research with Aya, SEACrowd, and CommonLID."
+last_modified_at: 2026-10-13
 permalink: /service/
 author_profile: true
 ---
@@ -10,25 +10,42 @@ author_profile: true
 
 ## Workshop Organization
 
-- **Workshop Organizer**, [GRAIL-V: Grounded Retrieval and Agentic Intelligence for Vision-Language](https://grailworkshops.github.io/) <span class="venue-badge">CVPR'26</span>
+- **Workshop Organizer**, [GRAIL-V: Grounded Retrieval and Agentic Intelligence for Vision-Language](https://grailworkshops.github.io/speakers/) <span class="venue-badge">CVPR'26</span>
 - **Workshop Challenge Organizer**, [DocInsights: Workshop on Document Intelligence and Understanding](https://docinsights-workshop.github.io/docinsights-2026/organizers/) <span class="venue-badge">EMNLP'26</span>
 
-## Program Committee & Reviewing
+## Area Chair
 
-- **Area Chair**, ACL, EMNLP Industry.
-- **Program Committee**, [SURGeLLM Workshop](https://surgellm.github.io/acl2026/) <span class="venue-badge">ACL'26</span>
-- **Reviewer**, ICLR, NeurIPS, ACL, NAACL, EMNLP, KDD.
+- [**ACL 2026 — Industry Track**](https://aclanthology.org/2026.acl-industry.0.pdf#page=6).
+- [**EMNLP 2025 — Industry Track**](https://aclanthology.org/2025.emnlp-industry.0.pdf#page=5).
+
+## Conference Reviewing
+
+- [**ACL 2025**](https://aclanthology.org/2025.acl-long.0.pdf#page=32).
+- [**EMNLP 2025**](https://aclanthology.org/2025.emnlp-main.0.pdf#page=36).
+- [**KDD 2025 — Applied Data Science Track**](https://kdd.org/kdd2025/applied-data-science-ads-track-program-committee/).
+
+Additional reviewing includes ICLR, NeurIPS, and NAACL.
+
+## Workshop Program Committees & Reviewing
+
+- **Program Committee**, [SURGeLLM: Structured Understanding, Retrieval, and Generation in the LLM Era](https://surgellm.github.io/acl2026/organizers/) <span class="venue-badge">ACL'26</span>
+- **Reviewer**, [KnowledgeNLP: 4th International Workshop on Knowledge-Augmented Methods for Natural Language Processing](https://aclanthology.org/2025.knowledgenlp-1.0.pdf#page=5) <span class="venue-badge">NAACL'25</span>
+- **Reviewer**, [Women in Machine Learning (WiML) Workshop](https://sites.google.com/wimlworkshop.org/wiml-2024/program) <span class="venue-badge">NeurIPS'24</span>
 
 ## Mentorship
 
 - **Mentor**, ACL Student Research Workshop (SRW), 2025.
-- Mentor scientists across Oracle's applied generative-AI organization through invention disclosures, paper drafting, and the patent filing process.
+- Mentor scientists at Oracle on research development and paper writing.
+
+See also my [invited talks and tutorials](/talks/).
 
 ## Open Research Communities
 
-- **SEACrowd.** Co-author on community-led research advancing AI for Southeast Asian languages and cultures:
+- **[Cohere For AI's Aya initiative](https://cohere.com/research/aya).** Contribute to open research on multilingual AI.
+- **[SEACrowd](https://seacrowd.org/contribute.html).** Co-author on community-led research advancing AI for Southeast Asian languages and cultures:
   - *Crowdsource, Crawl, or Generate? Creating SEA-VL: A Multicultural Vision-Language Dataset for Southeast Asia.* <span class="venue-badge">ACL'25</span> [[paper]](https://aclanthology.org/2025.acl-long.916/)
   - *Anthropogenic Regional Adaptation in Multimodal Vision-Language Models.* <span class="venue-badge">arXiv'26</span> [[paper]](https://arxiv.org/abs/2604.11490)
+- **[CommonLID](https://commonlid.org/).** Co-author on a community-built benchmark for language identification in web data, developed through a collaboration involving Common Crawl, EleutherAI, and MLCommons. <span class="venue-badge">ACL'26</span> [[paper]](https://aclanthology.org/2026.acl-long.1527/)
 
 ## Industry Service
 
