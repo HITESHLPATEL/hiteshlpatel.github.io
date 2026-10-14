@@ -12,13 +12,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a **Principal Applied Scientist and Tech Lead at Oracle**, working on **multilingual, multimodal, and agentic AI**. My research focuses on reasoning and reliability in language and vision models: how they learn to solve complex problems, use external knowledge, and act through tools.
+I'm a **Principal Applied Scientist and Tech Lead at Oracle**. My research centers on developing language and vision models with stronger reasoning and more reliable behavior across languages and cultures. This includes post-training for multilingual and multimodal models, and agents that retrieve knowledge, use tools, and collaborate over long horizons.
 
-I develop **post-training and alignment methods**, study retrieval and tool use in AI agents, and build evaluations of model capabilities and behavior. I'm particularly interested in how to assess reasoning when answers are difficult to verify, and when model-based judgments can be trusted. This informs my work on robustness, safety, and fairness.
+A central focus of my research is closing the gap between model capability and reliable behavior. My work on evaluation examines the limits of reasoning, knowledge use, and agent behavior, informing how models are trained and aligned. Safety and fairness are central to this agenda, including how well these systems serve people across languages and cultural contexts.
 
-At Oracle, my work includes [Agent Hub](https://www.oracle.com/emea/artificial-intelligence/generative-ai/generative-ai-service/features/) and [responsible AI](/projects/). Our work on [AccessEval](/research/accesseval/) received the **EMNLP 2025 Best Social Impact Paper Award**, and [Judging What We Cannot Solve](/research/judging-what-we-cannot-solve/) was selected as an **ICML 2026 Spotlight**.
+Our work on [AccessEval](/research/accesseval/) received the **EMNLP 2025 Best Social Impact Paper Award**, and [Judging What We Cannot Solve](/research/judging-what-we-cannot-solve/) was selected as an **ICML 2026 Spotlight**.
 
-I received my M.S. from **New York University**, advised by Prof. Ralph Grishman. Alongside my research, I [give invited talks and tutorials](/talks/), [organize workshops and research challenges](/service/), and contribute to open research through Cohere For AI's Aya initiative and SEACrowd.
+I received my M.S. from **New York University**, advised by Prof. Ralph Grishman. I contribute to open research through [Cohere For AI's Aya initiative](https://cohere.com/research/aya), [SEACrowd](/service/#open-research-communities), and [CommonLID](https://commonlid.org/), a collaboration involving Common Crawl, EleutherAI, and MLCommons. I also [give invited talks and tutorials](/talks/) and [organize workshops and research challenges](/service/).
 
 ## Research interests
 
