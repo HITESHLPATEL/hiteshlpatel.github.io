@@ -63,7 +63,7 @@
 .profile-layout {
   #main,
   .masthead__inner-wrap {
-    max-width: 1040px;
+    max-width: 1160px;
   }
 
   @include breakpoint($large) {
@@ -77,8 +77,8 @@
       display: flow-root;
       float: none;
       width: auto;
-      max-width: 72ch;
-      margin-left: calc(220px + 3rem);
+      max-width: none;
+      margin-left: calc(220px + 2rem);
       padding: 0;
     }
   }

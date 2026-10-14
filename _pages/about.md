@@ -12,11 +12,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a **Principal Applied Scientist and Tech Lead at Oracle**, where I lead applied research and model development in **multilingual, multimodal, and agentic AI**. My work spans model training, evaluation, and production deployment, with a focus on reasoning, grounding, and reliability.
+I'm a **Principal Applied Scientist and Tech Lead at Oracle**, working on **multilingual, multimodal, and agentic AI**. My research focuses on reasoning and reliability in language and vision models: how they learn to solve complex problems, use external knowledge, and act through tools.
 
-I develop **post-training and alignment methods for language and vision models**, with an emphasis on reasoning that transfers across languages and visual contexts. My work on agentic systems addresses how models use retrieved evidence and tools to solve complex tasks. My evaluation research examines robustness, fairness, and the limits of model judgment, including research-level mathematics where direct verification is difficult.
+I develop **post-training and alignment methods**, study retrieval and tool use in AI agents, and build evaluations of model capabilities and behavior. I'm particularly interested in how to assess reasoning when answers are difficult to verify, and when model-based judgments can be trusted. This informs my work on robustness, safety, and fairness.
 
-At Oracle, my work includes [generative AI safety](/projects/), and I previously served as technical lead for **OCI Vision and Document Intelligence**. Our work on [AccessEval](/research/accesseval/) received the **EMNLP 2025 Best Social Impact Paper Award**, and [Judging What We Cannot Solve](/research/judging-what-we-cannot-solve/) was selected as an **ICML 2026 Spotlight**.
+At Oracle, my work includes [Agent Hub](https://www.oracle.com/emea/artificial-intelligence/generative-ai/generative-ai-service/features/) and [responsible AI](/projects/). Our work on [AccessEval](/research/accesseval/) received the **EMNLP 2025 Best Social Impact Paper Award**, and [Judging What We Cannot Solve](/research/judging-what-we-cannot-solve/) was selected as an **ICML 2026 Spotlight**.
 
 I received my M.S. from **New York University**, advised by Prof. Ralph Grishman. Alongside my research, I [give invited talks and tutorials](/talks/), [organize workshops and research challenges](/service/), and contribute to open research through Cohere For AI's Aya initiative and SEACrowd.
 
