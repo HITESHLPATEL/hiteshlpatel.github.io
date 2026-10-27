@@ -12,9 +12,9 @@ $background                 : #474747;
 $background-light           : mix(#fff, $background, 80%);
 $background-lighter         : mix(#fff, $background, 90%);
 $text                       : #ffffff;
-$link                       : #b9cdeb; // slate blue for dark backgrounds
-$link-dark                  : #b8c8e3;
-$link-light                 : #cad8ef;
+$link                       : #c3d2df; // muted blue, 6.0:1 on dark background
+$link-dark                  : #bfcad4;
+$link-light                 : #e1e9ef;
 
 /* Color codes used for the site */
 $danger-color               : #ee5f5b;
@@ -48,7 +48,7 @@ html[data-theme="dark"] {
     --global-link-color-visited         : #{$link-dark};
     --global-masthead-link-color        : #{$text};
     --global-masthead-link-color-hover  : #{$link-light};
-    --global-nav-hover-bg              : #33435a;
+    --global-nav-hover-bg              : #3d4146;
     --global-text-color                 : #{$text};
     --global-text-color-light           : #{$light-gray};
     --global-thead-color                : #{$background-lighter};
@@ -57,8 +57,8 @@ html[data-theme="dark"] {
     --global-card-border-color          : #69727b;
     --global-card-shadow                : 0 4px 12px rgba(0, 0, 0, 0.35);
     --global-card-heading-color         : #{$text};
-    --global-badge-bg-color             : #33435a;
-    --global-badge-text-color           : #d0dcef;
+    --global-badge-bg-color             : #3d4146;
+    --global-badge-text-color           : #e2e5e8;
     --global-award-bg-color             : #4a3700;
     --global-award-text-color           : #ffe08a; // 8.9:1 on badge bg
     --global-award-icon-color           : #ffd966;
