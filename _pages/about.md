@@ -4,7 +4,7 @@ title: "Hitesh Laxmichand Patel"
 seo_title: "Hitesh Laxmichand Patel | Principal Applied Scientist at Oracle"
 description: "Hitesh Laxmichand Patel, Principal Applied Scientist at Oracle, researches multilingual, multimodal, and agentic AI, model post-training, retrieval, and evaluation."
 schema_type: ProfilePage
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-27
 author_profile: true
 body_class: research-profile
 redirect_from: 
@@ -23,5 +23,3 @@ I received my M.S. from **New York University**, advised by Prof. Ralph Grishman
 ## Selected papers
 
 {% include featured-research.html compact=true %}
-
-See [more publications](/publications/), my [professional profile](/cv/), [invited talks](/talks/), and [community service](/service/).

@@ -90,9 +90,34 @@
     overflow-wrap: anywhere;
   }
 
-  .author__urls i {
-    width: 1.25em;
-    text-align: center;
+  .author__urls {
+    > li {
+      margin: 0;
+      padding: 0;
+    }
+
+    > li > a,
+    > .author__desktop {
+      display: grid;
+      grid-template-columns: 1.25em minmax(0, 1fr);
+      column-gap: 0.6em;
+      align-items: center;
+      min-height: 32px;
+      margin: 0;
+      padding: 0;
+      line-height: 1.5;
+    }
+
+    > li > a {
+      font-size: inherit;
+    }
+
+    i {
+      width: 1.25em;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
   }
 
   @include breakpoint(max-width ($large - 1px)) {
@@ -155,6 +180,10 @@
 
       li {
         white-space: normal;
+      }
+
+      > .author__desktop {
+        display: none;
       }
 
       a {
@@ -318,7 +347,6 @@ html[data-theme="dark"] {
   text-underline-offset: 0.35em;
 }
 .author__name { font-weight: 700; }
-.author__urls a { min-height: 32px; }
 
 /* Give the profile action a visible boundary and match the site's link palette. */
 .profile-toggle.btn--inverse {
@@ -345,7 +373,7 @@ html[data-theme="dark"] .social-icons i { color: inherit; }
     border: 0;
     box-shadow: none;
     &:before, &:after { display: none; }
-    a { padding: 0.4rem 0; min-height: 44px; }
+    > li > a { min-height: 44px; }
   }
   .profile-toggle { min-height: 44px; }
 }

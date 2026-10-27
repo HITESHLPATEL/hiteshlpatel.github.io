@@ -3,7 +3,7 @@ layout: archive
 title: "Publications"
 description: "Publications by Hitesh Laxmichand Patel on LLM post-training, reasoning evaluation, retrieval, multimodal AI, multilingual models, and fairness."
 schema_type: CollectionPage
-last_modified_at: 2026-10-06
+last_modified_at: 2026-10-27
 permalink: /publications/
 author_profile: true
 redirect_from:
@@ -12,11 +12,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-See my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=R3X_R9UAAAAJ) for the complete publication record and citations.
-
-## Selected Publications
-
-### 2026
+## 2026
 
 - **[Judging What We Cannot Solve: A Consequence-Based Approach for Oracle-Free Evaluation of Research-Level Math](https://arxiv.org/pdf/2602.06291)**.
 <span class="venue-badge">ICML'26</span><span class="award-badge"><i class="fa-solid fa-star" aria-hidden="true"></i>Spotlight</span>
@@ -59,7 +55,7 @@ Jiashu He, Meizhu Liu, Olaitan P Olaleye, Amit Agarwal, M. Avendi, Yassi Abbasi,
 Azmine Toushik Wasi, Omid Reza Heidari, MD Mohaymen Ul Anam, Abdur Rahman, Amit Agarwal, **Hitesh Laxmichand Patel**, Bhargava Kumar, Taki Hasan Rafi, Dong-Kyu Chae, 
 
 
-### 2025
+## 2025
 - **[AccessEval: Benchmarking Disability Bias in Large Language Models](https://aclanthology.org/2025.emnlp-main.1653/)**.
 <span class="venue-badge">EMNLP'25</span><span class="award-badge"><i class="fa-solid fa-medal" aria-hidden="true"></i>Best Social Impact Paper Award</span>
 Srikant Panda, Amit Agarwal, **Hitesh Laxmichand Patel**
@@ -143,7 +139,7 @@ Priyaranjan Pattnayak, **Hitesh Laxmichand Patel**, Amit Agarwal
 Priyaranjan Pattnayak, **Hitesh Laxmichand Patel**, Amit Agarwal, Bhargava Kumar, Srikant Panda, Tejaswini Kumar
 
 
-### 2024
+## 2024
 
 - **[LLM for Barcodes: Generating Diverse Synthetic Data for Identity Documents](https://link.springer.com/chapter/10.1007/978-981-95-0183-0_33)**.
 <span class="venue-badge">Springer'24</span>
