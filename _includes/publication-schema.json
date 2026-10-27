@@ -1,0 +1,21 @@
+{
+  "@type": "ScholarlyArticle",
+  "@id": {{ include.publication.url | append: "#paper" | jsonify }},
+  "url": {{ include.publication.url | jsonify }},
+  "name": {{ include.publication.title | jsonify }},
+  "description": {% capture listing_description %}{{ include.publication.venue }}{% if include.publication.recognition %}; {{ include.publication.recognition }}{% endif %}.{% endcapture %}{{ listing_description | jsonify }},
+  "author": [
+    {% for author_name in include.publication.authors %}
+    { "@type": "Person", "name": {{ author_name | jsonify }}{% if author_name == site.author.name %}, "@id": {{ site.url | append: "/#person" | jsonify }}{% endif %} }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+  {% if include.with_abstracts %}
+    {% assign abstract_record = site.data.publication_abstracts[include.publication.url] %}
+    {% if abstract_record %},
+    "abstract": {{ abstract_record.text | jsonify }}
+    {% if abstract_record.source_url != include.publication.url %},
+    "sameAs": {{ abstract_record.source_url | jsonify }}
+    {% endif %}
+    {% endif %}
+  {% endif %}
+}

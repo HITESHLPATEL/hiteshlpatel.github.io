@@ -1,0 +1,44 @@
+---
+layout: null
+permalink: /llms-full.txt
+sitemap: false
+---
+# {{ site.author.name }} — Research and publications
+
+> {{ site.author.bio }}.
+
+This is a text representation of the public publication list, with abstracts from the linked publication records when available. The HTML publication list is at {{ site.url }}/publications/. An omitted abstract means it has not been verified for this catalog.
+
+Profile: {{ site.url }}/
+Academic service and mentorship: {{ site.url }}/service/
+Publication data (JSON-LD): {{ site.url }}/publications.json
+
+## Research topics
+
+{% for topic in site.author.research_topics %}- {{ topic }}
+{% endfor %}
+
+## Publications
+{% for publication in site.data.publications %}
+### {{ publication.title }}
+
+Authors: {{ publication.authors | join: ", " }}.
+Listing: {{ publication.venue }}.
+Publication record: {{ publication.url }}
+{% if publication.recognition %}Recognition: {{ publication.recognition }}.
+{% endif %}{% assign abstract_record = site.data.publication_abstracts[publication.url] %}{% if abstract_record %}
+Abstract:
+{{ abstract_record.text }}
+
+Abstract source{% if abstract_record.source_type %} ({{ abstract_record.source_type }}){% endif %}: {{ abstract_record.source_url }}
+{% endif %}{% endfor %}
+
+## Research notes
+{% assign research_notes = site.pages | sort: "url" %}{% for note in research_notes %}{% if note.paper %}
+- [{{ note.title }}]({{ site.url }}{{ note.url }}): {{ note.description }}
+{% endif %}{% endfor %}
+
+## Professional profiles
+{% for profile_url in site.social.links %}
+- {{ profile_url }}
+{% endfor %}

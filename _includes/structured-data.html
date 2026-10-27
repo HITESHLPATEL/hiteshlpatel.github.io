@@ -47,6 +47,8 @@
       {% endif %}
       {% if page.schema_type == "ProfilePage" %},
       "mainEntity": { "@id": {{ person_id | jsonify }} }
+      {% elsif page.url == "/publications/" %},
+      "mainEntity": { "@id": {{ site.url | append: "/publications/#publication-list" | jsonify }} }
       {% elsif page.paper %},
       "about": { "@id": {{ page.paper.url | append: "#paper" | jsonify }} }
       {% endif %}
@@ -79,3 +81,8 @@
   ]
 }
 </script>
+{% if page.url == "/publications/" %}
+<script type="application/ld+json">
+{% include publication-catalog.json %}
+</script>
+{% endif %}

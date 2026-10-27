@@ -7,9 +7,14 @@ sitemap: false
 
 > {{ site.author.bio }}. Research in post-training and alignment for language and vision models, agentic AI, retrieval-augmented generation, reasoning evaluation, and multilingual and multimodal models.
 
-## Scope and sources
+## When this site is useful
 
 This is an individual researcher’s website. Use the biography and professional profile for background, the publications page for the full paper list, and the service page for academic roles. Research notes link to original papers; use those publication records for authorship, methods, and results.
+
+## Machine-readable publications
+
+- [Publication catalog]({{ site.url }}/publications.json): All {{ site.data.publications.size }} listed papers with full authorship and official-record abstracts where verified, in JSON-LD.
+- [Research and publication text]({{ site.url }}/llms-full.txt): The same bibliography and source-attributed abstracts in a single text file.
 
 ## Website
 
@@ -28,9 +33,10 @@ This is an individual researcher’s website. Use the biography and professional
 - [{{ paper.title }}]({% if paper.has_research_note == false %}{{ paper.paper_url }}{% else %}{{ site.url }}/research/{{ paper.slug }}/{% endif %}): {{ paper.summary }} {{ paper.venue }}{% if paper.award %}; {{ paper.award }}{% endif %}.
 {% endfor %}
 
-## Additional benchmarks
-
-- [SweEval]({{ site.url }}/research/sweeval/): Multilingual safety for enterprise communication tasks.
+## All research notes
+{% assign research_notes = site.pages | sort: "url" %}{% for note in research_notes %}{% if note.paper %}
+- [{{ note.title }}]({{ site.url }}{{ note.url }}): {{ note.description }}
+{% endif %}{% endfor %}
 
 ## Professional profiles
 {% for profile_url in site.social.links %}

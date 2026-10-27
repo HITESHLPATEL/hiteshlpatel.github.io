@@ -10,7 +10,10 @@
 <link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
-<link rel="alternate" type="text/plain" href="{{ base_path }}/llms.txt" title="Research and publication index"/>
+<link rel="describedby" type="text/plain" href="{{ base_path }}/llms.txt" title="Research and publication index"/>
+{% if page.url == "/publications/" %}
+<link rel="alternate" type="application/ld+json" href="{{ base_path }}/publications.json" title="Publication catalog with source abstracts"/>
+{% endif %}
 
 
 <!-- Load mathematical typesetting only on pages that request it. -->
