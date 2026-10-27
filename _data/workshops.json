@@ -1,0 +1,49 @@
+[
+  {
+    "id": "rbd-naacl-2027",
+    "name": "Retrieval Beyond Documents (RBD)",
+    "conference": "NAACL 2027",
+    "role": "Workshop Organizer",
+    "url": "https://rbd-workshop.github.io/",
+    "role_source": "https://rbd-workshop.github.io/organizers/",
+    "overview": "RBD studies how language agents retrieve capabilities such as tools, skills, workflows, memory, models, and other agents. Its scope covers capability representation and indexing, retrieval and composition, adaptation during execution, evaluation of capability use, and deployment in dynamic registries.",
+    "overview_source": "https://rbd-workshop.github.io/cfp/",
+    "topics": ["Capability retrieval", "Language agents", "Tool and skill retrieval", "Agent evaluation"],
+    "source_reviewed_on": "2026-10-27"
+  },
+  {
+    "id": "craft-coling-2027",
+    "name": "CRAFT",
+    "conference": "COLING 2027",
+    "role": "Workshop Organizer",
+    "role_source": "https://hiteshlpatel.github.io/service/#academic-service"
+  },
+  {
+    "id": "grail-v-cvpr-2026",
+    "name": "GRAIL-V: Grounded Retrieval and Agentic Intelligence for Vision-Language",
+    "conference": "CVPR 2026",
+    "role": "Workshop Organizer",
+    "url": "https://grailworkshops.github.io/",
+    "role_source": "https://grailworkshops.github.io/speakers/",
+    "overview": "GRAIL-V brings together research on grounded multimodal retrieval, reranking, reasoning, and verification. The workshop connects agent planning and tool use with evidence selection, citation provenance, and benchmark design for vision-language systems.",
+    "overview_source": "https://grailworkshops.github.io/",
+    "topics": ["Multimodal retrieval", "Agentic AI", "Vision-language models", "Grounded reasoning"],
+    "start_date": "2026-06-03",
+    "location": "Denver, Colorado, USA",
+    "source_reviewed_on": "2026-10-27"
+  },
+  {
+    "id": "docinsights-emnlp-2026",
+    "name": "DocInsights: Workshop on Document Intelligence and Understanding",
+    "conference": "EMNLP 2026",
+    "role": "Workshop Challenge Organizer",
+    "url": "https://docinsights-workshop.github.io/docinsights-2026/",
+    "role_source": "https://docinsights-workshop.github.io/docinsights-2026/organizers/",
+    "overview": "DocInsights studies document intelligence across text, layout, tables, figures, and relationships within and across documents. Its scope includes evidence-grounded reasoning, multimodal understanding, retrieval, evaluation, robustness, and deployment. Shared tasks address quantitative document reasoning and expert-level document parsing.",
+    "overview_source": "https://docinsights-workshop.github.io/docinsights-2026/",
+    "topics": ["Document intelligence", "Multimodal document understanding", "Evidence-grounded reasoning", "Document evaluation"],
+    "start_date": "2026-10-29",
+    "location": "Budapest, Hungary",
+    "source_reviewed_on": "2026-10-27"
+  }
+]

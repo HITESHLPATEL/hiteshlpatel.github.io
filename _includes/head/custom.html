@@ -14,6 +14,9 @@
 {% if page.url == "/publications/" %}
 <link rel="alternate" type="application/ld+json" href="{{ base_path }}/publications.json" title="Publication catalog with source abstracts"/>
 {% endif %}
+{% if page.url == "/service/" %}
+<link rel="describedby" type="application/ld+json" href="{{ base_path }}/workshops.json" title="Workshop roles and sourced overviews"/>
+{% endif %}
 
 
 <!-- Load mathematical typesetting only on pages that request it. -->

@@ -16,6 +16,11 @@ This is an individual researcher’s website. Use the biography and professional
 - [Publication catalog]({{ site.url }}/publications.json): All {{ site.data.publications.size }} listed papers with full authorship, site-curated research topics, verified DOI identifiers where available, and source-attributed abstracts, in JSON-LD.
 - [Research and publication text]({{ site.url }}/llms-full.txt): The same bibliography and source-attributed abstracts in a single text file.
 
+## Machine-readable workshops
+
+- [Workshop catalog]({{ site.url }}/workshops.json): Workshop and challenge-organizer roles, conference editions, and sourced overviews where available. Dates are included only when published by the workshop.
+- [Full research and service text]({{ site.url }}/llms-full.txt): Workshop overviews and role-source links alongside the publication catalog.
+
 ## Website
 
 - [About Hitesh]({{ site.url }}/): Biography, current role, and research interests.

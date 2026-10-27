@@ -36,6 +36,24 @@ Abstract:
 Abstract source{% if abstract_record.source_type %} ({{ abstract_record.source_type }}){% endif %}: {{ abstract_record.source_url }}
 {% endif %}{% endfor %}
 
+## Workshop organization
+
+These entries describe {{ site.author.name }}'s role in each workshop. Overviews summarize the linked workshop pages. Unannounced dates and unverified overviews are omitted.
+Workshop data (JSON-LD): {{ site.url }}/workshops.json
+{% for workshop in site.data.workshops %}
+### {{ workshop.name }} — {{ workshop.conference }}
+
+Role: {{ workshop.role }}.
+Role source: {{ workshop.role_source }}
+{% if workshop.url %}Workshop website: {{ workshop.url }}
+{% endif %}{% if workshop.overview %}
+Overview: {{ workshop.overview }}
+Overview source: {{ workshop.overview_source }}
+{% endif %}{% if workshop.topics %}Topics: {{ workshop.topics | join: "; " }}.
+{% endif %}{% if workshop.start_date %}Workshop date: {{ workshop.start_date }}.
+{% endif %}{% if workshop.location %}Location: {{ workshop.location }}.
+{% endif %}{% endfor %}
+
 ## Research notes
 {% assign research_notes = site.pages | sort: "url" %}{% for note in research_notes %}{% if note.paper %}
 - [{{ note.title }}]({{ site.url }}{{ note.url }}): {{ note.description }}
