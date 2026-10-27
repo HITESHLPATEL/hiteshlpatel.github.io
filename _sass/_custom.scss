@@ -324,3 +324,9 @@ html[data-theme="dark"] { color-scheme: dark; }
     scroll-behavior: auto !important;
   }
 }
+
+/* Research content should be visible as soon as the HTML and CSS arrive. */
+.masthead, #main, .page__footer {
+  -webkit-animation: none;
+  animation: none;
+}
