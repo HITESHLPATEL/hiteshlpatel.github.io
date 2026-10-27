@@ -14,6 +14,28 @@ author_profile: true
 - **Workshop Organizer**, [GRAIL-V: Grounded Retrieval and Agentic Intelligence for Vision-Language](https://grailworkshops.github.io/speakers/) <span class="venue-badge">CVPR'26</span>
 - **Workshop Challenge Organizer**, [DocInsights: Workshop on Document Intelligence and Understanding](https://docinsights-workshop.github.io/docinsights-2026/organizers/) <span class="venue-badge">EMNLP'26</span>
 
+## Research Mentorship
+
+Students I've mentored through research projects and internships:
+
+### Ph.D.
+
+- [**Barry Menglong Yao**](https://barry-menglong-yao.github.io/) — University of California, Davis.
+- [**Hy Dang**](https://hygiadang.com/) — University of Notre Dame.
+- [**Biddut Sarker Bijoy**](https://www.linkedin.com/in/bsbijoy2050/) — Stony Brook University.
+- [**Huy Nghiem**](https://hnghiem-nlp.github.io/) — University of Maryland, College Park.
+
+### Master's
+
+- [**Angeline Charles**](https://www.linkedin.com/in/angelinecharles/) — Christ University; now at Moody's Analytics.
+- [**Ishan Banerjee**](https://www.linkedin.com/in/ishan-banerjee-4bb693220/) — Indian Statistical Institute.
+
+### Undergraduate
+
+- [**Arion Das**](https://sites.google.com/view/ariondasad/home) — B.Tech., Indian Institute of Information Technology Ranchi.
+
+I also served as a mentor for the **ACL Student Research Workshop (SRW), 2025**, and mentor scientists at Oracle on research development and paper writing.
+
 ## Area Chair
 
 - [**EACL 2027 — Industry Track**](https://2027.eacl.org/calls/industry/).
@@ -37,13 +59,6 @@ Additional reviewing includes NeurIPS and NAACL.
 - **Program Committee**, [SURGeLLM: Structured Understanding, Retrieval, and Generation in the LLM Era](https://surgellm.github.io/acl2026/organizers/) <span class="venue-badge">ACL'26</span>
 - **Reviewer**, [KnowledgeNLP: 4th International Workshop on Knowledge-Augmented Methods for Natural Language Processing](https://aclanthology.org/2025.knowledgenlp-1.0.pdf#page=5) <span class="venue-badge">NAACL'25</span>
 - **Reviewer**, [Women in Machine Learning (WiML) Workshop](https://sites.google.com/wimlworkshop.org/wiml-2024/program) <span class="venue-badge">NeurIPS'24</span>
-
-## Mentorship
-
-- **Mentor**, ACL Student Research Workshop (SRW), 2025.
-- Mentor scientists at Oracle on research development and paper writing.
-
-See also my [invited talks and tutorials](/talks/).
 
 ## Open Research Communities
 

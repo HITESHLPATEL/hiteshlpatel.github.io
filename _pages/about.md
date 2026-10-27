@@ -18,7 +18,7 @@ A central focus of my research is closing the gap between model capability and r
 
 Our work on [AccessEval](/research/accesseval/) received the **EMNLP 2025 Best Social Impact Paper Award**, and [Judging What We Cannot Solve](/research/judging-what-we-cannot-solve/) was selected as an **ICML 2026 Spotlight**.
 
-I received my M.S. from **New York University**, advised by Prof. Ralph Grishman. I contribute to open research through [Cohere For AI's Aya initiative](https://cohere.com/research/aya), [SEACrowd](/service/#open-research-communities), and [CommonLID](https://commonlid.org/), a collaboration involving Common Crawl, EleutherAI, and MLCommons. I also [give invited talks and tutorials](/talks/) and [organize workshops and research challenges](/service/).
+I received my M.S. from **New York University**, advised by Prof. Ralph Grishman. I contribute to open research through [Cohere For AI's Aya initiative](https://cohere.com/research/aya), [SEACrowd](/service/#open-research-communities), and [CommonLID](https://commonlid.org/), a collaboration involving Common Crawl, EleutherAI, and MLCommons. I also [mentor students](/service/#research-mentorship), [give invited talks and tutorials](/talks/), and [organize workshops and research challenges](/service/).
 
 ## Selected papers
 
