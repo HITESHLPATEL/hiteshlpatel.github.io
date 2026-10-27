@@ -2,7 +2,7 @@
 layout: archive
 title: "Service"
 description: "Hitesh Laxmichand Patel's academic service: workshop organization, ACL and EMNLP area chair roles, conference reviewing, mentorship, and open research with Aya, SEACrowd, and CommonLID."
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-26
 permalink: /service/
 author_profile: true
 ---
@@ -10,6 +10,7 @@ author_profile: true
 
 ## Workshop Organization
 
+- **Workshop Organizer**, [Retrieval Beyond Documents (RBD)](https://rbd-workshop.github.io/#organizers) <span class="venue-badge">NAACL'27</span>
 - **Workshop Organizer**, [GRAIL-V: Grounded Retrieval and Agentic Intelligence for Vision-Language](https://grailworkshops.github.io/speakers/) <span class="venue-badge">CVPR'26</span>
 - **Workshop Challenge Organizer**, [DocInsights: Workshop on Document Intelligence and Understanding](https://docinsights-workshop.github.io/docinsights-2026/organizers/) <span class="venue-badge">EMNLP'26</span>
 
@@ -20,11 +21,14 @@ author_profile: true
 
 ## Conference Reviewing
 
+- **ICLR 2025, 2026**.
+- **AAAI**.
+- **WACV**.
 - [**ACL 2025**](https://aclanthology.org/2025.acl-long.0.pdf#page=32).
 - [**EMNLP 2025**](https://aclanthology.org/2025.emnlp-main.0.pdf#page=36).
 - [**KDD 2025 — Applied Data Science Track**](https://kdd.org/kdd2025/applied-data-science-ads-track-program-committee/).
 
-Additional reviewing includes ICLR, NeurIPS, and NAACL.
+Additional reviewing includes NeurIPS and NAACL.
 
 ## Workshop Program Committees & Reviewing
 
