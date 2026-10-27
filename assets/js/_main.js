@@ -35,7 +35,6 @@
   const tail = visible.querySelector('.tail');
   const links = Array.from(visible.children).filter(item => !item.classList.contains('persist'));
   const masthead = document.querySelector('.masthead');
-  const sidebar = document.querySelector('.sidebar');
   const profileButton = document.querySelector('.profile-toggle');
   const profileLinks = document.getElementById('profile-links');
   const mobile = window.matchMedia('(max-width: 924px)');
@@ -68,7 +67,7 @@
     if (keep === links.length) closeMenu(false);
     const headerHeight = masthead.getBoundingClientRect().height;
     document.body.style.paddingTop = headerHeight + 'px';
-    if (sidebar) sidebar.style.paddingTop = mobile.matches ? '' : headerHeight + 'px';
+    document.documentElement.style.setProperty('--masthead-height', headerHeight + 'px');
   }
   menuButton.addEventListener('click', function () {
     const open = menuButton.getAttribute('aria-expanded') !== 'true';
@@ -101,16 +100,6 @@
     });
     mobile.addEventListener('change', function () { closeProfile(false); });
   }
-
-  // Reserve footer space only when its size changes, without polling the page.
-  const footer = document.querySelector('.page__footer');
-  function sizeFooter() {
-    const style = getComputedStyle(footer);
-    document.body.style.marginBottom = (footer.getBoundingClientRect().height + parseFloat(style.marginTop) + parseFloat(style.marginBottom)) + 'px';
-  }
-  if ('ResizeObserver' in window) new ResizeObserver(sizeFooter).observe(footer);
-  else window.addEventListener('resize', sizeFooter);
-  sizeFooter();
 
   let pendingResize = false;
   window.addEventListener('resize', function () {

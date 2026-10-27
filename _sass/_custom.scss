@@ -67,9 +67,33 @@
   }
 
   @include breakpoint($large) {
+    #main {
+      display: grid;
+      grid-template-columns: 220px minmax(0, 1fr);
+      column-gap: 2rem;
+      align-items: start;
+
+      &::before,
+      &::after {
+        content: none;
+      }
+    }
+
     #main > .sidebar {
       width: 220px;
-      margin-right: 0;
+      float: none;
+      margin: 0;
+      padding: 0;
+      height: auto;
+      overflow: visible;
+      position: sticky;
+      top: calc(var(--masthead-height, #{$masthead-height}) + 1rem);
+      transform: none;
+
+      // Let the full profile scroll naturally when the viewport is too short.
+      @media (max-height: 700px) {
+        position: static;
+      }
     }
 
     .page,
@@ -78,7 +102,7 @@
       float: none;
       width: auto;
       max-width: none;
-      margin-left: calc(220px + 2rem);
+      margin-left: 0;
       padding: 0;
     }
   }

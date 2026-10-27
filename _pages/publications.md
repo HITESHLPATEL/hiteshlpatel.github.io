@@ -14,6 +14,14 @@ redirect_from:
 
 ## 2026
 
+- **[MLOps-Bench: Benchmarking AI Agents on Production ML Engineering in Real Repositories](https://aclanthology.org/2026.findings-emnlp.1402/)**.
+<span class="venue-badge">EMNLP'26</span>
+Quoc Co Tran, **Hitesh Laxmichand Patel**, Diwakar Mahajan, Kshitij Bakliwal, Avi Sil, Katrin Kirchhoff
+
+- **[No One Model Catches Every Harm: Benchmarking Content Moderation Across Safety Scenarios](https://aclanthology.org/2026.emnlp-main.1748/)**.
+<span class="venue-badge">EMNLP'26</span><span class="award-badge"><i class="fa-solid fa-star" aria-hidden="true"></i>Award Nomination</span>
+Afshin Oroojlooy, **Hitesh Laxmichand Patel**
+
 - **[Judging What We Cannot Solve: A Consequence-Based Approach for Oracle-Free Evaluation of Research-Level Math](https://arxiv.org/pdf/2602.06291)**.
 <span class="venue-badge">ICML'26</span><span class="award-badge"><i class="fa-solid fa-star" aria-hidden="true"></i>Spotlight</span>
 Guijin Son, Donghun Yang, **Hitesh Laxmichand Patel**, Hyunwoo Ko, Amit Agarwal, Sunghee Ahn, Kyong-Ha Lee, Youngjae Yu
@@ -30,6 +38,10 @@ Guijin Son, Donghun Yang, **Hitesh Laxmichand Patel**, Amit Agarwal, Hyunwoo Ko,
 <span class="venue-badge">WACV'26</span>
 Taki Hasan Rafi, Amit Agarwal, **Hitesh Laxmichand Patel**, Dong-Kyu Chae
 
+- **[Bias Before Disclosure: A Behavioral Audit of LLM Assistants Under User-Identity Uncertainty](https://aclanthology.org/2026.emnlp-main.1758/)**.
+<span class="venue-badge">EMNLP'26</span>
+**Hitesh Laxmichand Patel**, Srikant Panda, Amit Agarwal, Tejaswini Kumar, Bhargava Kumar, Karan Dua, Jyotika Singh, Taki Hasan Rafi, Mithil Bangera, Yeshil Bangera, Gouthami Vadithya
+
 - **[CommonLID: Re-evaluating State-of-the-Art Language Identification Performance on Web Data](https://aclanthology.org/2026.acl-long.1527/)**.
 <span class="venue-badge">ACL'26</span>
 Pedro Ortiz Suarez, Laurie Burchell, Catherine Arnett, Rafael Mosquera-Gómez, Sara Hincapie-Monsalve, Thom Vaughan, Damian Stewart, Malte Ostendorff, Idris Abdulmumin, Vukosi Marivate, Shamsuddeen Hassan Muhammad, Atnafu Lambebo Tonja, Hend Al-Khalifa, Nadia Ghezaiel Hammouda, Verrah Otiende, Tack Hwa Wong, Jakhongir Saydaliev, Melika Nobakhtian, Muhammad Ravi Shulthan Habibi, Chalamalasetti Kranti, Carol Muchemi, Khang Nguyen, Faisal Muhammad Adam, Luis Frentzen Salim, Reem Alqifari, Cynthia Amol, Joseph Marvin Imperial, Ilker Kesen, Ahmad Mustafid, Pavel Stepachev, Leshem Choshen, David Anugraha, Hamada Nayel, Seid Muhie Yimam, Vallerie Alexandra Putra, My Chiffon Nguyen, Azmine Toushik Wasi, Gouthami Vadithya, Rob van der Goot, Lanwenn ar C'horr, Karan Dua, Andrew Yates, Mithil Bangera, Yeshil Bangera, **Hitesh Laxmichand Patel**, Shu Okabe, Fenal Ashokbhai Ilasariya, Dmitry Gaynullin, Genta Indra Winata, Yiyuan Li, Juan Pablo Martínez, Amit Agarwal, Ikhlasul Akmal Hanif, Raia Abu Ahmad, Esther Adenuga, Filbert Aurelian Tjiaranata, Weerayut Buaphet, Michael Anugraha, Sowmya Vajjala, Benjamin Rice, Azril Hafizi Amirudin, Jesujoba O. Alabi, Srikant Panda, Yassine Toughrai, Bruhan Kyomuhendo, Daniel Ruffinelli, Akshata A, Manuel Goulão, Ej Zhou, Ingrid Gabriela Franco Ramirez, Cristina Aggazzotti, Konstantin Dobler, Jun Kevin, Quentin Pagès, Nicholas Andrews, Nuhu Ibrahim, Mattes Ruckdeschel, Amr Keleg, Mike Zhang, Casper Muziri, Saron Samuel, Sotaro Takeshita, Kun Kerdthaisong, Luca Foppiano, Rasul Dent, Tommaso Green, Ahmad Mustapha Wali, Kamohelo Makaaka, Vicky Feliren, Inshirah Idris, Hande Celikkanat, Abdulhamid Abubakar, Jean Maillard, Benoît Sagot, Thibault Clérice, Kenton Murray, Sarah Luger
@@ -37,6 +49,10 @@ Pedro Ortiz Suarez, Laurie Burchell, Catherine Arnett, Rafael Mosquera-Gómez, S
 - **[RECOR: Reasoning-focused Multi-turn Conversational Retrieval Benchmark](https://aclanthology.org/2026.findings-acl.129/)**.
 <span class="venue-badge">ACL'26</span>
 Mohammed Ali, Abdelrahman Abdallah, Amit Agarwal, **Hitesh Laxmichand Patel**, Adam Jatowt
+
+- **[INCLUDE-2.0: Disentangling Knowledge Gaps in Multilingual LLM Evaluation](https://aclanthology.org/2026.emnlp-main.1344/)**.
+<span class="venue-badge">EMNLP'26</span>
+Angelika Romanou, María Grandury, Clara Meister, Negar Foroutan, Jabez Magomere, Anna Sotnikova, **Hitesh Laxmichand Patel**, Akshay Kumar Dubey, Alfonso Amayuelas, Amit Agarwal, Arion Das, Carlos Arriaga, Cheng Yu, Dalia Ali, David Quispe-Castillo, Fenal Ashokbhai Ilasariya, Francisco-Javier Rodrigo-Ginés, Gonzalo Martínez, Gouthami Vadithya, Guido Ivetta, Javier Conde, Jorge Vallego, Juan J. Calderón G., Karan Gupta, Marcos J Gomez, Marvin M. Agüero-Torales, Mithil Bangera, Naira Paola Arnez Jordan, Oscar M. Cumbicus-Pineda, Priyaranjan Pattnayak, Reewos Erwin Talla Chumpitaz, Sahil Aggarwal, Sahil Raj, Shruti Jalan, Srikant Panda, Susana Zhou, Yeshil Bangera, Orestis Papakyriakopoulos, Scott A. Hale, Shamsuddeen Hassan Muhammad, Antoine Bosselut
 
 - **[SPENCE: A Syntactic Probe for Detecting Contamination in NL2SQL Benchmarks](https://aclanthology.org/2026.acl-long.926/)**.
 <span class="venue-badge">ACL'26</span>
