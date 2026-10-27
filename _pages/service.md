@@ -46,12 +46,9 @@ I also served as a mentor for the **ACL Student Research Workshop (SRW), 2025**,
 
 ## Open Research Communities
 
-I contribute to [Cohere For AI's Aya initiative](https://cohere.com/research/aya) and co-author community research on multilingual and multimodal AI:
+I contribute to open research through [Cohere For AI's Aya community](https://cohere.com/research/aya), [SEACrowd](https://seacrowd.org/), the [Multilingual Representation Learning (MRL) community](https://mrlbenchmarks.github.io/previous_tasks.html), and joint initiatives involving [Common Crawl, EleutherAI, and MLCommons](https://commonlid.org/). This work brings together researchers and language communities to build shared multilingual and multimodal resources.
 
-- **[SEACrowd](https://seacrowd.org/contribute.html):** [SEA-VL](https://aclanthology.org/2025.acl-long.916/) and [Anthropogenic Regional Adaptation](https://arxiv.org/abs/2604.11490), spanning Southeast Asian languages and cultures.
-- **[CommonLID](https://aclanthology.org/2026.acl-long.1527/):** language identification for web data, with Common Crawl, EleutherAI, and MLCommons.
-- **[Global PIQA](https://neurips.cc/virtual/2026/poster/139393):** commonsense reasoning across 100+ languages and cultures.
-- **[INCLUDE-2.0](https://aclanthology.org/2026.emnlp-main.1344/):** region-aware multilingual evaluation across 91 languages and 86 countries.
+Collaborative contributions include [SEA-VL](https://aclanthology.org/2025.acl-long.916/), [Anthropogenic Regional Adaptation](https://arxiv.org/abs/2604.11490), [CommonLID](https://aclanthology.org/2026.acl-long.1527/), [Global PIQA](https://neurips.cc/virtual/2026/poster/139393), and [INCLUDE-2.0](https://aclanthology.org/2026.emnlp-main.1344/).
 
 ## Industry Service
 
