@@ -10,7 +10,7 @@ author_profile: true
 
 ## Workshop Organization
 
-**Organizer:** [Retrieval Beyond Documents (NAACL 2027)](https://rbd-workshop.github.io/#organizers), [GRAIL-V (CVPR 2026)](https://grailworkshops.github.io/speakers/).
+**Organizer:** [Retrieval Beyond Documents (NAACL 2027)](https://rbd-workshop.github.io/#organizers), CRAFT (COLING 2027), [GRAIL-V (CVPR 2026)](https://grailworkshops.github.io/speakers/).
 
 **Challenge Organizer:** [DocInsights (EMNLP 2026)](https://docinsights-workshop.github.io/docinsights-2026/organizers/).
 
