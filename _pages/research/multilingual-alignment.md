@@ -1,8 +1,9 @@
 ---
 title: "Multilingual Alignment for Enterprise LLMs"
+seo_title: "Multilingual LLM Alignment | EMNLP 2025"
 description: "Research on fine-tuning LLMs with equivalent multilingual examples to improve consistency across languages. EMNLP 2025 research coauthored by Hitesh Patel."
 permalink: /research/multilingual-alignment/
-last_modified_at: 2026-10-06
+last_modified_at: 2026-10-27
 paper:
   title: "Aligning LLMs for Multilingual Consistency in Enterprise Applications"
   url: "https://aclanthology.org/2025.emnlp-industry.9/"

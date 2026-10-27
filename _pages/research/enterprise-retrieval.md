@@ -1,8 +1,9 @@
 ---
 title: "Hard-Negative Mining for Enterprise Retrieval"
+seo_title: "Hard Negative Mining for Enterprise Retrieval | ACL 2025"
 description: "Research on hard-negative mining for training domain-specific retrieval rerankers in enterprise search and RAG. ACL 2025 research coauthored by Hitesh Patel."
 permalink: /research/enterprise-retrieval/
-last_modified_at: 2026-10-06
+last_modified_at: 2026-10-27
 paper:
   title: "Hard Negative Mining for Domain-Specific Retrieval in Enterprise Systems"
   url: "https://aclanthology.org/2025.acl-industry.72/"

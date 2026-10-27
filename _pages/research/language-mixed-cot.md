@@ -1,8 +1,9 @@
 ---
 title: "Language-Mixed CoT: Training Multilingual Reasoning Models"
+seo_title: "Language-Mixed CoT: Multilingual Reasoning | ICLR 2026"
 description: "Language-Mixed CoT studies reasoning distillation across languages through Korean model training and evaluation. ICLR 2026 research coauthored by Hitesh Patel."
 permalink: /research/language-mixed-cot/
-last_modified_at: 2026-10-06
+last_modified_at: 2026-10-27
 paper:
   title: "Pushing on Multilingual Reasoning Models with Language-Mixed Chain-of-Thought"
   url: "https://proceedings.iclr.cc/paper_files/paper/2026/hash/804b5e300c9ed4e3ea3b073f186f4adc-Abstract-Conference.html"

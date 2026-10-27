@@ -1,8 +1,9 @@
 ---
 title: "SweEval: Multilingual Safety for Enterprise LLMs"
+seo_title: "SweEval: Multilingual LLM Safety Benchmark | NAACL 2025"
 description: "SweEval tests how language models handle requests for offensive language in enterprise communication tasks across tones and cultural contexts."
 permalink: /research/sweeval/
-last_modified_at: 2026-10-06
+last_modified_at: 2026-10-27
 paper:
   title: "SweEval: Do LLMs Really Swear? A Safety Benchmark for Testing Limits for Enterprise Use"
   url: "https://aclanthology.org/2025.naacl-industry.46/"

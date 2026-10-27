@@ -9,6 +9,9 @@
       "@type": "Person",
       "@id": {{ person_id | jsonify }},
       "name": {{ site.author.name | jsonify }},
+      {% if site.author.alternate_names %}
+      "alternateName": {{ site.author.alternate_names | jsonify }},
+      {% endif %}
       "url": {{ seo_url | append: "/" | jsonify }},
       "image": {{ site.og_image | prepend: "/images/" | prepend: seo_url | jsonify }},
       "jobTitle": {{ site.author.job_title | jsonify }},

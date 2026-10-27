@@ -1,8 +1,9 @@
 ---
-title: "AccessEval: Disability Bias in Large Language Models"
-description: "AccessEval evaluates 21 language models across six domains and nine disability types, comparing factual accuracy, sentiment, and social perception."
+title: "AccessEval: Benchmarking Disability Bias in Large Language Models"
+seo_title: "AccessEval: Disability Bias Benchmark | EMNLP 2025"
+description: "AccessEval benchmarks disability bias in 21 LLMs across six domains. EMNLP 2025 Best Social Impact Paper Award. Read the paper, findings, and citation."
 permalink: /research/accesseval/
-last_modified_at: 2026-10-26
+last_modified_at: 2026-10-27
 paper:
   title: "AccessEval: Benchmarking Disability Bias in Large Language Models"
   url: "https://aclanthology.org/2025.emnlp-main.1653/"
@@ -23,6 +24,14 @@ The evaluation considers factual accuracy, sentiment, and social perception. The
 
 ## Paper and citation
 
-Read the [original paper and publication record](https://aclanthology.org/2025.emnlp-main.1653/) for the methodology, results, and citation details. DOI: [10.18653/v1/2025.emnlp-main.1653](https://doi.org/10.18653/v1/2025.emnlp-main.1653).
+- [Read the paper (PDF)](https://aclanthology.org/2025.emnlp-main.1653.pdf)
+- [Official proceedings and citation formats](https://aclanthology.org/2025.emnlp-main.1653/)
+
+Srikant Panda, Amit Agarwal, and Hitesh Laxmichand Patel. 2025. *AccessEval: Benchmarking Disability Bias in Large Language Models*. Proceedings of EMNLP 2025, pages 32504–32530. DOI: [10.18653/v1/2025.emnlp-main.1653](https://doi.org/10.18653/v1/2025.emnlp-main.1653).
+
+## Related evaluation research
+
+- [SweEval: multilingual LLM safety](/research/sweeval/), testing responses to requests for offensive language in enterprise communication.
+- [PCRI: multimodal model evaluation](/research/pcri/), measuring sensitivity to distracting visual context.
 
 Explore my [selected papers](/#selected-papers) and [publications](/publications/).

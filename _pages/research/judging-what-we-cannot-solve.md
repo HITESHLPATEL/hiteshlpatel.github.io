@@ -1,5 +1,6 @@
 ---
 title: "Judging What We Cannot Solve: Evaluating Research-Level Math"
+seo_title: "Judging What We Cannot Solve | ICML 2026 Spotlight"
 description: "Consequence-Based Utility evaluates difficult mathematical solutions through their usefulness on related, verifiable questions. Research coauthored by Hitesh Patel."
 permalink: /research/judging-what-we-cannot-solve/
 last_modified_at: 2026-10-27
@@ -34,5 +35,10 @@ This work contributes to my interest in evaluating reasoning when a model's abil
 ## Paper and citation
 
 - [Official ICML 2026 proceedings and author record](https://proceedings.mlr.press/v306/son26a.html)
+
+## Related reasoning research
+
+- [Language-Mixed CoT: training multilingual reasoning models](/research/language-mixed-cot/).
+- [RECOR: reasoning in conversational retrieval](/research/recor/).
 
 Explore my [selected papers](/#selected-papers) and [more publications](/publications/).

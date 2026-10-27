@@ -1,8 +1,9 @@
 ---
 title: "RECOR: Conversational Retrieval with Reasoning"
+seo_title: "RECOR: Conversational Retrieval Benchmark | ACL 2026"
 description: "RECOR evaluates reasoning-based conversational retrieval across 707 conversations and eleven domains. ACL 2026 Findings research coauthored by Hitesh Patel."
 permalink: /research/recor/
-last_modified_at: 2026-10-06
+last_modified_at: 2026-10-27
 paper:
   title: "RECOR: Reasoning-focused Multi-turn Conversational Retrieval Benchmark"
   url: "https://aclanthology.org/2026.findings-acl.129/"

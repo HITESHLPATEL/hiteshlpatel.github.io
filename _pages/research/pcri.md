@@ -1,8 +1,9 @@
 ---
 title: "PCRI: Context Robustness in Multimodal Models"
+seo_title: "PCRI: Multimodal Context Robustness | EMNLP 2025"
 description: "The Patch Context Robustness Index compares localized image patches with full-image inputs to measure robustness in 19 multimodal models across 15 benchmarks."
 permalink: /research/pcri/
-last_modified_at: 2026-10-06
+last_modified_at: 2026-10-27
 paper:
   title: "PCRI: Measuring Context Robustness in Multimodal Models for Enterprise Applications"
   url: "https://aclanthology.org/2025.emnlp-industry.14/"
