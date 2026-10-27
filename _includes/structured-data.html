@@ -54,7 +54,7 @@
       "@id": {{ page.paper.url | append: "#paper" | jsonify }},
       "url": {{ page.paper.url | jsonify }},
       "name": {{ page.paper.title | jsonify }},
-      "identifier": {{ page.paper.doi | jsonify }},
+      "identifier": {{ page.paper.doi | default: page.paper.identifier | default: page.paper.url | jsonify }},
       "author": [
         {% for author_name in page.paper.authors %}
         {

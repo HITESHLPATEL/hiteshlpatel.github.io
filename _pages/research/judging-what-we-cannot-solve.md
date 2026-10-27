@@ -2,14 +2,14 @@
 title: "Judging What We Cannot Solve: Evaluating Research-Level Math"
 description: "Consequence-Based Utility evaluates difficult mathematical solutions through their usefulness on related, verifiable questions. Research coauthored by Hitesh Patel."
 permalink: /research/judging-what-we-cannot-solve/
-last_modified_at: 2026-10-26
+last_modified_at: 2026-10-27
 paper:
   title: "Judging What We Cannot Solve: A Consequence-Based Approach for Oracle-Free Evaluation of Research-Level Math"
-  url: "https://arxiv.org/abs/2602.06291"
-  doi: "10.48550/arXiv.2602.06291"
+  url: "https://proceedings.mlr.press/v306/son26a.html"
+  identifier: "pmlr-v306-son26a"
   publisher:
-    name: "arXiv"
-    url: "https://arxiv.org/"
+    name: "Proceedings of Machine Learning Research"
+    url: "https://proceedings.mlr.press/"
   authors:
     - Guijin Son
     - Donghun Yang
@@ -33,7 +33,6 @@ This work contributes to my interest in evaluating reasoning when a model's abil
 
 ## Paper and citation
 
-- [Original paper and author record](https://arxiv.org/abs/2602.06291)
-- DOI: [10.48550/arXiv.2602.06291](https://doi.org/10.48550/arXiv.2602.06291)
+- [Official ICML 2026 proceedings and author record](https://proceedings.mlr.press/v306/son26a.html)
 
 Explore my [selected papers](/#selected-papers) and [more publications](/publications/).

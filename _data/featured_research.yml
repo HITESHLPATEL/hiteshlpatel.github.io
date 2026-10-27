@@ -20,7 +20,7 @@
   award: "Spotlight"
   topic: "Reasoning and verification"
   summary: "Evaluating difficult mathematical solutions through their usefulness on related, verifiable problems."
-  paper_url: "https://arxiv.org/abs/2602.06291"
+  paper_url: "https://proceedings.mlr.press/v306/son26a.html"
   authors:
     - Guijin Son
     - Donghun Yang
@@ -132,7 +132,7 @@
   venue: "CVPR 2026"
   topic: "Multimodal and multicultural AI"
   summary: "CultureMix tests vision-language models on images combining cultural elements from different regions and studies fine-tuning to improve consistency."
-  paper_url: "https://arxiv.org/abs/2511.22787"
+  paper_url: "https://openaccess.thecvf.com/content/CVPR2026/papers/Kim_World_in_a_Frame_Understanding_Culture_Mixing_as_a_New_CVPR_2026_paper.pdf"
   authors:
     - Eunsu Kim
     - Junyeong Park

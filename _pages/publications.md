@@ -14,15 +14,15 @@ redirect_from:
 
 ## 2026
 
-- **[MLOps-Bench: Benchmarking AI Agents on Production ML Engineering in Real Repositories](https://aclanthology.org/2026.findings-emnlp.1402/)**.
-<span class="venue-badge">EMNLP'26</span>
-Quoc Co Tran, **Hitesh Laxmichand Patel**, Diwakar Mahajan, Kshitij Bakliwal, Avi Sil, Katrin Kirchhoff
-
 - **[No One Model Catches Every Harm: Benchmarking Content Moderation Across Safety Scenarios](https://aclanthology.org/2026.emnlp-main.1748/)**.
 <span class="venue-badge">EMNLP'26</span><span class="award-badge"><i class="fa-solid fa-star" aria-hidden="true"></i>Award Nomination</span>
 Afshin Oroojlooy, **Hitesh Laxmichand Patel**
 
-- **[Judging What We Cannot Solve: A Consequence-Based Approach for Oracle-Free Evaluation of Research-Level Math](https://arxiv.org/pdf/2602.06291)**.
+- **[MLOps-Bench: Benchmarking AI Agents on Production ML Engineering in Real Repositories](https://aclanthology.org/2026.findings-emnlp.1402/)**.
+<span class="venue-badge">EMNLP'26</span>
+Quoc Co Tran, **Hitesh Laxmichand Patel**, Diwakar Mahajan, Kshitij Bakliwal, Avi Sil, Katrin Kirchhoff
+
+- **[Judging What We Cannot Solve: A Consequence-Based Approach for Oracle-Free Evaluation of Research-Level Math](https://proceedings.mlr.press/v306/son26a.html)**.
 <span class="venue-badge">ICML'26</span><span class="award-badge"><i class="fa-solid fa-star" aria-hidden="true"></i>Spotlight</span>
 Guijin Son, Donghun Yang, **Hitesh Laxmichand Patel**, Hyunwoo Ko, Amit Agarwal, Sunghee Ahn, Kyong-Ha Lee, Youngjae Yu
 
@@ -53,6 +53,9 @@ Mohammed Ali, Abdelrahman Abdallah, Amit Agarwal, **Hitesh Laxmichand Patel**, A
 - **[INCLUDE-2.0: Disentangling Knowledge Gaps in Multilingual LLM Evaluation](https://aclanthology.org/2026.emnlp-main.1344/)**.
 <span class="venue-badge">EMNLP'26</span>
 Angelika Romanou, María Grandury, Clara Meister, Negar Foroutan, Jabez Magomere, Anna Sotnikova, **Hitesh Laxmichand Patel**, Akshay Kumar Dubey, Alfonso Amayuelas, Amit Agarwal, Arion Das, Carlos Arriaga, Cheng Yu, Dalia Ali, David Quispe-Castillo, Fenal Ashokbhai Ilasariya, Francisco-Javier Rodrigo-Ginés, Gonzalo Martínez, Gouthami Vadithya, Guido Ivetta, Javier Conde, Jorge Vallego, Juan J. Calderón G., Karan Gupta, Marcos J Gomez, Marvin M. Agüero-Torales, Mithil Bangera, Naira Paola Arnez Jordan, Oscar M. Cumbicus-Pineda, Priyaranjan Pattnayak, Reewos Erwin Talla Chumpitaz, Sahil Aggarwal, Sahil Raj, Shruti Jalan, Srikant Panda, Susana Zhou, Yeshil Bangera, Orestis Papakyriakopoulos, Scott A. Hale, Shamsuddeen Hassan Muhammad, Antoine Bosselut
+
+- **[Benchmarks Are Not Atomic: Composition-Aware LLM Evaluation using BenchHub](https://neurips.cc/virtual/2026/poster/139267)**.
+<span class="venue-badge">NeurIPS'26</span> Eunsu Kim, Haneul Yoo, Guijin Son, **Hitesh Laxmichand Patel**, Amit Agarwal, Alice Oh
 
 - **[SPENCE: A Syntactic Probe for Detecting Contamination in NL2SQL Benchmarks](https://aclanthology.org/2026.acl-long.926/)**.
 <span class="venue-badge">ACL'26</span>
@@ -100,10 +103,6 @@ Amit Agarwal, **Hitesh Laxmichand Patel**, Srikant Panda, Hansa Meghwani, Jyotik
 <span class="venue-badge">EMNLP'25</span>
 Amit Agarwal, Hansa Meghwani, **Hitesh Laxmichand Patel**, Tao Sheng, Sujith Ravi, Dan Roth
 
-- **[DAIQ: Auditing Demographic Attribute Inference from Question in LLMs](https://www.arxiv.org/pdf/2508.15830)**.
-<span class="venue-badge">Under Review</span>
-Srikant Panda, **Hitesh Laxmichand Patel**, Shahad Al-Khalifa, Amit Agarwal, Hend Al-Khalifa, Sharefah Al-Ghamdi
-
 - **[Towards Robust Continual Test-Time Adaptation via Neighbor Filtration](https://dl.acm.org/doi/10.1145/3746252.3760858)**.
 <span class="venue-badge">CIKM'25</span>
 Taki Hasan Rafi, Amit Agarwal, **Hitesh Laxmichand Patel**, Dong-Kyu Chae
@@ -115,9 +114,6 @@ Vishnu Hari, Kalpana Panda, Srikant Panda, Amit Agarwal, **Hitesh Laxmichand Pat
 - **[LegalMind: An Intelligent Solution for Legal Document Analysis with User-Centric UI and AI-Driven Capabilities in Mobile Devices](https://dl.acm.org/doi/10.1145/3715070.3749262)**.
 <span class="venue-badge">CSCW'25</span>  
 Azmine Toushik Wasi, Mst Rafia Islam, Abdur Rahman, Tawfia Yeasmin, Amit Agarwal, **Hitesh Laxmichand Patel**, Taki Hasan Rafi, Dong-Kyu Chae
-
-- **[BenchHub: A Unified Benchmark Suite for Holistic and Customizable LLM Evaluation](https://arxiv.org/abs/2506.00482)**.
-<span class="venue-badge">Under Review</span> Eunsu Kim, Haneul Yoo, Guijin Son, **Hitesh Laxmichand Patel**, Amit Agarwal, Alice Oh
 
 - **[Crowdsource, Crawl, or Generate? Creating SEA-VL, a Multicultural Vision-Language Dataset for Southeast Asia](https://aclanthology.org/2025.acl-long.916/)**.
 <span class="venue-badge">ACL'25</span>  Samuel Cahyawijaya, Holy Lovenia, Joel Ruben Antony Moniz, Tack Hwa Wong, Mohammad Rifqi Farhansyah, Thant Thiri Maung, Frederikus Hudi, David Anugraha, Muhammad Ravi Shulthan Habibi, Muhammad Reza Qorib, Amit Agarwal, Joseph Marvin Imperial, **Hitesh Laxmichand Patel**, Vicky Feliren, Bahrul Ilmi Nasution, Manuel Antonio Rufino, Genta Indra Winata, Rian Adam Rajagede, Carlos Rafael Catalan, Mohamed Fazli Imam, Priyaranjan Pattnayak, Salsabila Zahirah Pranida, Kevin Pratama, Yeshil Bangera, Adisai Na-Thalang, Patricia Nicole Monderin, Yueqi Song, Christian Simon, Lynnette Hui Xian Ng, Richardy Lobo' Sapan, Taki Hasan Rafi, Bin Wang, Supryadi, Kanyakorn Veerakanjana, Piyalitt Ittichaiwong, Matthew Theodore Roque, Karissa Vincentio, Takdanai Kreangphet, Phakphum Artkaew, Kadek Hendrawan Palgunadi, Yanzhi Yu, Rochana Prih Hastuti, William Nixon, Mithil Bangera, Adrian Xuan Wei Lim, Aye Hninn Khine, Hanif Muhammad Zhafran, Teddy Ferdinan, Audra Aurora Izzani, Ayushman Singh, Evan, Jauza Akbar Krito, Michael Anugraha, Fenal Ashokbhai Ilasariya, Haochen Li, John Amadeo Daniswara, Filbert Aurelian Tjiaranata, Eryawan Presma Yulianrifat, Can Udomcharoenchaikit, Fadil Risdian Ansori, Mahardika Krisna Ihsani, Giang Nguyen, Anab Maulana Barik, Dan John Velasco, Rifo Ahmad Genadi, Saptarshi Saha, Chengwei Wei, Isaiah Flores, Kenneth Ko Han Chen, Anjela Gail Santos, Wan Shen Lim, Kaung Si Phyo, Tim Santos, Meisyarah Dwiastuti, Jiayun Luo, Jan Christian Blaise Cruz, Ming Shan Hee, Ikhlasul Akmal Hanif, M.Alif Al Hakim, Muhammad Rizky Sya'ban, Kun Kerdthaisong, Lester James V. Miranda, Fajri Koto, Tirana Noor Fatyanosa, Alham Fikri Aji, Jostin Jerico Rosal, Jun Kevin, Robert Wijaya, Onno P. Kampman, Ruochen Zhang, Börje F. Karlsson, Peerat Limkonchotiwat.
