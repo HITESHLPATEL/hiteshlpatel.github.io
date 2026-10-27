@@ -59,6 +59,14 @@
   color: var(--global-award-icon-color);
 }
 
+.nomination-icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin-right: 3px;
+  vertical-align: -0.1em;
+}
+
 /* Keep profile pages aligned when navigating between sections. */
 .profile-layout {
   #main,

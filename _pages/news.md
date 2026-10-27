@@ -15,13 +15,18 @@ August 20 two-paper entry with the four-paper version below.
 - 🏆 __August 20, 2026__ Four papers accepted at EMNLP 2026, including three in the Main Conference and one in Findings.
 {% endcomment %}
 
-- <i class="fa-solid fa-medal award-icon" aria-hidden="true"></i> __September 1, 2026__ [No One Model Catches Every Harm](https://aclanthology.org/2026.emnlp-main.1748/) was nominated for an EMNLP 2026 award.
+## 2026
+
+- <span class="award-icon">{% include nomination-icon.html %}</span> __September 1, 2026__ [No One Model Catches Every Harm](https://aclanthology.org/2026.emnlp-main.1748/) was nominated for an EMNLP 2026 award.
 - 🏆 __August 20, 2026__ Two papers accepted at EMNLP 2026, including one in the Main Conference and one in Findings.
 - <i class="fa-solid fa-star award-icon" aria-hidden="true"></i> __April 30, 2026__ One paper accepted at ICML 2026 as a **Spotlight**.
 - 🏆 __April 6, 2026__ Four papers accepted at ACL 2026, including two in the Main conference and two in Findings.
 - 🏆 __March 21, 2026__ One paper accepted at PAKDD 2026 Main Conference.
 - 🏆 __February 20, 2026__ One paper accepted at CVPR 2026 Main Conference.
 - 🏆 __January 26, 2026__ One paper accepted at ICLR 2026 Main Conference.
+
+## 2025
+
 - 🏆 __November 15, 2025__ One paper accepted at WACV 2026 Main Conference.
 - <i class="fa-solid fa-medal award-icon" aria-hidden="true"></i> __November 2, 2025__ [AccessEval: Benchmarking Disability Bias in Large Language Models](https://aclanthology.org/2025.emnlp-main.1653/) received the **Best Social Impact Paper Award** at EMNLP 2025.
 - 🏆 __October 25, 2025__ Two papers accepted at IJCNLP-AACL 2025 Main Conference.
@@ -33,4 +38,7 @@ August 20 two-paper entry with the four-paper version below.
 - 🏆 __March 22, 2025__ Two papers accepted at NAACL 2025: one in the Industry Track and one at the Knowledge NLP Workshop.
 - 🏆 __February 27, 2025__ Two papers accepted at IEEE EIT 2025.
 - 🏆 __January 10, 2025__ One paper accepted at DASFAA 2025, the International Conference on Database Systems for Advanced Applications.
+
+## 2024
+
 - 🏆 __May 5, 2024__ One papers accepted at IEEE 2024.

@@ -15,7 +15,7 @@ redirect_from:
 ## 2026
 
 - **[No One Model Catches Every Harm: Benchmarking Content Moderation Across Safety Scenarios](https://aclanthology.org/2026.emnlp-main.1748/)**.
-<span class="venue-badge">EMNLP'26</span><span class="award-badge"><i class="fa-solid fa-star" aria-hidden="true"></i>Award Nomination</span>
+<span class="venue-badge">EMNLP'26</span><span class="award-badge">{% include nomination-icon.html %}Award Nomination</span>
 Afshin Oroojlooy, **Hitesh Laxmichand Patel**
 
 - **[MLOps-Bench: Benchmarking AI Agents on Production ML Engineering in Real Repositories](https://aclanthology.org/2026.findings-emnlp.1402/)**.
