@@ -259,7 +259,6 @@
 .academic-service__sections {
   margin: 1rem 0 1.5rem;
   padding-inline-start: clamp(0.75rem, 2vw, 1.25rem);
-  border-inline-start: 2px solid var(--global-dark-border-color);
 
   > h3 {
     margin: 1.5rem 0 0.6rem;
@@ -272,6 +271,43 @@
 
   > ul:last-child {
     margin-bottom: 0;
+  }
+}
+
+/* Each publication reads as a title, author line, then venue and recognition. */
+.publication-list {
+  padding-inline-start: 1.1rem;
+
+  > .publication {
+    margin-bottom: 1.7rem;
+    padding-inline-start: 0.15rem;
+  }
+
+  .publication__title {
+    margin: 0 0 0.35rem;
+    font-size: 1.05rem;
+    line-height: 1.4;
+  }
+
+  .publication__authors {
+    margin: 0 0 0.45rem;
+    font-size: clamp(15px, 0.9rem, 17px);
+    line-height: 1.55;
+    color: var(--global-text-color);
+  }
+
+  .publication__meta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.35rem;
+    margin: 0;
+    line-height: 1.5;
+
+    .venue-badge,
+    .award-badge {
+      margin: 0;
+    }
   }
 }
 
