@@ -2,7 +2,7 @@
 layout: archive
 title: "Service"
 description: "Hitesh Laxmichand Patel's academic service: workshop organization, ACL and EMNLP area chair roles, conference reviewing, mentorship, and open research with Aya, SEACrowd, and CommonLID."
-last_modified_at: 2026-10-26
+last_modified_at: 2026-10-27
 permalink: /service/
 author_profile: true
 ---
@@ -16,6 +16,7 @@ author_profile: true
 
 ## Area Chair
 
+- [**EMNLP 2026 — Industry Track**](https://aclanthology.org/2026.emnlp-industry.0.pdf#page=9).
 - [**ACL 2026 — Industry Track**](https://aclanthology.org/2026.acl-industry.0.pdf#page=6).
 - [**EMNLP 2025 — Industry Track**](https://aclanthology.org/2025.emnlp-industry.0.pdf#page=5).
 
