@@ -44,7 +44,7 @@ Taki Hasan Rafi, Amit Agarwal, **Hitesh Laxmichand Patel**, Dong-Kyu Chae
 
 - **[CommonLID: Re-evaluating State-of-the-Art Language Identification Performance on Web Data](https://aclanthology.org/2026.acl-long.1527/)**.
 <span class="venue-badge">ACL'26</span>
-Pedro Ortiz Suarez, Laurie Burchell, Catherine Arnett, Rafael Mosquera-Gómez, Sara Hincapie-Monsalve, Thom Vaughan, Damian Stewart, Malte Ostendorff, Idris Abdulmumin, Vukosi Marivate, Shamsuddeen Hassan Muhammad, Atnafu Lambebo Tonja, Hend Al-Khalifa, Nadia Ghezaiel Hammouda, Verrah Otiende, Tack Hwa Wong, Jakhongir Saydaliev, Melika Nobakhtian, Muhammad Ravi Shulthan Habibi, Chalamalasetti Kranti, Carol Muchemi, Khang Nguyen, Faisal Muhammad Adam, Luis Frentzen Salim, Reem Alqifari, Cynthia Amol, Joseph Marvin Imperial, Ilker Kesen, Ahmad Mustafid, Pavel Stepachev, Leshem Choshen, David Anugraha, Hamada Nayel, Seid Muhie Yimam, Vallerie Alexandra Putra, My Chiffon Nguyen, Azmine Toushik Wasi, Gouthami Vadithya, Rob van der Goot, Lanwenn ar C'horr, Karan Dua, Andrew Yates, Mithil Bangera, Yeshil Bangera, **Hitesh Laxmichand Patel**, Shu Okabe, Fenal Ashokbhai Ilasariya, Dmitry Gaynullin, Genta Indra Winata, Yiyuan Li, Juan Pablo Martínez, Amit Agarwal, Ikhlasul Akmal Hanif, Raia Abu Ahmad, Esther Adenuga, Filbert Aurelian Tjiaranata, Weerayut Buaphet, Michael Anugraha, Sowmya Vajjala, Benjamin Rice, Azril Hafizi Amirudin, Jesujoba O. Alabi, Srikant Panda, Yassine Toughrai, Bruhan Kyomuhendo, Daniel Ruffinelli, Akshata A, Manuel Goulão, Ej Zhou, Ingrid Gabriela Franco Ramirez, Cristina Aggazzotti, Konstantin Dobler, Jun Kevin, Quentin Pagès, Nicholas Andrews, Nuhu Ibrahim, Mattes Ruckdeschel, Amr Keleg, Mike Zhang, Casper Muziri, Saron Samuel, Sotaro Takeshita, Kun Kerdthaisong, Luca Foppiano, Rasul Dent, Tommaso Green, Ahmad Mustapha Wali, Kamohelo Makaaka, Vicky Feliren, Inshirah Idris, Hande Celikkanat, Abdulhamid Abubakar, Jean Maillard, Benoît Sagot, Thibault Clérice, Kenton Murray, Sarah Luger
+Pedro Ortiz Suarez, Laurie Burchell, …, **Hitesh Laxmichand Patel**, et al.
 
 - **[RECOR: Reasoning-focused Multi-turn Conversational Retrieval Benchmark](https://aclanthology.org/2026.findings-acl.129/)**.
 <span class="venue-badge">ACL'26</span>
@@ -52,10 +52,14 @@ Mohammed Ali, Abdelrahman Abdallah, Amit Agarwal, **Hitesh Laxmichand Patel**, A
 
 - **[INCLUDE-2.0: Disentangling Knowledge Gaps in Multilingual LLM Evaluation](https://aclanthology.org/2026.emnlp-main.1344/)**.
 <span class="venue-badge">EMNLP'26</span>
-Angelika Romanou, María Grandury, Clara Meister, Negar Foroutan, Jabez Magomere, Anna Sotnikova, **Hitesh Laxmichand Patel**, Akshay Kumar Dubey, Alfonso Amayuelas, Amit Agarwal, Arion Das, Carlos Arriaga, Cheng Yu, Dalia Ali, David Quispe-Castillo, Fenal Ashokbhai Ilasariya, Francisco-Javier Rodrigo-Ginés, Gonzalo Martínez, Gouthami Vadithya, Guido Ivetta, Javier Conde, Jorge Vallego, Juan J. Calderón G., Karan Gupta, Marcos J Gomez, Marvin M. Agüero-Torales, Mithil Bangera, Naira Paola Arnez Jordan, Oscar M. Cumbicus-Pineda, Priyaranjan Pattnayak, Reewos Erwin Talla Chumpitaz, Sahil Aggarwal, Sahil Raj, Shruti Jalan, Srikant Panda, Susana Zhou, Yeshil Bangera, Orestis Papakyriakopoulos, Scott A. Hale, Shamsuddeen Hassan Muhammad, Antoine Bosselut
+Angelika Romanou, María Grandury, …, **Hitesh Laxmichand Patel**, et al.
 
 - **[Benchmarks Are Not Atomic: Composition-Aware LLM Evaluation using BenchHub](https://neurips.cc/virtual/2026/poster/139267)**.
 <span class="venue-badge">NeurIPS'26</span> Eunsu Kim, Haneul Yoo, Guijin Son, **Hitesh Laxmichand Patel**, Amit Agarwal, Alice Oh
+
+- **[Global PIQA: Evaluating Commonsense Reasoning Across 100+ Languages and Cultures](https://neurips.cc/virtual/2026/poster/139393)**.
+<span class="venue-badge">NeurIPS'26</span>
+Tyler A. Chang, Catherine Arnett, …, **Hitesh Laxmichand Patel**, et al.
 
 - **[SPENCE: A Syntactic Probe for Detecting Contamination in NL2SQL Benchmarks](https://aclanthology.org/2026.acl-long.926/)**.
 <span class="venue-badge">ACL'26</span>
@@ -116,7 +120,7 @@ Vishnu Hari, Kalpana Panda, Srikant Panda, Amit Agarwal, **Hitesh Laxmichand Pat
 Azmine Toushik Wasi, Mst Rafia Islam, Abdur Rahman, Tawfia Yeasmin, Amit Agarwal, **Hitesh Laxmichand Patel**, Taki Hasan Rafi, Dong-Kyu Chae
 
 - **[Crowdsource, Crawl, or Generate? Creating SEA-VL, a Multicultural Vision-Language Dataset for Southeast Asia](https://aclanthology.org/2025.acl-long.916/)**.
-<span class="venue-badge">ACL'25</span>  Samuel Cahyawijaya, Holy Lovenia, Joel Ruben Antony Moniz, Tack Hwa Wong, Mohammad Rifqi Farhansyah, Thant Thiri Maung, Frederikus Hudi, David Anugraha, Muhammad Ravi Shulthan Habibi, Muhammad Reza Qorib, Amit Agarwal, Joseph Marvin Imperial, **Hitesh Laxmichand Patel**, Vicky Feliren, Bahrul Ilmi Nasution, Manuel Antonio Rufino, Genta Indra Winata, Rian Adam Rajagede, Carlos Rafael Catalan, Mohamed Fazli Imam, Priyaranjan Pattnayak, Salsabila Zahirah Pranida, Kevin Pratama, Yeshil Bangera, Adisai Na-Thalang, Patricia Nicole Monderin, Yueqi Song, Christian Simon, Lynnette Hui Xian Ng, Richardy Lobo' Sapan, Taki Hasan Rafi, Bin Wang, Supryadi, Kanyakorn Veerakanjana, Piyalitt Ittichaiwong, Matthew Theodore Roque, Karissa Vincentio, Takdanai Kreangphet, Phakphum Artkaew, Kadek Hendrawan Palgunadi, Yanzhi Yu, Rochana Prih Hastuti, William Nixon, Mithil Bangera, Adrian Xuan Wei Lim, Aye Hninn Khine, Hanif Muhammad Zhafran, Teddy Ferdinan, Audra Aurora Izzani, Ayushman Singh, Evan, Jauza Akbar Krito, Michael Anugraha, Fenal Ashokbhai Ilasariya, Haochen Li, John Amadeo Daniswara, Filbert Aurelian Tjiaranata, Eryawan Presma Yulianrifat, Can Udomcharoenchaikit, Fadil Risdian Ansori, Mahardika Krisna Ihsani, Giang Nguyen, Anab Maulana Barik, Dan John Velasco, Rifo Ahmad Genadi, Saptarshi Saha, Chengwei Wei, Isaiah Flores, Kenneth Ko Han Chen, Anjela Gail Santos, Wan Shen Lim, Kaung Si Phyo, Tim Santos, Meisyarah Dwiastuti, Jiayun Luo, Jan Christian Blaise Cruz, Ming Shan Hee, Ikhlasul Akmal Hanif, M.Alif Al Hakim, Muhammad Rizky Sya'ban, Kun Kerdthaisong, Lester James V. Miranda, Fajri Koto, Tirana Noor Fatyanosa, Alham Fikri Aji, Jostin Jerico Rosal, Jun Kevin, Robert Wijaya, Onno P. Kampman, Ruochen Zhang, Börje F. Karlsson, Peerat Limkonchotiwat.
+<span class="venue-badge">ACL'25</span> Samuel Cahyawijaya, Holy Lovenia, …, **Hitesh Laxmichand Patel**, et al.
 
 - **[MVTamperBench: Evaluating Robustness of Vision-Language Models](https://aclanthology.org/2025.findings-acl.963/)**.
 <span class="venue-badge">ACL'25</span>
