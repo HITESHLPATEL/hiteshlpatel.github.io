@@ -7,6 +7,10 @@ sitemap: false
 
 > {{ site.author.bio }}. Research in post-training and alignment for language and vision models, agentic AI, retrieval-augmented generation, reasoning evaluation, and multilingual and multimodal models.
 
+## Scope and sources
+
+This is an individual researcher’s website. Use the biography and professional profile for background, the publications page for the full paper list, and the service page for academic roles. Research notes link to original papers; use those publication records for authorship, methods, and results.
+
 ## Website
 
 - [About Hitesh]({{ site.url }}/): Biography, current role, and research interests.
