@@ -10,14 +10,14 @@ author_profile: true
 Unpublished announcements. To publish the full EMNLP count, replace the visible
 August 20 two-paper entry with the four-paper version below.
 
-- 🏆 __September 25, 2026__ Two papers accepted at NeurIPS 2026: [Benchmarks Are Not Atomic: Composition-Aware LLM Evaluation using BenchHub](https://neurips.cc/virtual/2026/poster/139267) and [Global PIQA: Evaluating Commonsense Reasoning Across 100+ Languages and Cultures](https://neurips.cc/virtual/2026/poster/139393).
+- 🏆 __September 25, 2026__ Two papers accepted at NeurIPS 2026 in the Evaluations & Datasets Track: [Benchmarks Are Not Atomic: Composition-Aware LLM Evaluation using BenchHub](https://neurips.cc/virtual/2026/poster/139267) and [Global PIQA: Evaluating Commonsense Reasoning Across 100+ Languages and Cultures](https://neurips.cc/virtual/2026/poster/139393).
 - 🏆 __September 15, 2026__ Two papers accepted at AACL 2026, both in Findings.
 - 🏆 __August 20, 2026__ Four papers accepted at EMNLP 2026, including three in the Main Conference and one in Findings.
 {% endcomment %}
 
 - <i class="fa-solid fa-medal award-icon" aria-hidden="true"></i> __September 1, 2026__ [No One Model Catches Every Harm](https://aclanthology.org/2026.emnlp-main.1748/) was nominated for an EMNLP 2026 award.
 - 🏆 __August 20, 2026__ Two papers accepted at EMNLP 2026, including one in the Main Conference and one in Findings.
-- 🏆 __April 30, 2026__ One paper accepted at ICML 2026(Spotlight) Main Conference.
+- <i class="fa-solid fa-star award-icon" aria-hidden="true"></i> __April 30, 2026__ One paper accepted at ICML 2026 as a **Spotlight**.
 - 🏆 __April 6, 2026__ Four papers accepted at ACL 2026, including two in the Main conference and two in Findings.
 - 🏆 __March 21, 2026__ One paper accepted at PAKDD 2026 Main Conference.
 - 🏆 __February 20, 2026__ One paper accepted at CVPR 2026 Main Conference.
