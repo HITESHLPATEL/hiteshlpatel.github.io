@@ -249,6 +249,11 @@
   text-decoration: underline;
   text-decoration-thickness: 1px;
   text-underline-offset: 0.16em;
+
+  &:hover {
+    color: var(--global-link-color-hover);
+    text-decoration-thickness: 2px;
+  }
 }
 
 :root { color-scheme: light; }
@@ -296,6 +301,23 @@ html[data-theme="dark"] { color-scheme: dark; }
 }
 .author__name { font-weight: 700; }
 .author__urls a { min-height: 32px; }
+
+/* Give the profile action a visible boundary and match the site's link palette. */
+.profile-toggle.btn--inverse {
+  color: var(--global-link-color) !important;
+  border-color: var(--global-link-color) !important;
+  background: var(--global-bg-color);
+
+  &:hover,
+  &:focus-visible {
+    color: var(--global-link-color-hover) !important;
+    border-color: var(--global-link-color-hover) !important;
+    background: var(--global-badge-bg-color);
+  }
+}
+
+/* Brand colors that work on white can disappear against the dark surface. */
+html[data-theme="dark"] .social-icons i { color: inherit; }
 
 @include breakpoint(max-width ($large - 1px)) {
   .profile-layout .author__urls {
