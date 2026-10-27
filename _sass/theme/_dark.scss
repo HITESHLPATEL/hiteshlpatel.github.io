@@ -11,10 +11,10 @@ $light-gray                 : mix(#fff, $gray, 50%);
 $background                 : #474747;
 $background-light           : mix(#fff, $background, 80%);
 $background-lighter         : mix(#fff, $background, 90%);
-$text                       : #ffffff;
-$link                       : #c3d2df; // muted blue, 6.0:1 on dark background
-$link-dark                  : #bfcad4;
-$link-light                 : #e1e9ef;
+$text                       : #e5e7eb;
+$link                       : #b4d0f3; // light blue, 5.9:1 on dark background
+$link-dark                  : #b4d0f3;
+$link-light                 : #d9e8fc;
 
 /* Color codes used for the site */
 $danger-color               : #ee5f5b;
@@ -50,15 +50,17 @@ html[data-theme="dark"] {
     --global-masthead-link-color-hover  : #{$link-light};
     --global-nav-hover-bg              : #3d4146;
     --global-text-color                 : #{$text};
-    --global-text-color-light           : #{$light-gray};
+    --global-heading-color              : #f4f6f9;
+    --global-text-color-light           : #c4c9d0;
     --global-thead-color                : #{$background-lighter};
     /* project cards and venue badges (see _sass/_custom.scss) */
     --global-card-bg-color              : #525252;
     --global-card-border-color          : #69727b;
     --global-card-shadow                : 0 4px 12px rgba(0, 0, 0, 0.35);
-    --global-card-heading-color         : #{$text};
-    --global-badge-bg-color             : #3d4146;
-    --global-badge-text-color           : #e2e5e8;
+    --global-card-heading-color         : #f4f6f9;
+    --global-badge-bg-color             : #293d56;
+    --global-badge-text-color           : #c3daf8;
+    --global-badge-border-color         : #526b8a;
     --global-award-bg-color             : #4a3700;
     --global-award-text-color           : #ffe08a; // 8.9:1 on badge bg
     --global-award-icon-color           : #ffd966;

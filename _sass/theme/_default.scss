@@ -36,22 +36,24 @@ $sidebar-screen-min-width   : 1024px;
     --global-code-background-color      : #fafafa;
     --global-code-text-color            : #{$darker-gray};
     --global-fig-caption-color          : #{$light-gray};
-    --global-link-color                 : #234e75; // navy blue, 8.7:1 on white
-    --global-link-color-hover           : #173650;
-    --global-link-color-visited         : #234e75;
+    --global-link-color                 : #35649a; // medium blue, 6.1:1 on white
+    --global-link-color-hover           : #244a75;
+    --global-link-color-visited         : #35649a;
     --global-masthead-link-color        : #{$dark-gray};
-    --global-masthead-link-color-hover  : #173650;
+    --global-masthead-link-color-hover  : #244a75;
     --global-nav-hover-bg              : #f1f2f3;
     --global-text-color                 : #{$dark-gray};
+    --global-heading-color              : #27323f;
     --global-text-color-light           : #{$light-gray};
     --global-thead-color                : #{$lighter-gray};
     /* project cards and venue badges (see _sass/_custom.scss) */
     --global-card-bg-color              : #fff;
     --global-card-border-color          : #{$lighter-gray};
     --global-card-shadow                : 0 4px 12px rgba(0, 0, 0, 0.08);
-    --global-card-heading-color         : #{$dark-gray};
-    --global-badge-bg-color             : #f1f2f3;
-    --global-badge-text-color           : #50565b;
+    --global-card-heading-color         : #27323f;
+    --global-badge-bg-color             : #eaf1fb;
+    --global-badge-text-color           : #2d5888;
+    --global-badge-border-color         : #c9d9ee;
     --global-award-bg-color             : #fff3cd;
     --global-award-text-color           : #6b4300; // 7.8:1 on badge bg
     --global-award-icon-color           : #b8860b; // standalone medal icon, 3.0:1 on white
