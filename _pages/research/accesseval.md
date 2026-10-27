@@ -2,7 +2,7 @@
 title: "AccessEval: Disability Bias in Large Language Models"
 description: "AccessEval evaluates 21 language models across six domains and nine disability types, comparing factual accuracy, sentiment, and social perception."
 permalink: /research/accesseval/
-last_modified_at: 2026-10-06
+last_modified_at: 2026-10-26
 paper:
   title: "AccessEval: Benchmarking Disability Bias in Large Language Models"
   url: "https://aclanthology.org/2025.emnlp-main.1653/"
@@ -25,4 +25,4 @@ The evaluation considers factual accuracy, sentiment, and social perception. The
 
 Read the [original paper and publication record](https://aclanthology.org/2025.emnlp-main.1653/) for the methodology, results, and citation details. DOI: [10.18653/v1/2025.emnlp-main.1653](https://doi.org/10.18653/v1/2025.emnlp-main.1653).
 
-Explore my [research interests](/#research-interests) and [publications](/publications/).
+Explore my [selected papers](/#selected-papers) and [publications](/publications/).

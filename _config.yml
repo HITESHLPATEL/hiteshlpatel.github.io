@@ -104,7 +104,7 @@ author:
   employer_url     : "https://www.oracle.com/"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=R3X_R9UAAAAJ"
-  email            : "firstname.middle.lastname@oracle.com"
+  email            : "hitesh.laxmichand.patel@oracle.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -202,6 +202,7 @@ exclude:
   - log
   - node_modules
   - package.json
+  - package-lock.json
   - tmp
   - vendor
 keep_files:

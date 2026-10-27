@@ -13,6 +13,7 @@ layout: compress
 
   <body{% if page.author_profile or page.body_class %} class="{% if page.author_profile %}profile-layout{% endif %}{% if page.body_class %} {{ page.body_class | escape }}{% endif %}"{% endif %}>
 
+    <a class="skip-link" href="#main">Skip to content</a>
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 

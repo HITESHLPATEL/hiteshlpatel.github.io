@@ -2,7 +2,7 @@
 title: "Judging What We Cannot Solve: Evaluating Research-Level Math"
 description: "Consequence-Based Utility evaluates difficult mathematical solutions through their usefulness on related, verifiable questions. Research coauthored by Hitesh Patel."
 permalink: /research/judging-what-we-cannot-solve/
-last_modified_at: 2026-10-06
+last_modified_at: 2026-10-26
 paper:
   title: "Judging What We Cannot Solve: A Consequence-Based Approach for Oracle-Free Evaluation of Research-Level Math"
   url: "https://arxiv.org/abs/2602.06291"
@@ -36,4 +36,4 @@ This work contributes to my interest in evaluating reasoning when a model's abil
 - [Original paper and author record](https://arxiv.org/abs/2602.06291)
 - DOI: [10.48550/arXiv.2602.06291](https://doi.org/10.48550/arXiv.2602.06291)
 
-Explore my [research interests](/#research-interests) and [more publications](/publications/).
+Explore my [selected papers](/#selected-papers) and [more publications](/publications/).

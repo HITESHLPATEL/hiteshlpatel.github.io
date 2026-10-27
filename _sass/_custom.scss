@@ -243,14 +243,84 @@
   }
 }
 
-/* Links in page content and archive lists: color carries the link,
-   the underline appears on hover and keyboard focus. */
+/* Keep links recognizable without relying on color. */
 .archive a:not(.btn),
 .page__content a:not(.btn) {
-  text-decoration: none;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.16em;
+}
 
-  &:hover,
-  &:focus {
-    text-decoration: underline;
+:root { color-scheme: light; }
+html[data-theme="dark"] { color-scheme: dark; }
+
+:focus-visible {
+  outline: 3px solid var(--global-link-color);
+  outline-offset: 4px;
+}
+
+#main:focus { outline: none; }
+[id] { scroll-margin-top: 6rem; }
+
+.skip-link {
+  position: fixed;
+  top: -10rem;
+  left: 1rem;
+  z-index: 1000;
+  padding: 0.7rem 1rem;
+  background: var(--global-bg-color);
+  color: var(--global-text-color);
+  border: 2px solid var(--global-link-color);
+  &:focus { top: 0.5rem; }
+}
+
+.greedy-nav .theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 44px;
+  min-height: 44px;
+  padding: 0;
+  margin-left: 0.5rem;
+  border: 0;
+  background: transparent;
+  color: var(--global-masthead-link-color);
+  cursor: pointer;
+}
+
+.greedy-nav .nav-toggle { min-width: 44px; min-height: 44px; }
+.navicon { display: block; }
+.greedy-nav a[aria-current="page"] {
+  text-decoration: underline;
+  text-underline-offset: 0.35em;
+}
+.author__name { font-weight: 700; }
+.author__urls a { min-height: 32px; }
+
+@include breakpoint(max-width ($large - 1px)) {
+  .profile-layout .author__urls {
+    position: static;
+    margin: 0.75rem 0 0;
+    padding: 0;
+    border: 0;
+    box-shadow: none;
+    &:before, &:after { display: none; }
+    a { padding: 0.4rem 0; min-height: 44px; }
+  }
+  .profile-toggle { min-height: 44px; }
+}
+
+/* Content and navigation remain available if scripts cannot run. */
+.no-js {
+  .nav-toggle, .theme-toggle, .profile-toggle { display: none; }
+  .greedy-nav .visible-links { display: flex; flex-wrap: wrap; }
+  .author__urls { display: block; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *:before, *:after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
   }
 }

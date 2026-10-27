@@ -12,6 +12,7 @@
       "url": {{ seo_url | append: "/" | jsonify }},
       "image": {{ site.og_image | prepend: "/images/" | prepend: seo_url | jsonify }},
       "jobTitle": {{ site.author.job_title | jsonify }},
+      "alumniOf": { "@type": "CollegeOrUniversity", "name": "New York University", "url": "https://www.nyu.edu/" },
       "description": {{ site.description | jsonify }},
       "knowsAbout": {{ site.author.research_topics | jsonify }},
       "worksFor": {
@@ -34,9 +35,10 @@
       "@id": {{ webpage_id | jsonify }},
       "url": {{ canonical_url | jsonify }},
       "name": {{ page.title | default: site.title | jsonify }},
-      "description": {{ page.description | default: page.excerpt | default: site.description | strip_html | strip_newlines | jsonify }},
+      "description": {{ page.description | default: page.excerpt | default: site.description | markdownify | strip_html | strip_newlines | jsonify }},
       "inLanguage": {{ site.locale | jsonify }},
-      "isPartOf": { "@id": {{ website_id | jsonify }} }
+      "isPartOf": { "@id": {{ website_id | jsonify }} },
+      "author": { "@id": {{ person_id | jsonify }} }
       {% if page.last_modified_at %},
       "dateModified": {{ page.last_modified_at | date_to_xmlschema | jsonify }}
       {% endif %}

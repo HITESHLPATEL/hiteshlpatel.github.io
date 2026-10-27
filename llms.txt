@@ -10,7 +10,7 @@ sitemap: false
 ## Website
 
 - [About Hitesh]({{ site.url }}/): Biography, current role, and research interests.
-- [Publications]({{ site.url }}/publications/): Selected papers with links to their original publication records.
+- [Publications]({{ site.url }}/publications/): Full publication list with links to their original publication records.
 - [Projects]({{ site.url }}/projects/): Work on enterprise generative AI, coding assistants, vision, and document intelligence at Oracle.
 - [Professional profile]({{ site.url }}/cv/): Role, education, research, and professional profiles.
 - [Talks]({{ site.url }}/talks/): Invited talks.
@@ -21,7 +21,7 @@ sitemap: false
 ## Selected research
 
 {% for paper in site.data.featured_research %}
-- [{{ paper.title }}]({{ site.url }}/research/{{ paper.slug }}/): {{ paper.summary }} {{ paper.venue }}{% if paper.award %}; {{ paper.award }}{% endif %}.
+- [{{ paper.title }}]({% if paper.has_research_note == false %}{{ paper.paper_url }}{% else %}{{ site.url }}/research/{{ paper.slug }}/{% endif %}): {{ paper.summary }} {{ paper.venue }}{% if paper.award %}; {{ paper.award }}{% endif %}.
 {% endfor %}
 
 ## Additional benchmarks
