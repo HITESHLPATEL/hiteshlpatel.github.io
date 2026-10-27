@@ -286,11 +286,29 @@ html[data-theme="dark"] { color-scheme: dark; }
   min-width: 44px;
   min-height: 44px;
   padding: 0;
-  margin-left: 0.5rem;
+  margin-left: 0;
   border: 0;
   background: transparent;
   color: var(--global-masthead-link-color);
   cursor: pointer;
+
+  &:hover {
+    color: var(--global-link-color-hover);
+    background: var(--global-nav-hover-bg);
+    border-radius: 4px;
+  }
+}
+
+.theme-icon { display: block; flex: none; }
+.theme-icon--sun { display: none; }
+html[data-theme="dark"] {
+  .theme-icon--moon { display: none; }
+  .theme-icon--sun { display: block; }
+}
+
+.greedy-nav .visible-links > .masthead__menu-item:not(.persist) > a {
+  margin-right: 0.75rem;
+  margin-left: 0.75rem;
 }
 
 .greedy-nav .nav-toggle { min-width: 44px; min-height: 44px; }

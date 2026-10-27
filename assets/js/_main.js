@@ -4,7 +4,6 @@
 
   const root = document.documentElement;
   const themeButton = document.getElementById('theme-toggle');
-  const themeIcon = document.getElementById('theme-icon');
   const themeColor = document.querySelector('meta[name="theme-color"]');
   const preference = window.matchMedia('(prefers-color-scheme: dark)');
   let storedTheme;
@@ -16,8 +15,7 @@
     if (dark) root.setAttribute('data-theme', 'dark');
     else root.removeAttribute('data-theme');
     themeButton.setAttribute('aria-pressed', String(dark));
-    themeIcon.classList.toggle('fa-moon', dark);
-    themeIcon.classList.toggle('fa-sun', !dark);
+    themeButton.title = dark ? 'Switch to light mode' : 'Switch to dark mode';
     themeColor.setAttribute('content', dark ? '#474747' : '#ffffff');
   }
   setTheme(storedTheme || root.getAttribute('data-theme') || (preference.matches ? 'dark' : 'light'));
@@ -50,6 +48,7 @@
   }
   function updateNav() {
     // Measure the full row once, then move overflowing items as one batch.
+    visible.style.width = 'max-content';
     links.forEach(item => visible.insertBefore(item, tail));
     menuButton.classList.remove('hidden');
     const available = nav.getBoundingClientRect().width;
@@ -64,6 +63,8 @@
     links.slice(keep).forEach(item => fragment.appendChild(item));
     overflow.appendChild(fragment);
     menuButton.classList.toggle('hidden', keep === links.length);
+    // Fill the header after measuring: name on the left, controls at the right.
+    visible.style.width = keep === links.length ? '100%' : (available - reserve) + 'px';
     if (keep === links.length) closeMenu(false);
     const headerHeight = masthead.getBoundingClientRect().height;
     document.body.style.paddingTop = headerHeight + 'px';

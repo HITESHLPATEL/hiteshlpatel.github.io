@@ -192,7 +192,9 @@
   .nav-toggle {
     position: absolute;
     height: 2.5rem;
+    top: 50%;
     right: 0;
+    transform: translateY(-50%);
     padding: 0 0.5rem;
     border: 0;
     background-color: var(--global-base-color);
@@ -204,7 +206,7 @@
   .visible-links {
     display: flex;
     align-items: center;
-    width: max-content;
+    width: 100%;
 
     li {
       display: block;
@@ -213,6 +215,7 @@
       &:first-child {
         font-weight: bold;
         text-wrap: wrap;
+        margin-right: auto;
 
         a {
           margin-left: 0;
