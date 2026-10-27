@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Service"
-description: "Hitesh Laxmichand Patel's academic service: workshop organization, EACL, ACL, and EMNLP area chair roles, conference reviewing, mentorship, and open research with Aya, SEACrowd, and CommonLID."
+description: "Workshop organization, academic reviewing, research mentorship, and open research contributions by Hitesh Laxmichand Patel."
 last_modified_at: 2026-10-27
 permalink: /service/
 author_profile: true
@@ -10,9 +10,9 @@ author_profile: true
 
 ## Workshop Organization
 
-- **Workshop Organizer**, [Retrieval Beyond Documents (RBD)](https://rbd-workshop.github.io/#organizers) <span class="venue-badge">NAACL'27</span>
-- **Workshop Organizer**, [GRAIL-V: Grounded Retrieval and Agentic Intelligence for Vision-Language](https://grailworkshops.github.io/speakers/) <span class="venue-badge">CVPR'26</span>
-- **Workshop Challenge Organizer**, [DocInsights: Workshop on Document Intelligence and Understanding](https://docinsights-workshop.github.io/docinsights-2026/organizers/) <span class="venue-badge">EMNLP'26</span>
+**Organizer:** [Retrieval Beyond Documents (NAACL 2027)](https://rbd-workshop.github.io/#organizers), [GRAIL-V (CVPR 2026)](https://grailworkshops.github.io/speakers/).
+
+**Challenge Organizer:** [DocInsights (EMNLP 2026)](https://docinsights-workshop.github.io/docinsights-2026/organizers/).
 
 ## Research Mentorship
 
@@ -42,15 +42,16 @@ I also served as a mentor for the **ACL Student Research Workshop (SRW), 2025**,
 
 **Area Chair (Industry Track):** [EACL 2027](https://2027.eacl.org/calls/industry/), [EMNLP 2026](https://aclanthology.org/2026.emnlp-industry.0.pdf#page=9), [ACL 2026](https://aclanthology.org/2026.acl-industry.0.pdf#page=6), [EMNLP 2025](https://aclanthology.org/2025.emnlp-industry.0.pdf#page=5).
 
-**Reviewer / Program Committee:** ICLR 2025–2026, AAAI, WACV, [ACL 2025](https://aclanthology.org/2025.acl-long.0.pdf#page=32), [EMNLP 2025](https://aclanthology.org/2025.emnlp-main.0.pdf#page=36), [KDD 2025 (ADS)](https://kdd.org/kdd2025/applied-data-science-ads-track-program-committee/), NeurIPS, NAACL; [SURGeLLM (ACL 2026)](https://surgellm.github.io/acl2026/organizers/), [KnowledgeNLP (NAACL 2025)](https://aclanthology.org/2025.knowledgenlp-1.0.pdf#page=5), [WiML (NeurIPS 2024)](https://sites.google.com/wimlworkshop.org/wiml-2024/program).
+**Reviewer / Program Committee:** WACV 2027, AAAI 2026 (AI Alignment Track), ICLR 2025–2026, [ACL 2025](https://aclanthology.org/2025.acl-long.0.pdf#page=32), [EMNLP 2025](https://aclanthology.org/2025.emnlp-main.0.pdf#page=36), [KDD 2025 (ADS)](https://kdd.org/kdd2025/applied-data-science-ads-track-program-committee/), [CIS 2024](https://scrs.in/conference/cis2024/committee/technical-program-committee), NeurIPS, NAACL; [SURGeLLM (ACL 2026)](https://surgellm.github.io/acl2026/organizers/), [KnowledgeNLP (NAACL 2025)](https://aclanthology.org/2025.knowledgenlp-1.0.pdf#page=5), [WiML (NeurIPS 2024)](https://sites.google.com/wimlworkshop.org/wiml-2024/program).
 
 ## Open Research Communities
 
-- **[Cohere For AI's Aya initiative](https://cohere.com/research/aya).** Contribute to open research on multilingual AI.
-- **[SEACrowd](https://seacrowd.org/contribute.html).** Co-author on community-led research advancing AI for Southeast Asian languages and cultures:
-  - *Crowdsource, Crawl, or Generate? Creating SEA-VL: A Multicultural Vision-Language Dataset for Southeast Asia.* <span class="venue-badge">ACL'25</span> [[paper]](https://aclanthology.org/2025.acl-long.916/)
-  - *Anthropogenic Regional Adaptation in Multimodal Vision-Language Model.* <span class="venue-badge">AACL'26</span> [[paper]](https://arxiv.org/abs/2604.11490)
-- **[CommonLID](https://commonlid.org/).** Co-author on a community-built benchmark for language identification in web data, developed through a collaboration involving Common Crawl, EleutherAI, and MLCommons. <span class="venue-badge">ACL'26</span> [[paper]](https://aclanthology.org/2026.acl-long.1527/)
+I contribute to [Cohere For AI's Aya initiative](https://cohere.com/research/aya) and co-author community research on multilingual and multimodal AI:
+
+- **[SEACrowd](https://seacrowd.org/contribute.html):** [SEA-VL](https://aclanthology.org/2025.acl-long.916/) and [Anthropogenic Regional Adaptation](https://arxiv.org/abs/2604.11490), spanning Southeast Asian languages and cultures.
+- **[CommonLID](https://aclanthology.org/2026.acl-long.1527/):** language identification for web data, with Common Crawl, EleutherAI, and MLCommons.
+- **[Global PIQA](https://neurips.cc/virtual/2026/poster/139393):** commonsense reasoning across 100+ languages and cultures.
+- **[INCLUDE-2.0](https://aclanthology.org/2026.emnlp-main.1344/):** region-aware multilingual evaluation across 91 languages and 86 countries.
 
 ## Industry Service
 
