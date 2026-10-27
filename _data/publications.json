@@ -9,7 +9,13 @@
       "Hitesh Laxmichand Patel"
     ],
     "recognition": "Award Nomination",
-    "recognition_type": "nomination"
+    "recognition_type": "nomination",
+    "topics": [
+      "AI safety",
+      "Content moderation",
+      "Safety evaluation",
+      "Adversarial jailbreaks"
+    ]
   },
   {
     "title": "MLOps-Bench: Benchmarking AI Agents on Production ML Engineering in Real Repositories",
@@ -23,6 +29,12 @@
       "Kshitij Bakliwal",
       "Avi Sil",
       "Katrin Kirchhoff"
+    ],
+    "topics": [
+      "AI agents",
+      "Machine learning engineering",
+      "Agent evaluation",
+      "MLOps"
     ]
   },
   {
@@ -41,7 +53,12 @@
       "Youngjae Yu"
     ],
     "recognition": "Spotlight",
-    "recognition_type": "spotlight"
+    "recognition_type": "spotlight",
+    "topics": [
+      "Reasoning evaluation",
+      "Research-level mathematics",
+      "Oracle-free evaluation"
+    ]
   },
   {
     "title": "World in a Frame: Understanding Culture Mixing as a New Challenge for Vision-Language Models",
@@ -61,6 +78,11 @@
       "Fenal Ashokbhai Ilasariya",
       "Hyunjung Shim",
       "Alice Oh"
+    ],
+    "topics": [
+      "Vision-language models",
+      "Cultural evaluation",
+      "Visual question answering"
     ]
   },
   {
@@ -81,6 +103,12 @@
       "Dasol Choi",
       "Kyong-Ha Lee",
       "Youngjae Yu"
+    ],
+    "topics": [
+      "Multilingual reasoning",
+      "Chain-of-thought",
+      "Post-training",
+      "Knowledge distillation"
     ]
   },
   {
@@ -93,6 +121,11 @@
       "Amit Agarwal",
       "Hitesh Laxmichand Patel",
       "Dong-Kyu Chae"
+    ],
+    "topics": [
+      "Test-time adaptation",
+      "Open-set recognition",
+      "Distribution shift"
     ]
   },
   {
@@ -112,6 +145,11 @@
       "Mithil Bangera",
       "Yeshil Bangera",
       "Gouthami Vadithya"
+    ],
+    "topics": [
+      "LLM fairness",
+      "Demographic bias",
+      "Behavioral evaluation"
     ]
   },
   {
@@ -217,7 +255,13 @@
       "Thibault Clérice",
       "Kenton Murray",
       "Sarah Luger"
-    ]
+    ],
+    "topics": [
+      "Language identification",
+      "Multilingual data",
+      "Web corpus curation"
+    ],
+    "doi": "10.18653/v1/2026.acl-long.1527"
   },
   {
     "title": "RECOR: Reasoning-focused Multi-turn Conversational Retrieval Benchmark",
@@ -230,7 +274,13 @@
       "Amit Agarwal",
       "Hitesh Laxmichand Patel",
       "Adam Jatowt"
-    ]
+    ],
+    "topics": [
+      "Conversational retrieval",
+      "Reasoning evaluation",
+      "Information retrieval"
+    ],
+    "doi": "10.18653/v1/2026.findings-acl.129"
   },
   {
     "title": "INCLUDE-2.0: Disentangling Knowledge Gaps in Multilingual LLM Evaluation",
@@ -279,6 +329,11 @@
       "Scott A. Hale",
       "Shamsuddeen Hassan Muhammad",
       "Antoine Bosselut"
+    ],
+    "topics": [
+      "Multilingual evaluation",
+      "Factual knowledge",
+      "Regional knowledge"
     ]
   },
   {
@@ -293,6 +348,11 @@
       "Hitesh Laxmichand Patel",
       "Amit Agarwal",
       "Alice Oh"
+    ],
+    "topics": [
+      "LLM evaluation",
+      "Benchmark composition",
+      "Capability measurement"
     ]
   },
   {
@@ -638,6 +698,11 @@
       "Hila Gonen",
       "Jiayi Wang",
       "David Adelani"
+    ],
+    "topics": [
+      "Commonsense reasoning",
+      "Multilingual evaluation",
+      "Cultural evaluation"
     ]
   },
   {
@@ -694,6 +759,12 @@
       "Sherissa Caren Djuniwar",
       "Cho Chan Myei Oo",
       "Hee Ming Shan"
+    ],
+    "topics": [
+      "Vision-language models",
+      "Regional adaptation",
+      "Multimodal alignment",
+      "Model merging"
     ]
   },
   {
@@ -707,7 +778,13 @@
       "Afshin Oroojlooy",
       "Graham Horwood",
       "Dan Roth"
-    ]
+    ],
+    "topics": [
+      "Benchmark contamination",
+      "Text-to-SQL",
+      "LLM evaluation"
+    ],
+    "doi": "10.18653/v1/2026.acl-long.926"
   },
   {
     "title": "Do Image–Text Metrics Respect Semantic Invariances?",
@@ -727,7 +804,13 @@
       "Tao Sheng",
       "Sujith Ravi",
       "Dan Roth"
-    ]
+    ],
+    "topics": [
+      "Vision-language evaluation",
+      "Image-caption alignment",
+      "Semantic invariance"
+    ],
+    "doi": "10.18653/v1/2026.findings-acl.1948"
   },
   {
     "title": "Think Twice Before You Write -- an Entropy-based Decoding Strategy to Enhance LLM Reasoning",
@@ -747,6 +830,11 @@
       "Tao Sheng",
       "Sujith Ravi",
       "Dan Roth"
+    ],
+    "topics": [
+      "LLM reasoning",
+      "Entropy-guided decoding",
+      "Adaptive inference"
     ]
   },
   {
@@ -765,7 +853,13 @@
       "Taki Hasan Rafi",
       "Dong-Kyu Chae"
     ],
-    "authors_trailing_comma": true
+    "authors_trailing_comma": true,
+    "topics": [
+      "Cultural bias",
+      "Indic languages",
+      "Human-centered evaluation"
+    ],
+    "doi": "10.1007/978-981-92-1947-6_48"
   },
   {
     "title": "AccessEval: Benchmarking Disability Bias in Large Language Models",
@@ -778,7 +872,13 @@
       "Hitesh Laxmichand Patel"
     ],
     "recognition": "Best Social Impact Paper Award",
-    "recognition_type": "award"
+    "recognition_type": "award",
+    "topics": [
+      "Disability bias",
+      "LLM fairness",
+      "Model evaluation"
+    ],
+    "doi": "10.18653/v1/2025.emnlp-main.1653"
   },
   {
     "title": "LLM-Guided Lifecycle-Aware Clustering of Multi-Turn Customer Support Conversations",
@@ -790,7 +890,13 @@
       "Sanchari Chowdhuri",
       "Amit Agarwal",
       "Hitesh Laxmichand Patel"
-    ]
+    ],
+    "topics": [
+      "Conversational AI",
+      "Incremental clustering",
+      "Customer support"
+    ],
+    "doi": "10.18653/v1/2025.ijcnlp-long.170"
   },
   {
     "title": "A Diagnostic Framework for Auditing Reference-Free Vision-Language Metrics",
@@ -805,7 +911,13 @@
       "Priyaranjan Pattnayak",
       "Bhargava Kumar",
       "Tejaswini Kumar"
-    ]
+    ],
+    "topics": [
+      "Vision-language evaluation",
+      "Reference-free metrics",
+      "Cultural evaluation"
+    ],
+    "doi": "10.18653/v1/2025.ijcnlp-long.142"
   },
   {
     "title": "PCRI: Measuring Context Robustness in Multimodal Models for Enterprise Applications",
@@ -822,7 +934,13 @@
       "Tao Sheng",
       "Sujith Ravi",
       "Dan Roth"
-    ]
+    ],
+    "topics": [
+      "Multimodal evaluation",
+      "Visual context",
+      "Model robustness"
+    ],
+    "doi": "10.18653/v1/2025.emnlp-industry.14"
   },
   {
     "title": "FlexDoc: Parameterized Sampling for Diverse Multilingual Synthetic Documents for Training Document Understanding Models",
@@ -840,7 +958,13 @@
       "Hansa Meghwani",
       "Graham Horwood",
       "Fahad Shah"
-    ]
+    ],
+    "topics": [
+      "Synthetic data",
+      "Multilingual documents",
+      "Document understanding"
+    ],
+    "doi": "10.18653/v1/2025.emnlp-industry.105"
   },
   {
     "title": "RCI: A Score for Evaluating Global and Local Reasoning in Multimodal Benchmarks",
@@ -858,7 +982,13 @@
       "Tao Sheng",
       "Sujith Ravi",
       "Dan Roth"
-    ]
+    ],
+    "topics": [
+      "Multimodal reasoning",
+      "Benchmark evaluation",
+      "Global and local visual information"
+    ],
+    "doi": "10.18653/v1/2025.emnlp-industry.10"
   },
   {
     "title": "Aligning LLMs for Multilingual Consistency in Enterprise Applications",
@@ -872,7 +1002,13 @@
       "Tao Sheng",
       "Sujith Ravi",
       "Dan Roth"
-    ]
+    ],
+    "topics": [
+      "Multilingual alignment",
+      "Post-training",
+      "Cross-language consistency"
+    ],
+    "doi": "10.18653/v1/2025.emnlp-industry.9"
   },
   {
     "title": "Towards Robust Continual Test-Time Adaptation via Neighbor Filtration",
@@ -884,7 +1020,13 @@
       "Amit Agarwal",
       "Hitesh Laxmichand Patel",
       "Dong-Kyu Chae"
-    ]
+    ],
+    "topics": [
+      "Continual test-time adaptation",
+      "Distribution shift",
+      "Pseudo-labeling"
+    ],
+    "doi": "10.1145/3746252.3760858"
   },
   {
     "title": "Who's Asking? Investigating Bias Through the Lens of Disability-Framed Queries in LLMs",
@@ -897,6 +1039,11 @@
       "Srikant Panda",
       "Amit Agarwal",
       "Hitesh Laxmichand Patel"
+    ],
+    "topics": [
+      "Disability bias",
+      "Demographic inference",
+      "LLM fairness"
     ]
   },
   {
@@ -913,7 +1060,13 @@
       "Hitesh Laxmichand Patel",
       "Taki Hasan Rafi",
       "Dong-Kyu Chae"
-    ]
+    ],
+    "topics": [
+      "Legal document analysis",
+      "Mobile AI",
+      "Human-computer interaction"
+    ],
+    "doi": "10.1145/3715070.3749262"
   },
   {
     "title": "Crowdsource, Crawl, or Generate? Creating SEA-VL, a Multicultural Vision-Language Dataset for Southeast Asia",
@@ -1013,7 +1166,13 @@
       "Ruochen Zhang",
       "Börje F. Karlsson",
       "Peerat Limkonchotiwat."
-    ]
+    ],
+    "topics": [
+      "Multicultural datasets",
+      "Vision-language models",
+      "Southeast Asian languages"
+    ],
+    "doi": "10.18653/v1/2025.acl-long.916"
   },
   {
     "title": "MVTamperBench: Evaluating Robustness of Vision-Language Models",
@@ -1032,7 +1191,13 @@
       "Hansa Meghwani",
       "Karan Gupta",
       "Dong-Kyu Chae"
-    ]
+    ],
+    "topics": [
+      "Vision-language models",
+      "Adversarial robustness",
+      "Video understanding"
+    ],
+    "doi": "10.18653/v1/2025.findings-acl.963"
   },
   {
     "title": "Hard Negative Mining for Domain-Specific Retrieval in Enterprise Systems",
@@ -1045,7 +1210,14 @@
       "Priyaranjan Pattnayak",
       "Hitesh Laxmichand Patel",
       "Srikant Panda"
-    ]
+    ],
+    "topics": [
+      "Information retrieval",
+      "Hard negative mining",
+      "Reranking",
+      "Domain adaptation"
+    ],
+    "doi": "10.18653/v1/2025.acl-industry.72"
   },
   {
     "title": "SpeechWeave: Diverse Multilingual Synthetic Text & Audio Data Generation Pipeline for Training Text to Speech Models",
@@ -1058,7 +1230,13 @@
       "Ranjeet Gupta",
       "Hitesh Laxmichand Patel"
     ],
-    "authors_trailing_comma": true
+    "authors_trailing_comma": true,
+    "topics": [
+      "Synthetic data",
+      "Multilingual speech",
+      "Text-to-speech"
+    ],
+    "doi": "10.18653/v1/2025.acl-industry.51"
   },
   {
     "title": "SweEval: Do LLMs Really Swear? A Safety Benchmark for Testing Limits for Enterprise Use",
@@ -1075,7 +1253,13 @@
       "Taki Hasan Rafi",
       "Tejaswini Kumar",
       "Dong-Kyu Chae"
-    ]
+    ],
+    "topics": [
+      "AI safety",
+      "Multilingual evaluation",
+      "Offensive language"
+    ],
+    "doi": "10.18653/v1/2025.naacl-industry.46"
   },
   {
     "title": "Hybrid AI for Responsive Multi-Turn Online Conversations with Novel Dynamic Routing and Feedback Adaptation",
@@ -1088,7 +1272,13 @@
       "Hansa Meghwani",
       "Hitesh Laxmichand Patel",
       "Srikant Panda"
-    ]
+    ],
+    "topics": [
+      "Retrieval-augmented generation",
+      "Conversational AI",
+      "Dynamic routing"
+    ],
+    "doi": "10.18653/v1/2025.knowledgenlp-1.20"
   },
   {
     "title": "Instance-Aware Test-Time Adaptation for Domain Generalization",
@@ -1103,7 +1293,13 @@
       "Bhargava Kumar",
       "Dong-Kyu Chae"
     ],
-    "authors_last_and": true
+    "authors_last_and": true,
+    "topics": [
+      "Test-time adaptation",
+      "Domain generalization",
+      "Distribution shift"
+    ],
+    "doi": "10.1007/978-981-95-3827-0_21"
   },
   {
     "title": "Tokenization Matters: Improving Zero-Shot NER for Indic Languages",
@@ -1114,6 +1310,11 @@
       "Priyaranjan Pattnayak",
       "Hitesh Laxmichand Patel",
       "Amit Agarwal"
+    ],
+    "topics": [
+      "Tokenization",
+      "Named entity recognition",
+      "Indic languages"
     ]
   },
   {
@@ -1128,6 +1329,11 @@
       "Bhargava Kumar",
       "Srikant Panda",
       "Tejaswini Kumar"
+    ],
+    "topics": [
+      "Clinical question answering",
+      "Multi-task learning",
+      "Answer extraction"
     ]
   },
   {
@@ -1141,7 +1347,13 @@
       "Bhargava Kumar",
       "Karan Gupta",
       "Priyaranjan Pattnayak"
-    ]
+    ],
+    "topics": [
+      "Synthetic data",
+      "Barcode detection",
+      "Identity documents"
+    ],
+    "doi": "10.1007/978-981-95-0183-0_33"
   },
   {
     "title": "Leveraging Machine Learning for Network Redundancy Optimization, Cost Reduction, and Latency Improvement in IoT Systems",
@@ -1152,6 +1364,11 @@
       "Manvendra Sharma",
       "Karan Gupta",
       "Hitesh Laxmichand Patel"
+    ],
+    "topics": [
+      "Internet of Things",
+      "Network optimization",
+      "Machine learning"
     ]
   },
   {
@@ -1167,6 +1384,12 @@
       "Ishan Banerjee",
       "Srikant Panda",
       "Tejaswini Kumar"
-    ]
+    ],
+    "topics": [
+      "Multimodal models",
+      "Dataset taxonomy",
+      "Multimodal datasets"
+    ],
+    "doi": "10.1007/978-3-032-14041-8_4"
   }
 ]

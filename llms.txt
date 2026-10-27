@@ -13,7 +13,7 @@ This is an individual researcher’s website. Use the biography and professional
 
 ## Machine-readable publications
 
-- [Publication catalog]({{ site.url }}/publications.json): All {{ site.data.publications.size }} listed papers with full authorship and official-record abstracts where verified, in JSON-LD.
+- [Publication catalog]({{ site.url }}/publications.json): All {{ site.data.publications.size }} listed papers with full authorship, site-curated research topics, verified DOI identifiers where available, and source-attributed abstracts, in JSON-LD.
 - [Research and publication text]({{ site.url }}/llms-full.txt): The same bibliography and source-attributed abstracts in a single text file.
 
 ## Website

@@ -10,6 +10,17 @@
     {% endfor %}
   ]
   {% if include.with_abstracts %}
+    {% if include.publication.topics %},
+    "keywords": {{ include.publication.topics | jsonify }}
+    {% endif %}
+    {% if include.publication.doi %},
+    "identifier": {
+      "@type": "PropertyValue",
+      "propertyID": "DOI",
+      "value": {{ include.publication.doi | jsonify }},
+      "url": {{ include.publication.doi | prepend: "https://doi.org/" | jsonify }}
+    }
+    {% endif %}
     {% assign abstract_record = site.data.publication_abstracts[include.publication.url] %}
     {% if abstract_record %},
     "abstract": {{ abstract_record.text | jsonify }}

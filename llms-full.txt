@@ -25,6 +25,9 @@ Publication data (JSON-LD): {{ site.url }}/publications.json
 Authors: {{ publication.authors | join: ", " }}.
 Listing: {{ publication.venue }}.
 Publication record: {{ publication.url }}
+{% if publication.doi %}DOI: https://doi.org/{{ publication.doi }}
+{% endif %}{% if publication.topics %}Topics (site-curated): {{ publication.topics | join: "; " }}.
+{% endif %}
 {% if publication.recognition %}Recognition: {{ publication.recognition }}.
 {% endif %}{% assign abstract_record = site.data.publication_abstracts[publication.url] %}{% if abstract_record %}
 Abstract:
