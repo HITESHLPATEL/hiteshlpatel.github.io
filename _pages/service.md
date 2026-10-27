@@ -8,11 +8,18 @@ author_profile: true
 ---
 {% include base_path %}
 
-## Workshop Organization
+## Academic Service
 
-**Organizer:** [Retrieval Beyond Documents (NAACL 2027)](https://rbd-workshop.github.io/#organizers), CRAFT (COLING 2027), [GRAIL-V (CVPR 2026)](https://grailworkshops.github.io/speakers/).
+### Workshop Organization
 
-**Challenge Organizer:** [DocInsights (EMNLP 2026)](https://docinsights-workshop.github.io/docinsights-2026/organizers/).
+- **Organizer:** [Retrieval Beyond Documents (NAACL 2027)](https://rbd-workshop.github.io/#organizers), CRAFT (COLING 2027), [GRAIL-V (CVPR 2026)](https://grailworkshops.github.io/speakers/).
+- **Challenge Organizer:** [DocInsights (EMNLP 2026)](https://docinsights-workshop.github.io/docinsights-2026/organizers/).
+
+### Reviewing {#academic-reviewing}
+
+- **Area Chair (Industry Track):** [EACL 2027](https://2027.eacl.org/calls/industry/), [EMNLP 2026](https://aclanthology.org/2026.emnlp-industry.0.pdf#page=9), [ACL 2026](https://aclanthology.org/2026.acl-industry.0.pdf#page=6), [EMNLP 2025](https://aclanthology.org/2025.emnlp-industry.0.pdf#page=5).
+- **Conference Reviewer / Program Committee:** WACV 2027, AAAI 2026 (AI Alignment Track), ICLR 2025–2026, [ACL 2025](https://aclanthology.org/2025.acl-long.0.pdf#page=32), [EMNLP 2025](https://aclanthology.org/2025.emnlp-main.0.pdf#page=36), [KDD 2025 (ADS)](https://kdd.org/kdd2025/applied-data-science-ads-track-program-committee/), [CIS 2024](https://scrs.in/conference/cis2024/committee/technical-program-committee), NeurIPS, NAACL.
+- **Workshop Reviewer / Program Committee:** [SURGeLLM (ACL 2026)](https://surgellm.github.io/acl2026/organizers/), [KnowledgeNLP (NAACL 2025)](https://aclanthology.org/2025.knowledgenlp-1.0.pdf#page=5), [WiML (NeurIPS 2024)](https://sites.google.com/wimlworkshop.org/wiml-2024/program).
 
 ## Research Mentorship
 
@@ -39,12 +46,6 @@ Students I've mentored through research projects and internships:
 - [**Kalpana Panda**](https://www.linkedin.com/in/kalpanda/) — BITS Pilani; now at Google.
 
 I also served as a mentor for the **ACL Student Research Workshop (SRW), 2025**, and mentor scientists at Oracle on research development and paper writing.
-
-## Academic Reviewing
-
-- **Area Chair (Industry Track):** [EACL 2027](https://2027.eacl.org/calls/industry/), [EMNLP 2026](https://aclanthology.org/2026.emnlp-industry.0.pdf#page=9), [ACL 2026](https://aclanthology.org/2026.acl-industry.0.pdf#page=6), [EMNLP 2025](https://aclanthology.org/2025.emnlp-industry.0.pdf#page=5).
-- **Conference Reviewer / Program Committee:** WACV 2027, AAAI 2026 (AI Alignment Track), ICLR 2025–2026, [ACL 2025](https://aclanthology.org/2025.acl-long.0.pdf#page=32), [EMNLP 2025](https://aclanthology.org/2025.emnlp-main.0.pdf#page=36), [KDD 2025 (ADS)](https://kdd.org/kdd2025/applied-data-science-ads-track-program-committee/), [CIS 2024](https://scrs.in/conference/cis2024/committee/technical-program-committee), NeurIPS, NAACL.
-- **Workshop Reviewer / Program Committee:** [SURGeLLM (ACL 2026)](https://surgellm.github.io/acl2026/organizers/), [KnowledgeNLP (NAACL 2025)](https://aclanthology.org/2025.knowledgenlp-1.0.pdf#page=5), [WiML (NeurIPS 2024)](https://sites.google.com/wimlworkshop.org/wiml-2024/program).
 
 ## Open Research Communities
 
