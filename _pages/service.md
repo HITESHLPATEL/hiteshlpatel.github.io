@@ -38,29 +38,11 @@ Students I've mentored through research projects and internships:
 
 I also served as a mentor for the **ACL Student Research Workshop (SRW), 2025**, and mentor scientists at Oracle on research development and paper writing.
 
-## Area Chair
+## Academic Reviewing
 
-- [**EACL 2027 — Industry Track**](https://2027.eacl.org/calls/industry/).
-- [**EMNLP 2026 — Industry Track**](https://aclanthology.org/2026.emnlp-industry.0.pdf#page=9).
-- [**ACL 2026 — Industry Track**](https://aclanthology.org/2026.acl-industry.0.pdf#page=6).
-- [**EMNLP 2025 — Industry Track**](https://aclanthology.org/2025.emnlp-industry.0.pdf#page=5).
+**Area Chair (Industry Track):** [EACL 2027](https://2027.eacl.org/calls/industry/), [EMNLP 2026](https://aclanthology.org/2026.emnlp-industry.0.pdf#page=9), [ACL 2026](https://aclanthology.org/2026.acl-industry.0.pdf#page=6), [EMNLP 2025](https://aclanthology.org/2025.emnlp-industry.0.pdf#page=5).
 
-## Conference Reviewing
-
-- **ICLR 2025, 2026**.
-- **AAAI**.
-- **WACV**.
-- [**ACL 2025**](https://aclanthology.org/2025.acl-long.0.pdf#page=32).
-- [**EMNLP 2025**](https://aclanthology.org/2025.emnlp-main.0.pdf#page=36).
-- [**KDD 2025 — Applied Data Science Track**](https://kdd.org/kdd2025/applied-data-science-ads-track-program-committee/).
-
-Additional reviewing includes NeurIPS and NAACL.
-
-## Workshop Program Committees & Reviewing
-
-- **Program Committee**, [SURGeLLM: Structured Understanding, Retrieval, and Generation in the LLM Era](https://surgellm.github.io/acl2026/organizers/) <span class="venue-badge">ACL'26</span>
-- **Reviewer**, [KnowledgeNLP: 4th International Workshop on Knowledge-Augmented Methods for Natural Language Processing](https://aclanthology.org/2025.knowledgenlp-1.0.pdf#page=5) <span class="venue-badge">NAACL'25</span>
-- **Reviewer**, [Women in Machine Learning (WiML) Workshop](https://sites.google.com/wimlworkshop.org/wiml-2024/program) <span class="venue-badge">NeurIPS'24</span>
+**Reviewer / Program Committee:** ICLR 2025–2026, AAAI, WACV, [ACL 2025](https://aclanthology.org/2025.acl-long.0.pdf#page=32), [EMNLP 2025](https://aclanthology.org/2025.emnlp-main.0.pdf#page=36), [KDD 2025 (ADS)](https://kdd.org/kdd2025/applied-data-science-ads-track-program-committee/), NeurIPS, NAACL; [SURGeLLM (ACL 2026)](https://surgellm.github.io/acl2026/organizers/), [KnowledgeNLP (NAACL 2025)](https://aclanthology.org/2025.knowledgenlp-1.0.pdf#page=5), [WiML (NeurIPS 2024)](https://sites.google.com/wimlworkshop.org/wiml-2024/program).
 
 ## Open Research Communities
 
