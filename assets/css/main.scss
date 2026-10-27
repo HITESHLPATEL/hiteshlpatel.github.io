@@ -8,8 +8,6 @@
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
-$fa-font-display: swap;
-
 @import
     "vendor/breakpoint/breakpoint",
 
@@ -38,10 +36,7 @@ $fa-font-display: swap;
     "layout/archive",
     "layout/sidebar",
 
-    "vendor/font-awesome/fontawesome",
-    "vendor/font-awesome/solid",
-    "vendor/font-awesome/brands",
-    "vendor/magnific-popup/magnific-popup",
+    "icons",
 
     "custom"
 ;

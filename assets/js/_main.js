@@ -1,155 +1,122 @@
-/* ==========================================================================
-   jQuery plugin settings and other scripts
-   ========================================================================== */
+/* Small, dependency-free controls for the research site. */
+(function () {
+  'use strict';
 
-$(document).ready(function () {
-  const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-  var storedTheme = null;
-  try { storedTheme = localStorage.getItem("theme"); } catch (error) { /* Storage may be disabled. */ }
-  // detect OS/browser preference
-  const browserPref = window.matchMedia('(prefers-color-scheme: dark)').matches
-    ? 'dark'
-    : 'light';
+  const root = document.documentElement;
+  const themeButton = document.getElementById('theme-toggle');
+  const themeIcon = document.getElementById('theme-icon');
+  const themeColor = document.querySelector('meta[name="theme-color"]');
+  const preference = window.matchMedia('(prefers-color-scheme: dark)');
+  let storedTheme;
+  try { storedTheme = localStorage.getItem('theme'); } catch (_) { /* Storage is optional. */ }
+  if (storedTheme !== 'light' && storedTheme !== 'dark') storedTheme = null;
 
-  // Set the theme on page load or when explicitly called
-  var setTheme = function (theme) {
-    const use_theme =
-      theme ||
-      storedTheme ||
-      $("html").attr("data-theme") ||
-      browserPref;
-
-    $("#theme-toggle").attr("aria-pressed", String(use_theme === "dark"));
-    $('meta[name="theme-color"]').attr("content", use_theme === "dark" ? "#474747" : "#ffffff");
-    if (use_theme === "dark") {
-      $("html").attr("data-theme", "dark");
-      $("#theme-icon").removeClass("fa-sun").addClass("fa-moon");
-    } else if (use_theme === "light") {
-      $("html").removeAttr("data-theme");
-      $("#theme-icon").removeClass("fa-moon").addClass("fa-sun");
-    }
-  };
-
-  setTheme();
-
-  // if user hasn't chosen a theme, follow OS changes
-  window
-    .matchMedia('(prefers-color-scheme: dark)')
-    .addEventListener("change", (e) => {
-      if (!storedTheme) {
-        setTheme(e.matches ? "dark" : "light");
-      }
-    });
-
-  // Toggle the theme manually
-  var toggleTheme = function () {
-    const current_theme = $("html").attr("data-theme");
-    const new_theme = current_theme === "dark" ? "light" : "dark";
-    storedTheme = new_theme;
-    try { localStorage.setItem("theme", new_theme); } catch (error) { /* Keep the theme for this page. */ }
-    setTheme(new_theme);
-  };
-
-  $('#theme-toggle').on('click', toggleTheme);
-
-  // These should be the same as the settings in _variables.scss
-  const scssLarge = 925; // pixels
-
-  // Sticky footer
-  var bumpIt = function () {
-    $("body").css("margin-bottom", $(".page__footer").outerHeight(true));
-  },
-    didResize = false;
-
-  bumpIt();
-
-  $(window).resize(function () {
-    didResize = true;
-  });
-  setInterval(function () {
-    if (didResize) {
-      didResize = false;
-      bumpIt();
-    }
-  }, 250);
-
-  // FitVids init
-  fitvids();
-
-  // Contact links expand in the page flow on small screens.
-  var $profileButton = $(".profile-toggle");
-  var $profileLinks = $("#profile-links");
-  function closeProfile(returnFocus) {
-    $profileButton.removeClass("open").attr("aria-expanded", "false");
-    $profileLinks.css("display", "");
-    if (returnFocus) $profileButton.trigger("focus");
+  function setTheme(theme) {
+    const dark = theme === 'dark';
+    if (dark) root.setAttribute('data-theme', 'dark');
+    else root.removeAttribute('data-theme');
+    themeButton.setAttribute('aria-pressed', String(dark));
+    themeIcon.classList.toggle('fa-moon', dark);
+    themeIcon.classList.toggle('fa-sun', !dark);
+    themeColor.setAttribute('content', dark ? '#474747' : '#ffffff');
   }
-  $profileButton.on("click", function () {
-    var open = $(this).attr("aria-expanded") !== "true";
-    $(this).toggleClass("open", open).attr("aria-expanded", String(open));
-    $profileLinks.toggle(open);
+  setTheme(storedTheme || root.getAttribute('data-theme') || (preference.matches ? 'dark' : 'light'));
+  preference.addEventListener('change', function (event) {
+    if (!storedTheme) setTheme(event.matches ? 'dark' : 'light');
   });
-  $(".author__urls-wrapper").on("keydown", function (event) {
-    if (event.key === "Escape" && $profileButton.attr("aria-expanded") === "true") closeProfile(true);
-  });
-  var wasMobile = $(window).width() < scssLarge;
-  $(window).on("resize", function () {
-    var isMobile = $(window).width() < scssLarge;
-    if (isMobile !== wasMobile) closeProfile(false);
-    wasMobile = isMobile;
+  themeButton.addEventListener('click', function () {
+    storedTheme = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+    try { localStorage.setItem('theme', storedTheme); } catch (_) { /* Keep the page preference. */ }
+    setTheme(storedTheme);
   });
 
-  // Native anchors preserve URL fragments, focus, and reduced-motion preferences.
+  const nav = document.getElementById('site-nav');
+  const menuButton = nav.querySelector('.nav-toggle');
+  const visible = nav.querySelector('.visible-links');
+  const overflow = document.getElementById('navigation-overflow');
+  const tail = visible.querySelector('.tail');
+  const links = Array.from(visible.children).filter(item => !item.classList.contains('persist'));
+  const masthead = document.querySelector('.masthead');
+  const sidebar = document.querySelector('.sidebar');
+  const profileButton = document.querySelector('.profile-toggle');
+  const profileLinks = document.getElementById('profile-links');
+  const mobile = window.matchMedia('(max-width: 924px)');
 
-  // add lightbox class to all image links
-  // Add "image-popup" to links ending in image extensions,
-  // but skip any <a> that already contains an <img>
-  $("a[href$='.jpg'],\
-  a[href$='.jpeg'],\
-  a[href$='.JPG'],\
-  a[href$='.png'],\
-  a[href$='.gif'],\
-  a[href$='.webp']")
-      .not(':has(img)')
-      .addClass("image-popup");
-
-  // 1) Wrap every <p><img> (except emoji images) in an <a> pointing at the image, and give it the lightbox class
-  $('p > img').not('.emoji').each(function() {
-    var $img = $(this);
-    // skip if it’s already wrapped in an <a.image-popup>
-    if ( ! $img.parent().is('a.image-popup') ) {
-      $('<a>')
-        .addClass('image-popup')
-        .attr('href', $img.attr('src'))
-        .insertBefore($img)   // place the <a> right before the <img>
-        .append($img);        // move the <img> into the <a>
+  function closeMenu(returnFocus) {
+    overflow.classList.add('hidden');
+    menuButton.classList.remove('close');
+    menuButton.setAttribute('aria-expanded', 'false');
+    if (returnFocus) menuButton.focus();
+  }
+  function updateNav() {
+    // Measure the full row once, then move overflowing items as one batch.
+    links.forEach(item => visible.insertBefore(item, tail));
+    menuButton.classList.remove('hidden');
+    const available = nav.getBoundingClientRect().width;
+    const widths = links.map(item => item.getBoundingClientRect().width);
+    let width = visible.getBoundingClientRect().width;
+    const reserve = menuButton.getBoundingClientRect().width + 16;
+    let keep = links.length;
+    if (width > available) {
+      while (keep && width > available - reserve) width -= widths[--keep];
     }
+    const fragment = document.createDocumentFragment();
+    links.slice(keep).forEach(item => fragment.appendChild(item));
+    overflow.appendChild(fragment);
+    menuButton.classList.toggle('hidden', keep === links.length);
+    if (keep === links.length) closeMenu(false);
+    const headerHeight = masthead.getBoundingClientRect().height;
+    document.body.style.paddingTop = headerHeight + 'px';
+    if (sidebar) sidebar.style.paddingTop = mobile.matches ? '' : headerHeight + 'px';
+  }
+  menuButton.addEventListener('click', function () {
+    const open = menuButton.getAttribute('aria-expanded') !== 'true';
+    overflow.classList.toggle('hidden', !open);
+    menuButton.classList.toggle('close', open);
+    menuButton.setAttribute('aria-expanded', String(open));
+  });
+  nav.addEventListener('keydown', function (event) {
+    if (event.key === 'Escape' && menuButton.getAttribute('aria-expanded') === 'true') closeMenu(true);
+  });
+  document.addEventListener('click', function (event) {
+    if (!nav.contains(event.target)) closeMenu(false);
   });
 
-  // Magnific-Popup options
-  $(".image-popup").magnificPopup({
-    type: 'image',
-    tLoading: 'Loading image #%curr%...',
-    gallery: {
-      enabled: true,
-      navigateByImgClick: true,
-      preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
-    },
-    image: {
-      tError: '<a href="%url%">Image #%curr%</a> could not be loaded.',
-    },
-    removalDelay: reducedMotion ? 0 : 500, // Delay in milliseconds before popup is removed
-    // Class that is added to body when popup is open.
-    // make it unique to apply your CSS animations just to this exact popup
-    mainClass: 'mfp-zoom-in',
-    callbacks: {
-      beforeOpen: function () {
-        // just a hack that adds mfp-anim class to markup
-        this.st.image.markup = this.st.image.markup.replace('mfp-figure', 'mfp-figure mfp-with-anim');
-      }
-    },
-    closeOnContentClick: true,
-    midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
-  });
+  if (profileButton && profileLinks) {
+    function closeProfile(returnFocus) {
+      profileButton.classList.remove('open');
+      profileButton.setAttribute('aria-expanded', 'false');
+      profileLinks.style.display = '';
+      if (returnFocus) profileButton.focus();
+    }
+    profileButton.addEventListener('click', function () {
+      const open = profileButton.getAttribute('aria-expanded') !== 'true';
+      profileButton.classList.toggle('open', open);
+      profileButton.setAttribute('aria-expanded', String(open));
+      profileLinks.style.display = open ? 'block' : '';
+    });
+    document.querySelector('.author__urls-wrapper').addEventListener('keydown', function (event) {
+      if (event.key === 'Escape' && profileButton.getAttribute('aria-expanded') === 'true') closeProfile(true);
+    });
+    mobile.addEventListener('change', function () { closeProfile(false); });
+  }
 
-});
+  // Reserve footer space only when its size changes, without polling the page.
+  const footer = document.querySelector('.page__footer');
+  function sizeFooter() {
+    const style = getComputedStyle(footer);
+    document.body.style.marginBottom = (footer.getBoundingClientRect().height + parseFloat(style.marginTop) + parseFloat(style.marginBottom)) + 'px';
+  }
+  if ('ResizeObserver' in window) new ResizeObserver(sizeFooter).observe(footer);
+  else window.addEventListener('resize', sizeFooter);
+  sizeFooter();
+
+  let pendingResize = false;
+  window.addEventListener('resize', function () {
+    if (pendingResize) return;
+    pendingResize = true;
+    requestAnimationFrame(function () { updateNav(); pendingResize = false; });
+  });
+  updateNav();
+  if (document.fonts) document.fonts.ready.then(updateNav);
+})();

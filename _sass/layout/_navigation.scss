@@ -202,11 +202,13 @@
   }
 
   .visible-links {
-    display: table;
+    display: flex;
+    align-items: center;
+    width: max-content;
 
     li {
-      display: table-cell;
-      vertical-align: middle;
+      display: block;
+      flex-shrink: 0;
 
       &:first-child {
         font-weight: bold;

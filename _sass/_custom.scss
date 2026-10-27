@@ -313,7 +313,7 @@ html[data-theme="dark"] { color-scheme: dark; }
 /* Content and navigation remain available if scripts cannot run. */
 .no-js {
   .nav-toggle, .theme-toggle, .profile-toggle { display: none; }
-  .greedy-nav .visible-links { display: flex; flex-wrap: wrap; }
+  .greedy-nav .visible-links { display: flex; flex-wrap: wrap; width: auto; }
   .author__urls { display: block; }
 }
 
