@@ -35,6 +35,8 @@ Students I've mentored through research projects and internships:
 ### Undergraduate
 
 - [**Arion Das**](https://sites.google.com/view/ariondasad/home) — B.Tech., Indian Institute of Information Technology Ranchi.
+- [**Vishnu Hari**](https://www.linkedin.com/in/hvishnu/) — BITS Pilani.
+- [**Kalpana Panda**](https://www.linkedin.com/in/kalpanda/) — BITS Pilani.
 
 I also served as a mentor for the **ACL Student Research Workshop (SRW), 2025**, and mentor scientists at Oracle on research development and paper writing.
 
@@ -46,7 +48,7 @@ I also served as a mentor for the **ACL Student Research Workshop (SRW), 2025**,
 
 ## Open Research Communities
 
-I contribute to open research through [Cohere For AI's Aya community](https://cohere.com/research/aya), [SEACrowd](https://seacrowd.org/), the [Multilingual Representation Learning (MRL) community](https://mrlbenchmarks.github.io/previous_tasks.html), and joint initiatives involving [Common Crawl, EleutherAI, and MLCommons](https://commonlid.org/). This work brings together researchers and language communities to build shared multilingual and multimodal resources.
+I contribute to community-driven research through [Cohere For AI's Aya community](https://cohere.com/research/aya), [SEACrowd](https://seacrowd.org/), and the [Multilingual Representation Learning (MRL) community](https://mrlbenchmarks.github.io/previous_tasks.html). My collaborative work also includes joint initiatives involving [Common Crawl, EleutherAI, MLCommons, and Johns Hopkins University](https://commonlid.org/), as well as the [EPFL-led INCLUDE collaboration](https://aclanthology.org/2026.emnlp-main.1344/). These efforts bring together researchers and language communities to build shared multilingual and multimodal resources.
 
 Collaborative contributions include [SEA-VL](https://aclanthology.org/2025.acl-long.916/), [Anthropogenic Regional Adaptation](https://arxiv.org/abs/2604.11490), [CommonLID](https://aclanthology.org/2026.acl-long.1527/), [Global PIQA](https://neurips.cc/virtual/2026/poster/139393), and [INCLUDE-2.0](https://aclanthology.org/2026.emnlp-main.1344/).
 
