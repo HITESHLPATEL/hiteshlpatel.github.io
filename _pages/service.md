@@ -35,8 +35,8 @@ Students I've mentored through research projects and internships:
 ### Undergraduate
 
 - [**Arion Das**](https://sites.google.com/view/ariondasad/home) — B.Tech., Indian Institute of Information Technology Ranchi.
-- [**Vishnu Hari**](https://www.linkedin.com/in/hvishnu/) — BITS Pilani.
-- [**Kalpana Panda**](https://www.linkedin.com/in/kalpanda/) — BITS Pilani.
+- [**Vishnu Hari**](https://www.linkedin.com/in/hvishnu/) — BITS Pilani; now at IMC Trading.
+- [**Kalpana Panda**](https://www.linkedin.com/in/kalpanda/) — BITS Pilani; now at Google.
 
 I also served as a mentor for the **ACL Student Research Workshop (SRW), 2025**, and mentor scientists at Oracle on research development and paper writing.
 
