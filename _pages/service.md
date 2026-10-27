@@ -50,7 +50,7 @@ See also my [invited talks and tutorials](/talks/).
 - **[Cohere For AI's Aya initiative](https://cohere.com/research/aya).** Contribute to open research on multilingual AI.
 - **[SEACrowd](https://seacrowd.org/contribute.html).** Co-author on community-led research advancing AI for Southeast Asian languages and cultures:
   - *Crowdsource, Crawl, or Generate? Creating SEA-VL: A Multicultural Vision-Language Dataset for Southeast Asia.* <span class="venue-badge">ACL'25</span> [[paper]](https://aclanthology.org/2025.acl-long.916/)
-  - *Anthropogenic Regional Adaptation in Multimodal Vision-Language Models.* <span class="venue-badge">arXiv'26</span> [[paper]](https://arxiv.org/abs/2604.11490)
+  - *Anthropogenic Regional Adaptation in Multimodal Vision-Language Model.* <span class="venue-badge">AACL'26</span> [[paper]](https://arxiv.org/abs/2604.11490)
 - **[CommonLID](https://commonlid.org/).** Co-author on a community-built benchmark for language identification in web data, developed through a collaboration involving Common Crawl, EleutherAI, and MLCommons. <span class="venue-badge">ACL'26</span> [[paper]](https://aclanthology.org/2026.acl-long.1527/)
 
 ## Industry Service

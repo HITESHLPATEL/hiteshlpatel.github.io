@@ -61,6 +61,10 @@ Angelika Romanou, María Grandury, Clara Meister, Negar Foroutan, Jabez Magomere
 <span class="venue-badge">NeurIPS'26</span>
 Tyler A. Chang, Catherine Arnett, …, **Hitesh Laxmichand Patel**, et al.
 
+- **[Anthropogenic Regional Adaptation in Multimodal Vision-Language Model](https://arxiv.org/abs/2604.11490)**.
+<span class="venue-badge">AACL'26</span>
+Samuel Cahyawijaya, Peerat Limkonchotiwat, Tack Hwa Wong, **Hitesh Laxmichand Patel**, Amit Agarwal, Manuel Antonio Rufino, Carlos Rafael Catalan, Muhammad Reza Qorib, Vicky Feliren, Holy Lovenia, Aye Hninn Khine, Frederikus Hudi, David Anugraha, Alham Fikri Aji, Romrawin Chumpu, Viet-Thanh Pham, Minghan Wang, Mohamed Fazli Imam, Ruochen Zhang, Joseph Marvin Imperial, Khumaisa Nur'aini, Do Xuan Long, Musa Izzanardi Wijanarko, Joel Ruben Antony Moniz, Patrick Amadeus Irawan, Hanif Muhammad Zhafran, Isaiah Flores, Salsabila Zahirah Pranida, Jun Kevin, Jostin Jerico Rosal, Patricia Nicole Monderin, Kun Kerdthaisong, Ahmad Mustafid, My Chiffon Nguyen, Natchapon Jongwiriyanurak, Siva Worajitwannakul, Haochen Li, Adrian Xuan Wei Lim, Bin Wang, Muhammad Ravi Shulthan Habibi, Lynnette Hui Xian Ng, Mithil Bangera, Yeshil Bangera, Priyaranjan Pattnayak, Dun Li Chan, Sherissa Caren Djuniwar, Cho Chan Myei Oo, Hee Ming Shan
+
 - **[SPENCE: A Syntactic Probe for Detecting Contamination in NL2SQL Benchmarks](https://aclanthology.org/2026.acl-long.926/)**.
 <span class="venue-badge">ACL'26</span>
 Mohammadtaher Safarzadeh, **Hitesh Laxmichand Patel**, Afshin Oroojlooy, Graham Horwood, Dan Roth
