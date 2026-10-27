@@ -20,9 +20,9 @@ Students I've mentored through research projects and internships:
 
 ### Ph.D.
 
+- [**Biddut Sarker Bijoy**](https://www.linkedin.com/in/bsbijoy2050/) — Stony Brook University.
 - [**Barry Menglong Yao**](https://barry-menglong-yao.github.io/) — University of California, Davis.
 - [**Hy Dang**](https://hygiadang.com/) — University of Notre Dame.
-- [**Biddut Sarker Bijoy**](https://www.linkedin.com/in/bsbijoy2050/) — Stony Brook University.
 - [**Huy Nghiem**](https://hnghiem-nlp.github.io/) — University of Maryland, College Park.
 - [**Jiashu He**](https://www.linkedin.com/in/jiashu-jason-he-b246a0170/) — University of Pennsylvania.
 - [**Runjia (Run) Zeng**](https://runjia.tech/) — Rochester Institute of Technology.
