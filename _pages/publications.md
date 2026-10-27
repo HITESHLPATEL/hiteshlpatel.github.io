@@ -59,7 +59,7 @@ Angelika Romanou, María Grandury, Clara Meister, Negar Foroutan, Jabez Magomere
 
 - **[Global PIQA: Evaluating Commonsense Reasoning Across 100+ Languages and Cultures](https://neurips.cc/virtual/2026/poster/139393)**.
 <span class="venue-badge">NeurIPS'26</span>
-Tyler A. Chang, Catherine Arnett, …, **Hitesh Laxmichand Patel**, et al.
+Tyler A. Chang, Catherine Arnett, …, Gorka Urbizu-Garmendia, Gouthami Vadithya, Guijin Son, Gyan S Mohapatra, Hafeez Ullah, Hafsteinn Einarsson, Hai Hu, Hamidreza Saffari, Hamza Zaidi, Haopeng Zhang, Harethah Abu Shairah, Hele-Andra Kuulmets, **Hitesh Laxmichand Patel**, Houda Bouamor, Hwanjo Yu, Iben N Debess, İbrahim Ethem Deveci, Ikhlasul A Hanif, Ikhyun Cho, Inês Vieira, Inês Calvo, Ismail O Daud, Yusuf I Abayomi, Itay Itzhak, Ivan Zhelyazkov, …
 
 - **[Anthropogenic Regional Adaptation in Multimodal Vision-Language Model](https://arxiv.org/abs/2604.11490)**.
 <span class="venue-badge">AACL'26</span>
