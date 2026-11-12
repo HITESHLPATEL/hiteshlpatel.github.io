@@ -5,7 +5,7 @@ sitemap: false
 ---
 # {{ site.author.name }} — Research and publications
 
-> {{ site.author.bio }}.
+> {{ site.author.bio }}. 10 years of experience.
 
 This is a text representation of the public publication list, with abstracts from the linked publication records when available. The HTML publication list is at {{ site.url }}/publications/. An omitted abstract means it has not been verified for this catalog.
 

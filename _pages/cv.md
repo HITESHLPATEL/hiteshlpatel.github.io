@@ -1,9 +1,9 @@
 ---
 layout: archive
 title: "Professional Profile"
-description: "Professional profile of Hitesh Laxmichand Patel: Principal Applied Scientist and Tech Lead at Oracle researching LLM post-training, retrieval, and multimodal AI."
+description: "Hitesh Laxmichand Patel is a Principal Applied Scientist and Tech Lead at Oracle with 10 years of experience, researching LLM post-training, retrieval, and multimodal AI."
 schema_type: ProfilePage
-last_modified_at: 2026-10-06
+last_modified_at: 2026-11-12
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,7 +12,7 @@ redirect_from:
 
 ## Current role
 
-**Hitesh Laxmichand Patel** is a **Principal Applied Scientist and Tech Lead at Oracle**. His research spans LLM post-training and alignment, agentic AI and retrieval-augmented generation, reasoning evaluation, and multilingual and multimodal models.
+**Hitesh Laxmichand Patel** is a **Principal Applied Scientist and Tech Lead at Oracle**, with **10 years of experience**. His research spans LLM post-training and alignment, agentic AI and retrieval-augmented generation, reasoning evaluation, and multilingual and multimodal models.
 
 His [projects](/projects/) include OCI Generative AI Safety, Oracle Code Assist, and OCI Vision and Document Intelligence.
 
