@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Recognition and Awards"
-description: "Recognition for Hitesh Laxmichand Patel, including the EMNLP 2025 Best Social Impact Paper Award for AccessEval, an EMNLP 2026 award nomination, and recognition at Oracle and SYC Technologies."
+description: "Recognition for Hitesh Laxmichand Patel, including the EMNLP 2025 Best Social Impact Paper Award for AccessEval, an EMNLP 2026 award nomination, and recognition at Oracle and Sync Technologies."
 last_modified_at: 2026-11-12
 permalink: /awards/
 author_profile: true
@@ -18,4 +18,4 @@ author_profile: true
 ## Company Awards and Recognition
 
 - **Innovation Award**, Oracle (2025)
-- **Recognition for Outstanding Contributions**, SYC Technologies
+- **Recognition for Outstanding Contributions**, Sync Technologies
